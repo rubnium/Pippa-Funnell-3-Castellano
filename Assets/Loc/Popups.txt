@@ -1,0 +1,70 @@
+SymbolID	SubsetID	Text
+MName		Este nombre no es válido
+MQuit		¿Seguro que quieres salir del juego?
+MChoi		No hay partidas guardadas.
+MQuitAdv		¿Seguro que quieres salir de esta ronda?
+HARWin		¡Bien hecho! Has completado el circuito.
+HARLoose		Tendrás que volver a intentarlo.
+HARDisqualifyFall		Demasiadas caídas.
+HARDisqualifyRefuse		Demasiadas negativas.
+HARDisqualifyTime		Has superado el límite de tiempo.
+HARDisqualifySens		Has saltado la valla en la dirección equivocada.
+HARDisqualifyWrong		Has saltado la valla errónea.
+HARDisqualifyTimeStart		Has superado el límite de tiempo para comenzar.
+HARDisqualifyOG		No tienes suficientes puntos para que te seleccionen. 
+HARQualifyOG		¡Bien hecho! Te han seleccionado.
+HARChaseLoose		Se ha escapado.
+HARRaceWin		Has ganado la carrera.
+HARRaceLoose		Has perdido la carrera.
+MNew1		El nombre del caballo o del jugador no es válido.
+MNew2		Ya existe un juego con ese nombre. Introduce el nombre de otro jugador.
+MRead1		¿Deseas leer este libro? 
+MRead2		No tienes tiempo para leer este libro. 
+MRead3		Se te ha terminado el tiempo de consulta. Tienes que dejar la biblioteca. 
+MBuy1		¿Deseas comprar este objeto? 
+MBuy2		HTTP: Error 404. No encontrado.
+MBuy3		No tienes suficientes créditos para comprar este objeto. 
+MBuy4		Acabas de comprar tu primera tarjeta. Puedes consultarla en tu colección. 
+NeedComplete		¡Cuidado! Tienes que completar todo el día. 
+AnswerNeeds		¡Cuidado! Primero debes atender a las necesidades del caballo. 
+SaveOK		Partida guardada. 
+HBalJadeAim		Acabas de fotografiar a Jade.
+HBalCarollAim		Acabas de fotografiar a Carroll.
+HBalARideRock		Acabas de fotografiar al mensaje en la roca.
+HBalCjonque		Acabas de fotografiar la foto en el ticket.
+HBalCpuitpierreetbois01		¡Acabas de fotografiar al número 1309! 
+HBoxBrush		¿Está limpio tu caballo? ¿Deseas dejar de cepillar?
+HBoxWash		¿Está limpio tu caballo? ¿Deseas dejar de lavar?
+HBoxScrape		¿Están limpias las pezuñas? ¿Deseas dejar de raspar?
+HBoxBoxWash		¿Está limpio el remolque para caballos? ¿Deseas dejar de limpiar?
+HBoxMeedow		¿Deseas que tu caballo salga del prado?
+MDeletePhoto		¿Deseas borrar esta foto?
+MNote		No tienes suficiente tiempo.
+MBoxEnd		¿De verdad quieres salir del remolque para caballos?
+IChoiPopUp		No se ha encontrado ninguna partida guardada.
+HBalTRide_Well1		Acabas de fotografiar un pozo (total 3).
+HBalTRide_Well2		Acabas de fotografiar un pozo (total 3).
+HBalTRide_Well3		Acabas de fotografiar un pozo (total 3).
+HBalTRide_Dubouquin		Acabas de fotografiar al Sr Oldmaster buscando un tesoro.
+HBalTRide_Church		Acabas de fotografiar la capilla.
+HBalARide_TrainStation		Acabas de fotografiar la vieja estación.
+HBalARide_GiantTree		Acabas de fotografiar el abeto gigante.
+HBalARide_Cat		Acabas de fotografiar al gato perdido.
+HBalARide_Cat2		Acabas de fotografiar al gato que se perdió de nuevo.
+HBalCRide_ChineeseTemple		Acabas de fotografiar al templo chino de la colina.
+HBalCRide_OldTree		Acabas de fotografiar al viejo árbol.
+HBalCRide_Bouddha1		Acabas de fotografiar un Buda de cabeza puntiaguda (total 3).
+HBalCRide_Bouddha2		Acabas de fotografiar un Buda de cabeza puntiaguda (total 3).
+HBalCRide_Bouddha3		Acabas de fotografiar un Buda de cabeza puntiaguda (total 3).
+HBalCRide_HorseWild		Acabas de fotografiar al caballo salvaje.
+HBalCRide_Dubouquin		Acabas de fotografiar al Sr Oldmaster buscando tesoros.
+Shop		¿Deseas dejar de comprar?
+Library		¿Deseas salir de la biblioteca?
+Bedroom		¿Deseas salir del dormitorio?
+Lobby		¿Deseas salir del centro de estudiantes?
+Ride		¿Deseas detener el paseo?
+NonValideKey		Esta tecla no es válida o ya se está utilizando
+IChoiDeleteProfil		¿Seguro que quieres borrar este perfil?
+GameSaved		Tu progreso ha sido guardado.
+ResetKeys		¿Deseas reiniciar los controles?
+IOptApply		¿Seguro que quieres aplicar los cambios que has hecho?
