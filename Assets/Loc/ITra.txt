@@ -1,0 +1,7 @@
+SymbolID	SubsetID	Text
+1Player		1
+2Player		2
+3Player		3
+4Player		4
+1Circuit		Circuito
+3Circuits		Competición
