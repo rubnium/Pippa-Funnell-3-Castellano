@@ -1,0 +1,29 @@
+SymbolID	SubsetID	Text
+Level	OptLabel	Nivel de dificultad
+Resolution	OptLabel	Resolución
+Quality	OptLabel	Calidad de los gráficos
+Music	OptLabel	Música
+Sound	OptLabel	Efectos de sonido
+Voice	OptLabel	Voces
+Level1		Principiante
+Level2		Intermedio
+Level3		Avanzado
+Resolution1		640x480
+Resolution2		800x600
+Resolution3		1024x768
+Resolution4		1600x1200
+Quality1		Baja
+Quality2		Media
+Quality3		Alta
+Quality4		Alta + brillo
+Inventory	KeyLabel	Inventario
+Photo	KeyLabel	Modo fotografía
+PhotoTake	KeyLabel	Haz una foto
+PhotoMenu	KeyLabel	Abrir menu de foto
+Jump	KeyLabel	Salto
+Control	KeyLabel	Control
+Diary	KeyLabel	Abrir el cuaderno
+Horse	KeyLabel	Desmontar
+Rectify	KeyLabel	Rectificar
+CircleIncrease	KeyLabel	Aumentar círculo
+CircleReduce	KeyLabel	Reducir círculo
