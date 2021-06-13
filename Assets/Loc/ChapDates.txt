@@ -1,0 +1,23 @@
+SymbolID	SubsetID	Text
+VoixOff_00		Martes, 14 de septiembre 4.30 pm
+VoixOff_01		Domingo, 19 de septiembre 2 pm
+VoixOff_02		Lunes, 20 de septiembre 9 am
+VoixOff_03		La semana del 22 de octubre
+VoixOff_04		Lunes, 22 de octubre 11 am
+VoixOff_05		Viernes, 26 de octubre 5 pm
+VoixOff_06		Domingo, 28 de octubre 9 am
+VoixOff_07		La semana del 22 de noviembre
+VoixOff_08		Viernes, 24 de noviembre 11 am
+VoixOff_09		Sábado 27 de noviembre, 5pm
+VoixOff_10		Domingo, 28 de noviembre 9 am
+VoixOff_11		La semana del 20 de diciembre
+VoixOff_12		Martes, 21 de diciembre 4 pm
+VoixOff_13		Viernes, 24 de diciembre 5 pm
+VoixOff_14		La semana del 18 de abril
+VoixOff_15		Viernes, 20 de abril
+VoixOff_16		Sábado, 24 de abril 2 pm
+VoixOff_17		Domingo, 25 de abril 9 am
+VoixOff_18		La semana del 07 de julio
+VoixOff_19		Viernes, 09 de julio 9 am
+VoixOff_20		Domingo, 12 de julio 8 am
+VoixOff_21		Domingo, 12 de julio 9 am
