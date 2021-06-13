@@ -1,0 +1,33 @@
+SymbolID	SubsetID	Text
+Back		Atrás
+Wait		Esperar
+Step		Paso normal
+Trot		Trote normal
+SmallGallop		Galope corto
+Gallop		Galope normal
+BigGallop		Galope completo
+LongStep	FigDress	Paso amplio
+LongTrot	FigDress	Trote amplio
+LongGallop	FigDress	Galope amplio
+GatherStep	FigDress	Paso corto
+GatherTrot	FigDress	Trote corto
+GatherGallop	FigDress	Galope corto
+Pirouette	FigDress	Pirueta media al paso
+PirouetteAtCanter	FigDress	Pirueta en galope
+Salute	FigDress	Parada y saludo
+TurnLeft		Giro a la izquierda
+TurnRight		Giro a la derecha
+Jump		Salto
+FlyingChange	FigDress	Cambio al vuelo
+Refuse		Negativa
+Fall		Caída
+HalfPassCanter	FigDress	Medio paso al galope
+ShoulderIn	FigDress	Paso sesgado
+Passage	FigDress	Pasaje
+Week		Semana
+Eliminated		Eliminada
+StoppedRefuse		Negativa y parada
+LockedFigure		(Figura desconocida)
+Toscane		Toscana
+Alsace		Alsacia
+Chine		China
