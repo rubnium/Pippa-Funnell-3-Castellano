@@ -1,0 +1,23 @@
+SymbolID	SubsetID	Text
+VoixOff_00		El día que conocí al extraño Señor Oldmaster
+VoixOff_01		La víspera de mi primera competición
+VoixOff_02		Competición con la academia australiana
+VoixOff_03		La Academia Sycamore alberga la francesa Academia Pinewood
+VoixOff_04		Un desafío misterioso
+VoixOff_05		Un admirador secreto
+VoixOff_06		Competición con la Academia Pinewood
+VoixOff_07		Invierno en el este de Francia
+VoixOff_08		El pasado de Jade / Parte 1
+VoixOff_09		El pasado de Jade / Parte 2
+VoixOff_10		Competición con el Equipo B de la Academia Beachwood
+VoixOff_11		Una semana negra 
+VoixOff_12		Un golpe cruel
+VoixOff_13		Penitencia navideña
+VoixOff_14		Primavera oriental
+VoixOff_15		Una tarde junto al fuego
+VoixOff_16		Love makeover
+VoixOff_17		Competition with the Cherry Tree Academy / Semi-final
+VoixOff_18		Desenlace
+VoixOff_19		Problemas de flujo de caja
+VoixOff_20		Una posibilidad remota
+VoixOff_21		Competición con la Academia Beachwood / FINAL
