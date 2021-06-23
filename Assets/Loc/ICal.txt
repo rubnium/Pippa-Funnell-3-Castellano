@@ -1,0 +1,12 @@
+SymbolID	SubsetID	Text
+Cross		Campo a través
+Jump		Exhibición de salto
+Dressage		Doma de exhibición
+Box		Cuidado del caballo
+Ride		Montar a caballo
+Mime		Diálogo con potro
+Bedroom		Ver armario, ver colección
+Lobby		Chatear, navegar en línea, escuchar música
+Library		Leer un libro en la biblioteca
+Learning		Entrenando al potro
+Shop		Ir de compras
