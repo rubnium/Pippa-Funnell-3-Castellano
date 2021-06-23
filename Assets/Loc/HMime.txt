@@ -1,0 +1,33 @@
+SymbolID	SubsetID	Text
+Care		Atención médica
+Game		Jugar
+Education		Aprender
+Tenderness		Afecto
+Feed		Alimentar al potro
+Ulcer		Inyectar al potro
+Constipation		Dar al potro laxantes
+Flu		Dar al potro la medicación contra la gripe 
+Limp		Ayudar al potro con los movimientos ortopédicos
+BloodHit		Enfriar al potro con una esponja
+Uveite		Dar al potro gotas para los ojos
+Halter		Poner un cabestro al potro
+Impatience		Dar heno al potro
+LegUp		Levantar las pezuñas del potro
+Milk		Enseñar al potro a tomar otra leche que no sea la de su madre
+Nervous		Enseñar al potro a no encabritarse
+Scold		Regañar al potro
+Trot		Dar al potro ejercicio
+Ball		Utilizar la pelota con asas
+Cat		Presentar el potro a un gato
+HangedBall		Utilizar el balón con cuerda
+LegsOnShoulders		Enseñar al potro a hacer una jambada
+Longe		Pasear al potro con una correa
+HangedTire		Deja que el potro se divierta
+Music		Poner música al potro
+Brush		Cepillar al potro
+Caress		Acariciar al potro
+WalkWithMother		Dejar que el potro camine con su madre
+HeadScratch		Rascar el potro
+Kiss		Besar al potro en la nariz
+Sleep		Dejar que el potro duerma
+Murmur		Susurrar al potro
