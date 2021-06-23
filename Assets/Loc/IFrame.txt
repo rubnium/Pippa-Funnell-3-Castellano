@@ -1,0 +1,17 @@
+SymbolID	SubsetID	Text
+TRide_Well1		Pozo 
+TRide_Well2		Pozo 
+TRide_Well3		Pozo 
+TRide_Dubouquin		Sr Oldmaster
+TRide_Church		Capilla
+ARide_TrainStation		Vieja estación
+ARide_GiantTree		Árbol gigante
+ARide_Cat		Gato perdido
+ARide_Cat2		Gato que se perdió de nuevo
+CRide_ChineeseTemple		Templo chino
+CRide_OldTree		Viejo árbol
+CRide_Bouddha1		Buda de cabeza puntiaguda
+CRide_Bouddha2		Buda de cabeza puntiaguda
+CRide_Bouddha3		Buda de cabeza puntiaguda
+CRide_HorseWild		Caballo salvaje
+CRide_Dubouquin		Sr Oldmaster
