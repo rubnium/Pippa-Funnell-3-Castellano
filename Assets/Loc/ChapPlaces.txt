@@ -1,0 +1,23 @@
+SymbolID	SubsetID	Text
+VoixOff_00		Academia Sycamore, Toscana
+VoixOff_01		Academia Sycamore, Toscana
+VoixOff_02		Academia Sycamore, Toscana
+VoixOff_03		Academia Sycamore, Toscana
+VoixOff_04		Academia Sycamore, Toscana
+VoixOff_05		Academia Sycamore, Toscana
+VoixOff_06		Academia Sycamore, Toscana
+VoixOff_07		Academia Beachwood, Alsacia
+VoixOff_08		Academia Beachwood, Alsacia
+VoixOff_09		Academia Beachwood, Alsacia
+VoixOff_10		Academia Beachwood, Alsacia
+VoixOff_11		Academia Beachwood, Alsacia
+VoixOff_12		Academia Beachwood, Alsacia
+VoixOff_13		Academia Beachwood, Alsacia
+VoixOff_14		Academia Cherry Tree, China
+VoixOff_15		Academia Cherry Tree, China
+VoixOff_16		Academia Cherry Tree, China
+VoixOff_17		Academia Cherry Tree, China
+VoixOff_18		Academia Cherry Tree, China
+VoixOff_19		Academia Cherry Tree, China
+VoixOff_20		Academia Cherry Tree, China
+VoixOff_21		Academia Cherry Tree, China
