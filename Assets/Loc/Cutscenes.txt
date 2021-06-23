@@ -1,0 +1,51 @@
+SymbolID	SubsetID	Text
+Intro01		Apoteosis
+Intro02		Hacia adelante
+Intro03		De vuelta a la escuela
+CS00Harry		Caballos salvajes
+CS00Save		Salvador de la vida
+CS00End		Bienvenido
+CS01Intro		Juegos de cartas
+CS01Chap		Puentes que se derrumban
+CS01Jump		Ayuda
+CS01End		Extraño Sr Oldmaster
+CS02Intro		Petición de Jade
+CS02Radio		En las ondas
+CS02Chat		En línea con Miguel
+CS02End		Advertencia de Jade
+Compet01End		La primera competición
+CS03Intro		El reto de Jade
+CS03EndA		El nacimiento
+CS03EndB		El potro
+CS04Intro		Un encuentro misterioso
+CS04End		Un anillo encantador
+Compet02End		La segunda competición
+Week02End		Hablando de las cosas
+CS05Intro		Abajo con el Director
+CS05End		Flora vs Jade
+CS06Intro		El remordimiento de Jade
+CS06Bar		Reunión
+CS06BarB		Concierto
+CS06End		Hablando con Spike
+Compet03End		La tercera competición
+CS07Intro		El plan de Spike
+CS07End		Esteban atrapado
+CS08Intro		Penitencia navideña
+CS08End		Un regalo misterioso
+Compet04Start		Amenazas y chantajes
+Compet04End		La cuarta competición
+Week04EndA		La ultima esperanza
+Week04EndB		La Academia Cherry Tree
+CS09Intro		Ira injustificada
+CS09End		Hoguera
+CS10Intro		Cambio de estilo
+CS10End		El amor está en el aire
+Compet05End		La quinta competición
+CS11Intro		Problemas de flujo de caja
+CS11End		Flora, chica milagrosa
+CS12Intro		Atacado
+CS12IntroB		Encerrado
+CS12Free		Saliendo
+Compet06End		La sexta competición
+EndGame		Final feliz
+GameOver		Fin del juego
