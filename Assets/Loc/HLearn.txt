@@ -1,0 +1,27 @@
+SymbolID	SubsetID	Text	Character
+Step		Camina	
+Trot		Trota	
+Gallop		Galopa	
+Learn_AskSpeedUp01		¡Vamos!	Flora
+Learn_AskSpeedUp02		¡Más rápido!	Flora
+Learn_AskSpeedUp03		¡Vamosss!	Flora
+Learn_AskSpeedUp04		¡Muévete!	Flora
+Learn_AskSpeedUp05		¡Más!	Flora
+Learn_AskSpeedDown01		Ahora fácil	Flora
+Learn_AskSpeedDown02		Suavemente	Flora
+Learn_AskSpeedDown03		Lento	Flora
+Learn_AskSpeedDown04		Más lento	Flora
+Learn_AskSpeedDown05		¡Wuuu!	Flora
+Learn_AskTurnBack01		Da la vuelta	Flora
+Learn_AskTurnBack02		De vuelta al otro lado, ahora.	Flora
+Learn_AskTurnBack03		Nos damos la vuelta	Flora
+Learn_Congraculate01		¡Bien hecho!	Flora
+Learn_Congraculate02		¡Muy bien!	Flora
+Learn_Congraculate03		Sigue así	Flora
+Learn_Congraculate04		Sí	Flora
+Learn_Congraculate05		Genial	Flora
+Learn_Scold01		¡Haz lo que te digo!	Flora
+Learn_Scold02		¡Correcto! ¡Y otra vez!	Flora
+Learn_Scold03		¿Es eso?	Flora
+Learn_Scold04		¡Me voy a enfadar!	Flora
+Learn_Scold05		¡Deja de hacer el tonto!	Flora
