@@ -1,0 +1,88 @@
+SymbolID	SubsetID	Text
+TCro1		Toscana: Campo a través 1
+TCro1Descr		Un recorrido corto campo a través con vallas bajas que no presentan grandes dificultades. Ten cuidado con las vallas 4 y 11 que pueden sorprender a los caballos, así como la estrecha número 7.
+TCro2		Toscana: Campo a través 2
+TCro2Descr		Un recorrido corto y sencillo de 14 vallas. Ten cuidado con las vallas extendidas 4 y 8, así como con la valla 12 que puede parecer más alta de lo habitual.
+TCro3		Toscana: Campo a través 3
+TCro3Descr		El recorrido temprano no presenta dificultades. Las etapas finales comienzan a serpentear de forma bastante abrupta, por lo que tendrás que controlar tu montura. Cuidado con las vallas extendidas o más altas. 
+TCro4		Toscana: Campo a través 4
+TCro4Descr		El comienzo es todo giros y vueltas. Hay 2 combinaciones dobles, 2 extensiones (6 y 13) y 2 vallas elevadas (8 y 10), un peligro para los rechazos y las caídas.
+TDre1		Toscana: Doma de exhibición 1
+TDre1Descr		 
+TDre2		Toscana: Doma de exhibición 2
+TDre2Descr		 
+TDre3		Toscana: Doma de exhibición 3
+TDre3Descr		 
+TDre4		Toscana: Doma de exhibición 4
+TDre4Descr		 
+TJum1		Toscana: Muestra de salto 1
+TJum1Descr		Un recorrido de muestra de salto fácil y agradable. Aunque hay pocas vallas, hay que tener cuidado con la triple barra del final. 
+TJum2		Toscana: Muestra de salto 2
+TJum2Descr		Un recorrido con muy pocas vallas, 7 en total, compuesto principalmente por verticales. Cuidado con la triple barra en la 4a. 
+TJum3		Toscana: Muestra de salto 3
+TJum3Descr		Un recorrido con muy pocas dificultades, aparte de la doble combinación del final.
+TJum4		Toscana: Muestra de salto 4
+TJum4Descr		Esta semana el recorrido tiene una doble combinación que resultará complicada para algunos jinetes. Los jinetes también tendrán que enfrentarse a verticales, una barra triple y un oxer al final del recorrido. 
+ACro1		Alsacia: Campo a través 1
+ACro1Descr		Este recorrido campo a través de baja dificultad se desarrolla en un entorno invernal. Cuidado con no enredarse en una de las dos combinaciones, especialmente la triple.
+ACro2		Alsacia: Campo a través 2
+ACro2Descr		El recorrido en sí es sencillo, pero hay que tener cuidado con sus vallas difíciles (doble combinación, elevada o extendida). Observa la presencia de una triple combinación, una novedad para los competidores.
+ACro3		Alsacia: Campo a través 3
+ACro3Descr		Se trata de un recorrido inolvidable. Los jinetes deben ser muy cautelosos, debido a los tortuosos caminos del recorrido. Y como un bono adicional, se han incluido una combinación triple y dos dobles
+ACro4		Alsacia: Campo a través 4
+ACro4Descr		Un recorrido tortuoso con dos combinaciones dobles y sobre todo un triple al final. Vigila que tu caballo no esté demasiado cansado.
+ADre1		Alsacia: Doma de exhibición 1
+ADre1Descr		 
+ADre2		Alsacia: Doma de exhibición 2
+ADre2Descr		 
+ADre3		Alsacia: Doma de exhibición 3
+ADre3Descr		 
+ADre4		Alsacia: Doma de exhibición 4
+ADre4Descr		 
+AJum1		Alsacia: Muestra de salto 1
+AJum1Descr		Un recorrido bastante interesante con no menos de 2 combinaciones dobles, incluyendo una que termina con un oxer. Vas a tener que mantener tu ingenio sobre ti.
+AJum2		Alsacia: Muestra de salto 2
+AJum2Descr		Un recorrido bastante difícil. Cuidado con las combinaciones, sobre todo la 2a que termina en un oxer.
+AJum3		Alsacia: Muestra de salto 3
+AJum3Descr		En los recorridos interiores, las vallas suelen estar más juntas y este recorrido no es una excepción. Ten cuidado, especialmente en las 2 combinaciones.
+AJum4		Alsacia: Muestra de salto 4
+AJum4Descr		Cuidado con las dos combinaciones de este recorrido de nivel medio; cada una de ellas se compone de una vertical y un oxer. 
+CCro1		China: Campo a través 1
+CCro1Descr		Este impresionante recorrido es más largo, un regalo para los mejores. La dificultad de las 2 combinaciones dobles y triples seguramente pondrá a prueba los reflejos.
+CCro2		China: Campo a través 2
+CCro2Descr		Los organizadores chinos han hecho todo lo posible para este recorrido. 4 combinaciones dobles y 2 triples en el menú.
+CCro3		China: Campo a través 3
+CCro3Descr		Un recorrido para campeones con 5 combinaciones dobles y 2 triples. Sólo los caballos y jinetes más entrenados lograrán este reto. 
+CCro4		China: Campo a través 4
+CCro4Descr		Un recorrido apto para un enfrentamiento final, ¡5 combinaciones dobles y 2 triples!
+CDre1		China: Doma de exhibición 1
+CDre1Descr		 
+CDre2		China: Doma de exhibición 2
+CDre2Descr		 
+CDre3		China: Doma de exhibición 3
+CDre3Descr		 
+CDre4		China: Doma de exhibición 4
+CDre4Descr		 
+CJum1		China: Muestra de salto 1
+CJum1Descr		Por primera vez, un recorrido repleto de corriente. Puede parecer un obstáculo sencillo, pero más de un corredor ha tenido problemas aquí a lo largo de los años. ¡Cuidado con él!
+CJum2		China: Muestra de salto 2
+CJum2Descr		Muestra de salto con 2 combinaciones, incluyendo 1 triple. Si esto parece una brisa, tal vez el arroyo del final amortigüe su entusiasmo.
+CJum3		China: Muestra de salto 3
+CJum3Descr		Los organizadores chinos deben haber disfrutado preparando este recorrido. Repleto de verticales y oxers, también tiene un bonito doble y triple. También hay que tener cuidado con el arroyo. 
+CJum4		China: Muestra de salto 4
+CJum4Descr		Este recorrido se retuerce y gira. Sólo los jinetes que conocen el recorrido como la palma de su mano podrán evitar las trampas. Un doble, un triple y un arroyo. 
+CLearn		Prueba de entrenamiento en China
+TLearn		Prueba de entrenamiento en Toscana
+ALearn		Prueba de entrenamiento en Alsacia
+T1		Toscana: Competición 1
+T2		Toscana: Competición 2
+T3		Toscana: Competición 3
+T4		Toscana: Competición 4
+A1		Alsacia: Competición 1
+A2		Alsacia: Competición 2
+A3		Alsacia: Competición 3
+A4		Alsacia: Competición 4
+C1		China: Competición 1
+C2		China: Competición 2
+C3		China: Competición 3
+C4		China: Competición 4
