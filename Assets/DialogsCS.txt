@@ -1,5 +1,5 @@
 UID	English corrected	Character	CharMood	Duration
-Intro01_Commentateur_01	<Comentarista> Es extraordinario. Nuestro campeón ha subido al podio internacional sin sudar. ¡Una gran victoria para la academia y una gran victoria para el director Bird y su equipo!	Commentateur	Happy	13
+Intro01_Commentateur_01	<Comentarista> Es extraordinario. Nuestra campeona ha subido al podio internacional sin sudar. ¡Una gran victoria para la academia y una gran victoria para el director Bird y su equipo!	Commentateur	Happy	13
 Intro02_Patrick_01	<Patrick> Pensé que podría encontrarte aquí...	Patrick	Neutral	1
 Intro02_Jade_02	<Jade> A él le habría encantado este cielo. Todavía no puedo creer que no esté aquí. 	Jade	Badmood	4
 Intro02_Patrick_03	<Patrick> Su sueño es nuestro ahora. Sabes que he tratado de mantener la Academia en funcionamiento desde que murió Birdy. Pero el castillo se está deteriorando demasiado y vamos a tener que mudarnos. Es un trabajo demasiado grande para un solo hombre. No tengo el empuje de Birdy. 	Patrick	Neutral	15
