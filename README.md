@@ -1,7 +1,10 @@
 # Pippa Funnell 3 - Traducción castellano
 Traducción al castellano de Pippa Funnell 3
+
 ¡Espero que lo disfrutes! Cualquier problema házmelo saber y lo intentaré corregir cuanto antes.
+
 Mis redes: https://linktr.ee/rubnium
+
 No promuevo la piratería, aunque sea un juego imposible de adquirir digitalmente de manera legal. Esto solo es una traducción.
 
 ## Instalación
