@@ -1,0 +1,57 @@
+SymbolID	SubsetID	Text
+Save		Salva a la chica que se ha caído por el barranco.
+Cards		Encuentra un nuevo juego de cartas para reemplazar el que se quemó.
+Chapel		Ve a la capilla usando el mapa y coge el libro.
+Book		Lleva el catálogo al anticuario antes de que cierre la tienda.
+Fall		Ayuda a Flora a cruzar el barranco encontrando su punto más estrecho para saltarlo. 
+Aurel		Encuentra a Aurélie.
+Caroll		Encuentra a Carroll.
+Samuel		Encuentra a Samuel.
+Miguel		Encuentra a Miguel.
+Radio		Encuentra la revista con un anuncio en el que aparece el número de teléfono de la emisora de radio Groovin FM. Llama y transmite un mensaje a Samuel.
+Password		Recupera la contraseña del ordenador del centro de estudiantes del anticuario.
+Box		Abre una caja para recuperar el mapa que hay dentro. Asegúrate de elegir la caja con la respuesta correcta al enigma: "Estoy en el principio de todo pero en el final de ninguna parte. Estoy en medio del océano y de la brisa marina. ¿Qué soy?"
+Defi		Utiliza el mapa para encontrar el objeto adecuado para Jade y tráelo antes de que se agote el tiempo. 
+Chapel2		Ve a la capilla.
+Flowers		Encuentra el arco floral siguiendo las flores blancas a lo largo del camino.
+Message		Encuentra el mensaje al final del camino.
+Present		Encuentra el regalo del admirador secreto siguiendo las indicaciones escritas en la roca.
+Office		Encuentre la oficina del director de la Academia Beachwood. 
+Police		Haz que el policía salga para tener acceso a la oficina.
+Director		Únete al director siguiendo el rastro de las huellas de los cascos.
+Concert		Ve al concierto en el bar.
+Invitation		Busca la dirección del sitio web del pub y encuentra una imagen del ticket en el sitio. 
+PhotoInvit		Haz una foto del ticket del sitio web.
+Back		Lleva la foto de vuelta a Jade al centro de estudiantes.
+Rdv		Ve a reunirte con Spike antes de que se acabe el tiempo. 
+Key		Encuentra la llave de la puerta.
+Noel		Vuelve a tu dormitorio con tus regalos.
+Sign		Busca el autógrafo de Spike para Carroll.
+Drink		Encuentra una botella de bebida local para Harry.
+Violon		Encuentra las partituras de violín para Aurélie.
+Cd		Encuentra un CD de MC Melon para Samuel.
+Recueil		Encuentra una colección de poemas para Miguel.
+JadePhoto		Haz una foto de Jade para Patrick.
+CarollPhoto		Haz una foto de Carroll para Spike.
+Rare		Encuentra una flor rara para Jade.
+Camp		Únete a los estudiantes en la hoguera.
+Cascade		Ve al lugar marcado en el mapa y encuentra la pista. 
+CaveIsland		Encuentra la cueva y la isla, y la siguiente pista. 
+Manivel		Encuentra el pozo con la manivela que falta y la siguiente pista. 
+Tree		Encuentra el enorme árbol y la pista que hay dentro. 
+Light		Encuentra una luz para poder ver tu camino en la oscuridad.
+Admirateur		Encuentra al admirador secreto.
+Light2		Encuentra una luz para poder ver el camino hacia el campamento.
+Camp2		Ve al campamento.
+Piles		Busca pilas para la linterna.
+Petals		Sigue el rastro de pétalos azules.
+Riziere		Encuentra la pista en el arrozal.
+Zoom		Repara el zoom de la cámara.
+Money		Trae 150.000 créditos para Jade.
+Poeme		Dale al anticuario una traducción del poema chino.
+Ginger		Encuentra a Ginger para darle el mapa para volver.
+Analys		Encuentra el significado del poema.
+Conque		Encuentra y toma un barco.
+Statue		Coge la estatua correcta para llevarla al anticuario.
+Free		Libera a Flora de su encarcelamiento.
+Compet		Encuentra un mapa de la ubicación de la competición en el pueblo.
