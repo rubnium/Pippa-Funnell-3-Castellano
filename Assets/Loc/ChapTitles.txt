@@ -16,7 +16,7 @@ VoixOff_13		Penitencia navideña
 VoixOff_14		Primavera oriental
 VoixOff_15		Una tarde junto al fuego
 VoixOff_16		Love makeover
-VoixOff_17		Competition with the Cherry Tree Academy / Semi-final
+VoixOff_17		Competición con la Academia Cherry Tree / Semi-final
 VoixOff_18		Desenlace
 VoixOff_19		Problemas de flujo de caja
 VoixOff_20		Una posibilidad remota
