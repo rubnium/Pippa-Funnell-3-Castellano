@@ -1,0 +1,17 @@
+SymbolID	SubsetID	Text
+Week1Photo1		Toscana - Haz una foto de uno de los 3 pozos que hay en los alrededores. Hay uno junto a la capilla.
+Week1Photo2		Toscana - Haz una foto de uno de los 3 pozos que hay en los alrededores. Comprueba los senderos cercanos a la entrada del pueblo.
+Week1Photo3		Toscana - Haz una foto de uno de los 3 pozos que hay en los alrededores. El 3er y último pozo se encuentra al final de un camino que comienza junto al río. 
+Week2Photo1		Toscana - Haz una foto del Sr. Oldmaster buscando un tesoro junto a un carro.
+Week2Photo2		Toscana - Haz una foto de la antigua capilla antes de que sea demasiado tarde.
+Week3Photo1		Alsacia - Haz una foto de la antigua estación alsaciana.
+Week4Photo1		Alsacia - Haz una foto del enorme abeto. Al parecer, no está lejos del castillo. La leyenda dice que protege el lugar. 
+Week3Photo2		Alsacia - Haz una foto del gato perdido. Al principio de la semana, se le puede encontrar cerca de las pilas de troncos junto al río.
+Week4Photo2		Alsacia - Haz una foto del gato perdido. Tal vez aún esté rondando por las pilas de troncos.
+Week5Photo1		China - Haz una foto del templo chino en la cima de la colina.
+Week6Photo1		China - Haz una foto del viejo árbol muerto. Aparentemente trae buena suerte.
+Week5Photo2		China - Haz una foto del primer Buda con la cabeza puntiaguda.
+Week5Photo3		China - Haz una foto del segundo Buda con la cabeza puntiaguda.
+Week5Photo4		China - Haz una foto del tercer Buda con la cabeza puntiaguda.
+Week5Photo5		China - Toma una foto del caballo salvaje cerca de la Gran Muralla. Suele estar allí al final de la semana. 
+Week6Photo2		China - Haz una foto del Sr. Oldmaster buscando un tesoro chino. ¿Quizás esté buscando una estatua de Buda?
