@@ -19,5 +19,5 @@ Con el juego ya instalado:
 - La mayoría de textos están traducidos
 - Existen bastantes gráficos todavía por traducir
 - Puede que existan errores de ortografía accidentales, algunos no lo son haciendo que el juego siga teniendo la misma experiencia al igual que al jugarlo con el idioma original
-- Posiblemente existan textos que no tengan que ver con lo que suceda en la historia o en pantalla
-- Le falta un poco de testeo, por lo que también podría ocurrir carácteres ilegibles
+- Posiblemente existan textos que no tengan que ver con lo que suceda en la historia o en pantalla, o traducciones incorrectas
+- Le falta un poco de testeo, por lo que también podrían aparecer carácteres ilegibles
