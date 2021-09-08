@@ -1,0 +1,1275 @@
+UID	English Text V2	Character	CharMood	
+W0FloSavStart_01	¡Rápido! Hay una chica en peligro. Va a caerse en el barranco. ¡Sálvala! (Pulsa la barra espaciadora para continuar)	Elsys	Neutral	
+W0FloSavStart_02	Usa las flechas de dirección para moverte. Pulsa las flechas derecha e izquierda para ir a la derecha y a la izquierda, y pulsa la flecha arriba varias veces para ir más rápido. Utiliza la flecha hacia abajo del mismo modo para ir más despacio. 	Elsys	Neutral	
+W0FloSavStart_03	Si estás atascada y no sabes qué hacer, puedes ver tus objetivos en tu cuaderno durante la aventura. Primero pulsa "N" y luego haz clic en la pestaña Objetivos.	Elsys	Neutral	
+W0FloSavStart_04	Ahora, date prisa. No hay un minuto que perder.	Elsys	Neutral	
+W0FloSavProx_01	¡La chica está aquí! Cuando aparezca este icono, pulsa la barra espaciadora para realizar la acción.	Elsys	Neutral	
+W0FloSavReplay_01	No has salvado a la chica. Inténtalo de nuevo. 	Elsys	Neutral	
+W0FloSavGameOver_01	No has salvado a la chica. No puedes seguir sin ella. 	Elsys	Neutral	
+W1TueStart_01	He oído que hay un viejo con una tienda de chatarra en el pueblo. Vamos a comprobarlo. 	Elsys	Neutral	
+W1TueBrocTalk_01	He oído que hay un viejo con una tienda de chatarra en el pueblo. Vamos a comprobarlo.	Flora	Neutral	
+W1TueBrocTalk_02	El establecimiento de Oldmaster no tiene la costumbre de vender baratijas. Nuestra familia ha comerciado con antigüedades durante generaciones; nuestra tienda es un santuario de la historia. Dispensar sabiduría a los oídos perdidos de la juventud decadente es una pérdida de mi tiempo, jovencita.  	Dubouquin	Angry	
+W1TueBrocTalk_03	No hay necesidad de ser así, viejo. Sólo estaba preguntando...	Flora	Angry	
+W1TueBrocTalk_04	Sin embargo, si tuvieras los medios para comprar este espléndido tesoro... Estos naipes son únicos; tienen una historia fascinante detrás. En su día pertenecieron a...	Dubouquin	Neutral	
+W1TueBrocTalk_05	Vale, ¿se acabó la lección de historia? Lo que me interesa es el aquí y el ahora y cuánto quieres por las cartas.	Flora	Happy	
+W1TueBrocTalk_06	Es un set de tanta calidad... no podría decir...	Dubouquin	Neutral	
+W1TueBrocTalk_07	Sí, pero... ¿cuánto?	Flora	Neutral	
+W1TueBrocTalk_08	La artesanía y el dorado son exquisitos...	Dubouquin	Neutral	
+W1TueBrocTalk_09	Sí, sí, ¡muy bonito! ¿Cuánto cuesta?	Flora	Neutral	
+W1TueBrocTalk_10	Observa la audacia en la representación de las figuras...	Dubouquin	Neutral	
+W1TueBrocTalk_11	¿Lo haces a propósito o soy tu primer cliente este año? Dígame: ¿cuánto cuesta esta vigesimotercera maravilla del mundo?	Flora	Badmood	
+W1TueBrocTalk_12	28.000 créditos	Dubouquin	Happy	
+W1TueBrocTalk_13	¿Qué? ¿Por una baraja de cartas?	Flora	Angry	
+W1TueBrocTalk_14	(Suspira) ¡La ignorancia de la juventud!	Dubouquin	Badmood	
+W1TueBrocTalk_15	Pero este paquete tiene escrito "Hecho en Taiwan". ¿Por quién me tomas? ¿Una turista? Me voy.	Flora	Angry	
+W1TueBrocTalk_16	Espera. Podemos llegar a un acuerdo. Hazme un favor y la baraja es tuya. 	Dubouquin	Happy	
+W1TueBrocTalk_17	¿Qué tipo de favor?	Flora	Neutral	
+W1TueBrocTalk_18	Tengo que recoger un libro que un amigo me dejó en la capilla al norte del pueblo. Aquí hay un mapa de la zona. La capilla está marcada con una cruz. Trae el libro de vuelta antes de la hora de cierre y te daré lo que quieres. 	Dubouquin	Neutral	
+W1TueBrocTalk_19	Muy bien. ¿A qué hora cierras?	Flora	Neutral	
+W1TueBrocTalk_20	En diez minutos. Ya estás tardando, jovencita. 	Dubouquin	Happy	
+W1TueBrocTalk_21	¡Rápido! No hay un minuto que perder. Mira bien tu mapa. Lo encontrarás en tu inventario. Para acceder a tu inventario, pulsa el botón l. Recuerda que la capilla está marcada con una cruz. 	Elsys	Neutral	
+W1TueBrocTalk2_01	El tiempo y la marea no esperan a nadie. ¡Deprisa, deprisa!	Dubouquin	Neutral	
+W1TueStart2_01	Cuando estés fuera de la academia, podrás utilizar tu caballo para explorar los alrededores. En algunos lugares, tendrás que desmontar para visitarlos. Para ello, sólo tienes que pulsar el botón Control derecho. 	Elsys	Neutral	
+W1TueStart2_02	Para volver a montar tu caballo, colócate junto a él y pulsa la barra espaciadora cuando aparezca el icono correspondiente. 	Elsys	Neutral	
+W1TueNoHorse_01	Será mejor que entres con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W1TueBook_01	Un catálogo de antigüedades chinas.	Flora	Neutral	
+W1TuePrepare4_01	Esa chica sí que se mete en situaciones complicadas. Será mejor que vayas a ayudarla. Busca un buen lugar para saltar el barranco y poder llegar a ella.	Elsys	Neutral	
+W1TueNoJump_01	No puedes ir por ahí. Hay demasiado espacio.	Elsys	Neutral	
+W1TueJumpEnd_01	¡Bien hecho! ¡Lo has conseguido!	Elsys	Neutral	
+W1TueReplay_01	No has conseguido el libro antes de que cerrara la tienda de antigüedades. Mejor inténtalo de nuevo. 	Elsys	Neutral	
+W1TueReplay2_01	No has conseguido el libro antes de que cerrara la tienda de antigüedades. Mejor inténtalo de nuevo. 	Elsys	Neutral	
+W1TueGameOver_01	No lo has conseguido. La aventura termina aquí, me temo.	Elsys	Neutral	
+W1SatPrepare_01	Sé que la perspectiva no te abruma pero vas a tener que encontrar a los otros estudiantes de la Academia. 	Elsys	Neutral	
+W1SatPrepare_02	El eufemismo del siglo. Bien, vamos.	Flora	Angry	
+W1SatPrepare_03	Aurélie habló de ir de compras, creo. Eso parece un buen lugar para empezar. 	Flora	Neutral	
+W1SatAurelTalk_01	Te he estado buscando por todas partes Aurélie. Dime, sabes...	Flora	Neutral	
+W1SatAurelTalk_02	Detente ahí. ¡Acabo de encontrar el top más pequeño! Espera a verlo. ¡Te va a encantar!	Aurelie	Happy	
+W1SatAurelTalk_03	Vale, pero primero, dime, ¿has visto a los otros? Jade quiere hablar con nosotros. 	Flora	Neutral	
+W1SatAurelTalk_04	Hoy no he visto prácticamente a nadie. Miguel sigue enfurruñado en un rincón. Samuel ha hecho su habitual acto de desaparición. Empiezo a pensar que está tratando de evitarme. ¿Qué te parece?	Aurelie	Neutral	
+W1SatAurelTalk_05	Claro... Quiero decir que estoy seguro de que no. ¿Qué importa? De todos modos, ¿qué pasa con Caroll? 	Flora	Neutral	
+W1SatAurelTalk_06	Oh sí, Caroll se ha ido a hacer guirnaldas de flores. Ahora, reconozco esa pequeña mirada en tus ojos. No puedes esperar a ver el top que he comprado.	Aurelie	Happy	
+W1SatAurelTalk_07	Es difícil contener mi emoción, lo sé, pero creo que se verá aún mejor cuando lo lleves puesto. Nos vemos luego. 	Flora	Neutral	
+W1SatAurelTalk_08	Pero...	Aurelie	Neutral	
+W1SatAurelTalk2_01	Como ya dije, Caroll está haciendo guirnaldas. ¿Es todo lo que puedes pensar?	Aurelie	Badmood	
+W1SatNoCla_01	Tienes que encontrar a todos tus compañeros antes de volver al aula.	Elsys	Neutral	
+W1SatNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W1SatCarollTalk_01	¡Hola Caroll! ¿Cómo te va? 	Flora	Happy	
+W1SatCarollTalk_02	Mmm, no tan bien.	Caroll	Badmood	
+W1SatCarollTalk_03	¿Qué ocurre?	Flora	Neutral	
+W1SatCarollTalk_04	Quiero hacer guirnaldas de flores. Pero eso significa hacer algo más bonito que las propias flores, ¿no?	Caroll	Neutral	
+W1SatCarollTalk_05	Sí, supongo que sí. Escucha...	Flora	Neutral	
+W1SatCarollTalk_06	Si recojo las flores, verás, estarán muertas para mañana. Pero si las dejo, serán menos bonitas que mi guirnalda. Pero en una semana, cuando vuelva, sus colores serán increíbles...	Caroll	Badmood	
+W1SatCarollTalk_07	Cierto... Dime si no has visto...	Flora	Neutral	
+W1SatCarollTalk_08	Dicho esto, significa destruir algo mientras se hace más hermoso. Entonces, ¿qué es lo que hago? 	Caroll	Badmood	
+W1SatCarollTalk_09	Te diré lo que harás. ¡Me dirás dónde están Miguel y Samuel! Jade quiere hablar con todos nosotros.	Flora	Neutral	
+W1SatCarollTalk_10	Samuel está en el centro de estudiantes, escuchando Radio Groovin FM. Pero no he visto a Miguel esta mañana.	Caroll	Neutral	
+W1SatCarollTalk_11	Gracias Caroll. Me has sido muy útil.	Flora	Neutral	
+W1SatCarollTalk_12	Un placer.	Caroll	Badmood	
+W1SatCarollTalk_13	Y en cuanto a tus flores, sólo tienes que decirte que todas las flores se recogen algún día. O que mueren en invierno y vuelven en primavera. Nunca habrá escasez de flores en ninguna parte de este pueblo. Pero el mundo nunca verá tus guirnaldas a menos que las hagas y será un adiós a toda esa belleza porque la dejaste ir. 	Flora	Neutral	
+W1SatCarollTalk_14	Gracias. ¡Haré uno grande para ti, especialmente!	Caroll	Happy	
+W1SatCarollTalk_15	Bien, pero no demasiado grande. Hasta luego.	Flora	Happy	
+W1SatCarollTalk2_01	Voy a recoger todo el campo y hacer guirnaldas para todos. 	Caroll	Happy	
+W1SatCarollTalk2_02	Em, no nos dejemos llevar, ¿eh?	Flora	Badmood	
+W1SatLockDoor_01	Está cerrado. ¡Samuel! Es inútil. La radio está demasiado alta para escuchar mi voz.	Flora	Badmood	
+W1SatLockDoor_02	¡Eso es! ¡La radio! ¡Intenta hablar con Samuel por radio!	Elsys	Neutral	
+W1SatLockDoor_03	¡Sí! Si pudiera contactar con la centralita... Samuel debe haber dejado una de sus revistas de música por aquí. Tal vez una de ellas tenga un número de teléfono. 	Flora	Neutral	
+W1SatLockDoor_04	¡Si! ¿Y dónde se pueden encontrar revistas en la academia?	Elsys	Neutral	
+W1SatLockDoor2_01	Es inútil. La radio está demasiado alta.	Flora	Badmood	
+W1SatMagTake_01	El número de la centralita de Groovin FM aparece en el anuncio.	Flora	Neutral	
+W1SatMagTake_02	La revista con el número de teléfono se ha añadido a tu inventario. Para consultarlo, pulsa el botón I. 	Elsys	Neutral	
+W1SatTutoUse_01	Cuando aparezca un icono con forma de engranaje como el de usar, podrás utilizar un objeto de tu inventario. Ve a tu inventario, selecciona el objeto y haz clic en el botón con forma de mano de la parte superior derecha. 	Elsys	Neutral	
+W1SatUnlockDoor_01	¡Hola, Groovin FM! ¿Quién habla, por favor?	Standardiste	Neutral	
+W1SatUnlockDoor_02	Prefiero permanecer en el anonimato. Me gustaría dedicar una canción a uno de mis amigos.	Flora	Neutral	
+W1SatUnlockDoor_03	Te escucho.	Standardiste	Neutral	
+W1SatUnlockDoor_04	'Give up the Funk', de RX Express.	Flora	Neutral	
+W1SatUnlockDoor_05	Sin problema. ¿Algún mensaje que añadir?	Standardiste	Neutral	
+W1SatUnlockDoor_06	Sí: Samuel abre la puerta del centro de estudiantes, por favor.	Flora	Neutral	
+W1SatUnlockDoor_07	¡Grandioso mensaje! ¡Lo transmitiremos de inmediato! ¡Sigue bailando con Groovin FM! Hasta pronto.	Standardiste	Neutral	
+W1SatSamTalk_01	Perdón por lo de la puerta. 	Samuel	Neutral	
+W1SatSamTalk_02	No te preocupes. Lo entiendo. Todo el mundo necesita aislarse de vez en cuando. Vine a decir que Jade quiere hablar con nosotros. He conseguido decírselo a todo el mundo, pero no encuentro a Miguel.	Flora	Neutral	
+W1SatSamTalk_03	¿A esta hora de la noche? Está en el ciberespacio en un foro. 	Samuel	Neutral	
+W1SatSamTalk_04	¡Necesito encontrarlo en el mundo real!	Flora	Neutral	
+W1SatSamTalk_05	El problema es que podría estar en cualquier parte. Navega en su ordenador portátil. Lo más fácil es conectarse al ordenador del centro de estudiantes, encontrar al Miguel virtual y preguntarle dónde está el Miguel real. 	Samuel	Badmood	
+W1SatSamTalk_06	Vale, pero Internet es bastante mundial y no tengo ochenta días. 	Flora	Neutral	
+W1SatSamTalk_07	Conozco la dirección de la sala de chat que utiliza, este foro de poesía del siglo XIX. Es muy moderno, ¿eh? El único problema es que no sé la contraseña del ordenador. 	Samuel	Neutral	
+W1SatSamTalk_08	Sabía que habría un problema. ¿Quién sabe la contraseña?	Flora	Badmood	
+W1SatSamTalk_09	El anticuario del pueblo, el señor Oldmaster.	Samuel	Neutral	
+W1SatSamTalk_10	¿Estás bromeando?	Flora	Angry	
+W1SatSamTalk_11	No, en absoluto. Le he visto reparar los ordenadores de las aulas. Se ocupa de la red de la academia en su tiempo libre.	Samuel	Neutral	
+W1SatSamTalk_12	Antigüedades e informática. Ahora sí que lo he visto todo.	Flora	Neutral	
+W1SatBrocTalk_01	Hola, señor Oldmaster, ¿y cómo está usted hoy?	Flora	Happy	
+W1SatBrocTalk_02	Cuánto tiempo sin verte. Parece que has aprendido algunos modales recientemente. 	Dubouquin	Happy	
+W1SatBrocTalk_03	¿Qué buscas esta vez? ¿Un juego de Familias Felices? ¿Una comba? Si lo que buscas son videojuegos, has llamado a la puerta equivocada. 	Dubouquin	Happy	
+W1SatBrocTalk_04	Muy gracioso... Necesito la contraseña del ordenador del centro de estudiantes.	Flora	Neutral	
+W1SatBrocTalk_05	Pero tú ya la sabes, querida.	Dubouquin	Neutral	
+W1SatBrocTalk_06	Escucha, yo sé lo que sé y si pido la contraseña es porque no la sé. 	Flora	Neutral	
+W1SatBrocTalk_07	Esto es lo que haremos. Voy a leer tu mente y esto te ayudará a adivinar. 	Dubouquin	Neutral	
+W1SatBrocTalk_08	¿Qué? Escucha, no tengo tiempo para juegos y diversiones...	Flora	Angry	
+W1SatBrocTalk_09	Te sorprenderás. Mira esa cosa en la mesa. Esa máquina puede leer tu mente.	Dubouquin	Happy	
+W1SatBrocTalk_10	De acuerdo, te seguiré el juego. Pero cuando quedes en ridículo, te verás obligado a decirme la contraseña. 	Flora	Neutral	
+W1SatEniTuto_01	Piensa en un número de dos dígitos, como el dieciséis.	Elsys	Neutral	
+W1SatEniTuto_02	A continuación, suma los dos dígitos para obtener un segundo número. Por ejemplo, con 16, 6 + 1 = 7. 7 es tu nuevo número.	Elsys	Neutral	
+W1SatEniTuto_03	Ahora resta el nuevo número del primer número que pensaste. En mi ejemplo, 16 - 7 = 9. Toma el nuevo número y mira la letra correspondiente en la máquina. 	Elsys	Neutral	
+W1SatEniTuto_04	Ahora concéntrate mucho en la letra que acabas de encontrar y haz clic en la pequeña ventana de la parte superior. La máquina te leerá la mente.	Elsys	Neutral	
+W1SatEniP_01	La máquina predice la letra H.	Elsys	Neutral	
+W1SatEniP_02	Repite la operación, hasta que la máquina prediga todas las letras de la contraseña.	Elsys	Neutral	
+W1SatEniTuto2_01	Realiza el mismo proceso. Piensa en un número de dos cifras, suma las dos cifras para obtener un segundo número. Resta este número del primer número y mira el número correspondiente en la máquina.	Elsys	Neutral	
+W1SatEniO_01	La máquina predice la letra O.	Elsys	Neutral	
+W1SatEniN_01	La máquina predice la letra R.	Elsys	Neutral	
+W1SatEniE_01	La máquina predice la letra S.	Elsys	Neutral	
+W1SatEniY_01	La máquina predice la letra E.	Elsys	Neutral	
+W1SatBrocTalk2_01	Ves, estabas pensando en las letras todo el tiempo. H-O-R-S-E. La contraseña es horse. Te dije que la sabías.	Dubouquin	Neutral	
+W1SatBrocTalk2_02	No sé cómo lo has hecho, pero espero que no haya sido una tomadura de pelo. 	Flora	Neutral	
+W1SatBrocTalk2_03	Jovencita, un transatlántico corta las olas pero se hunde como una piedra. Deberías aprender a aligerar, a confiar más en la gente.  	Dubouquin	Neutral	
+W1SatBrocTalk2_04	Intentaré tenerlo en cuenta.	Flora	Neutral	
+W1SatCompetStart_01	Para ganar esta competición, debes quedar entre los tres primeros. De lo contrario, puedes volver a intentarlo para conseguir una mejor puntuación. Ten cuidado, después de tres derrotas, tendrás que empezar una nueva semana..	Elsys	Neutral	
+W2MonStart_01	Ahora te toca a ti... Aquí está el acertijo.	Jade	Neutral	
+W2MonStart_02	Estoy en el principio de todo pero en el final de ninguna parte. Estoy en medio del océano y de la brisa marina. ¿Qué soy?	Jade	Neutral	
+W2MonStart_03	Elige una caja, la que creas que es la respuesta al acertijo. Dentro encontrarás una pista que te ayudará a resolver el reto	Jade	Neutral	
+W2MonStart_04	No es justo. ¡Todos los demás empezaron antes que yo!	Flora	Badmood	
+W2MonStart_05	No te preocupes, la cuenta atrás comienza desde el momento en que abres la caja. 	Jade	Neutral	
+W2MonView1_01	Dice "casa". También hay un mapa.	Flora	Neutral	
+W2MonView2_01	Dice "gaviota". También hay un mapa.	Flora	Neutral	
+W2MonView3_01	Sólo hay la letra "E" en esta caja. También hay un mapa. 	Flora	Neutral	
+W2MonJadeTalk_01	Lo siento, como dije a los demás: "No puedo dar pistas".	Jade	Neutral	
+W2MonStart2_01	Creo que el mapa te dice dónde encontrar algo. Echa un vistazo. 	Elsys	Neutral	
+W2MonNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera. 	Elsys	Neutral	
+W2MonWrong1_01	Lo siento, no es el objeto correcto. 	Jade	Neutral	
+W2MonWrong2_01	Lo siento, no es el objeto correcto. 	Jade	Neutral	
+W2MonRight_01	Así es. La respuesta era la letra E, everywhere, ocean, breeze. Tres de vosotros volvisteis con la respuesta correcta pero fuistes la primera en traer el objeto. 	Jade	Happy	
+W2MonRight_02	¡He ganado! Cielos, ¡¡¡me encanta ganar!!!	Flora	Happy	
+W2MonRight_03	¡No me digas!	Samuel	Badmood	
+W2MonRight_04	Entonces, ¿cuál es la gran recompensa? ¿Créditos?	Flora	Happy	
+W2MonRight_05	Lo siento, tendrás que esperar hasta mañana por la mañana ...	Patrick	Neutral	
+W2MonRight_06	¿Qué? Pero dijiste que...	Flora	Angry	
+W2MonRight_07	¡Mañana por la mañana y no antes!	Harry	Angry	
+W2MonRight_08	Mañana no es demasiado tiempo para esperar, ¿verdad?	Aurelie	Badmood	
+W2MonRight_09	¡Supongo que sí!	Flora	Badmood	
+W2MonRight_10	Miguel, creo que tengo la respuesta al enigma.	Caroll	Happy	
+W2MonRight_11	El juego ha terminado Caroll. Lo encontré hace horas.	Miguel	Badmood	
+W2MonRight_12	¿Por qué no lo has dicho?	Caroll	Neutral	
+W2MonRight_13	Quería dejarla ganar.	Miguel	Neutral	
+W2MonRight_14	Tendrás que hablar con ella algún día.	Caroll	Neutral	
+W2MonReplay_01	Has perdido el reto. Empieza de nuevo.	Elsys	Neutral	
+W2MonReplay2_01	Has perdido el reto. Empieza de nuevo.	Elsys	Neutral	
+W2MonGameOver_01	Has vuelto a perder el desafío. La aventura ha terminado para ti.	Elsys	Neutral	
+W2FriStart0_01	¡Buenas noticias! Tengo entendido que la pasarela de la capilla ha sido reparada. 	Elsys	Neutral	
+W2FriNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W2FriNoHorse2_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W2FriRose_01	Es una rosa envuelta en un pergamino.	Flora	Neutral	
+W2FriRose_02	"Debajo del arco floral, encontrarás mi imagen de ti. Sigue las flores blancas". ¿De qué arco está hablando?	Flora	Neutral	
+W2FriCard_01	Es una postal de una obra de arte. Es magnífica. Hay un mensaje en el reverso. 	Flora	Neutral	
+W2FriCard_02	"El acantilado al final del camino oculta un mensaje. ¿Están tus ojos lo suficientemente ansiosos para leerlo?"	Flora	Neutral	
+W2FriEndZoomGood_01	Has hecho bien en ampliar la imagen y hacer una foto. Acuérdate de hacer lo mismo con las demás pistas que te encuentres para tener un registro de ellas en tu inventario. 	Elsys	Neutral	
+W2FriEndZoomBad_01	Cuando utilices la cámara para ampliar y ver una pista, acuérdate de hacerle también una foto para que quede constancia en tu inventario.	Elsys	Neutral	
+W2FriRock_01	Hay una roca enorme más adelante, pero estoy demasiado lejos para ver algo. 	Flora	Neutral	
+W3WedStart_01	Tengo que encontrar el camino a la oficina del director.	Jade	Neutral	
+W3WedPoliceTalk_01	Hola, oficial, necesito pasar. Tengo que ir a ver a alguien que vive en esta calle. 	Jade	Neutral	
+W3WedPoliceTalk_02	Lo siento, señorita, la calle está bloqueada. Estamos llevando a cabo una importante operación policial. Sin ánimo de ofender, su presencia aquí es lo suficientemente sospechosa como para negarle el acceso. 	Policeman	Neutral	
+W3WedPoliceTalk_03	¿Sospechosa, yo? ¿Qué te hace decir eso?	Jade	Badmood	
+W3WedPoliceTalk_04	Los únicos que salen sin abrigo con este tiempo son los idiotas y los delincuentes. 	Policeman	Neutral	
+W3WedPoliceTalk_05	Tenía prisa y me he quedado en el camino. Eso pasa, ¿sí?	Jade	Happy	
+W3WedPoliceTalk_06	Tal vez, pero tengo un nariz para estas cosas. Y reconozco una cara sospechosa cuando la veo. 	Policeman	Neutral	
+W3WedPoliceTalk_07	Mmm, la larga nariz de la ley...	Jade	Angry	
+W3WedPoliceTalk_08	¿Perdona?	Policeman	Neutral	
+W3WedPoliceTalk_09	Nada, volveré más tarde.	Jade	Neutral	
+W3WedPoliceTalk_10	Estás en lo cierto. No voy a ir a ninguna parte.	Policeman	Neutral	
+W3WedPoliceTalk_11	(Tengo que encontrar alguna manera de hacerle ceder.)	Jade	Neutral	
+W3WedPoliceTalk2_01	¡Hola de nuevo! Un día maravilloso, ¿no crees?	Jade	Happy	
+W3WedPoliceTalk2_02	Si por maravilloso te refieres a la gripe o al frío y a la humedad que nos dan a todos la lata, entonces sí, ¿"maravilloso"?	Policeman	Neutral	
+W3WedPoliceTalk2_03	Alguien se ha levantado de la cama con el pie izquierdo esta mañana.	Jade	Badmood	
+W3WedPoliceTalk2_04	En absoluto. He estado en mi puesto desde muy temprano hoy. Con todo respeto, no estoy de humor para jugar a ser el Sr. Feliz.	Policeman	Neutral	
+W3WedPoliceTalk2_05	No te preocupes. Que tengas una buena hibernación. Nos vemos en un rato. 	Jade	Neutral	
+W3WedPoliceTalk2_06	EN MUCHO RATO, espero, señorita.	Policeman	Neutral	
+W3WedPoliceTalk2_07	(Es un hueso duro de roer. Voy a tener que ser inteligente.)	Jade	Angry	
+W3WedPoliceTalk3_01	Oficial, ¡qué agradable sorpresa!	Jade	Happy	
+W3WedPoliceTalk3_02	¿No puedes dejarme en paz?	Policeman	Neutral	
+W3WedPoliceTalk3_03	¿Sabes qué? Acabo de volver de este pequeño bar en la carretera y vende el café más increíble. 	Jade	Happy	
+W3WedPoliceTalk3_04	¿Ah, sí? ¿Cómo es eso?	Policeman	Neutral	
+W3WedPoliceTalk3_05	No sé cómo lo hacen, pero lo hacen. Tiene un efecto muy fuerte y, después, te sientes como si pudieras luchar contra un tigre. 	Jade	Happy	
+W3WedPoliceTalk3_06	¿Es eso cierto? Mmm, ahora que lo pienso, me vendría bien un poco de estímulo. 	Policeman	Neutral	
+W3WedPoliceTalk3_07	Entonces pruébalo. Es tan bueno como la calefacción central; estarás listo para la Antártida cuando termines. Adiós al invierno, hola al verano. Te sentirás genial. 	Jade	Happy	
+W3WedPoliceTalk3_08	¿Tan bueno como eso?	Policeman	Neutral	
+W3WedPoliceTalk3_09	¿Seguro que no quieres probar uno? ¡Está al final de la carretera!	Jade	Happy	
+W3WedPoliceTalk3_10	Es una pena que no beba café en realidad.	Policeman	Neutral	
+W3WedPoliceTalk3_11	¿Ah sí?...	Jade	Neutral	
+W3WedPoliceTalk3_12	Así es. El médico dice que no.	Policeman	Neutral	
+W3WedPoliceTalk3_13	¿Oh, de verdad? ....	Jade	Badmood	
+W3WedPoliceTalk3_14	Oh. Verdad. Ahora, si no te importa, tengo trabajo que hacer. 	Policeman	Neutral	
+W3WedPoliceTalk3_15	Okey dokey	Jade	Badmood	
+W3WedPoliceTalk3_16	(Me está llevando al límite.)	Jade	Angry	
+W3WedPoliceTalk4_01	¿Otra vez tú? ¿No tienes nada mejor que hacer?	Policeman	Neutral	
+W3WedPoliceTalk4_02	Escucha, la Navidad está aquí y mi sobrino ha estado soñando con un walkie-talkie. Me preguntaba si podría echar un vistazo al tuyo.	Jade	Happy	
+W3WedPoliceTalk4_03	No es un juguete, señorita. Este dispositivo de alta tecnología salva vidas. 	Policeman	Neutral	
+W3WedPoliceTalk4_04	Pero es para Navidad, señor oficial. Los policías no tienen que ser duros de corazón. 	Jade	Neutral	
+W3WedPoliceTalk4_05	¿Prometes dejarme en paz más tarde?	Policeman	Neutral	
+W3WedPoliceTalk4_06	¡Lo prometo de corazón!	Jade	Happy	
+W3WedPoliceTalk4_07	Okey dokey. Aquí tienes. No encontrarás esto en las tiendas. Son de uso profesional.	Policeman	Neutral	
+W3WedPoliceTalk4_08	(Conseguí anotar la frecuencia.)	Jade	Neutral	
+W3WedPoliceTalk4_09	Muchos ánimos, oficial. ¡Que tenga una buena Navidad! 	Jade	Happy	
+W3WedPoliceTalk4_10	...tengo que trabajar en Navidad...	Policeman	Neutral	
+W3WedPoliceTalk4_11	...Lo siento...	Jade	Badmood	
+W3WedPoliceTalk4_12	Ahhh…	Policeman	Neutral	
+W3WedCarUse_01	Oye, esa ventana se ha quedado abierta. Si supiera la frecuencia correcta podría hacer una falsa alarma usando la radio del coche. 	Jade	Neutral	
+W3WedCarUse2_01	Ejem... Llamando a todas las unidades. Robo en el este de la ciudad. Se solicitan refuerzos inmediatamente.	Jade	Neutral	
+W3WedGrid_01	Está cerrado.	Jade	Neutral	
+W3WedGrid_02	Hola, su buzón está abierto. Sé que la curiosidad mató al gato y todo eso, pero...	Jade	Neutral	
+W3WedLeterBox_01	Oh no, dime que estoy soñando.	Jade	Neutral	
+W3WedStart2_01	Tengo que encontrar el lugar para reunirme con el director. Dijo que siguiera las huellas de los cascos. 	Flora	Neutral	
+W3WedDirectTalk_01	Llegas tarde. ¿Hubo algún problema?	Provisor	Neutral	
+W3WedDirectTalk_02	Lo siento, siempre llego tarde. Tuve que pasar un cordón policial. 	Flora	Neutral	
+W3WedDirectTalk_03	No pasa nada. Por favor, siéntate. Tenemos que hablar.	Provisor	Neutral	
+W3SatVideTalk_01	Buenas noches.	Jade	Neutral	
+W3SatVideTalk_02	Buenas noches. ¿Puedo ver su billete, por favor?	Videur	Neutral	
+W3SatVideTalk_03	¿Billete? Oh no, qué mala suerte. ¿Dónde puedo encontrar uno de ellos?	Jade	Badmood	
+W3SatVideTalk_04	¿A esta hora de la noche? En ningún sitio. Siempre puedes buscar en nuestra página web la fecha de nuestro próximo concierto. 	Videur	Neutral	
+W3SatVideTalk_05	Supongo que es todo lo que puedo hacer. Que pases una buena noche. 	Jade	Badmood	
+W3SatNoGo_01	Es una pena irse a casa así. El concierto tenía muy buena pinta. 	Jade	Neutral	
+W3SatAdress_01	Pero es curioso. Estoy seguro de que reconozco el nombre del grupo. Podría visitar el sitio web mencionado en el cartel y ver si estoy en lo cierto.	Jade	Neutral	
+W3SatPcUse_01	No hay información sobre el grupo, sólo sobre los organizadores. De todos modos, las entradas están agotadas. Y por una vez tenía ganas de divertirme.	Jade	Neutral	
+W3SatPcUse_02	¿Hay algún problema? Pareces triste.	Flora	Neutral	
+W3SatPcUse_03	No es gran cosa. Quería una entrada para el concierto de esta noche en el pub de la ciudad pero están agotadas.	Jade	Neutral	
+W3SatPcUse_04	Veamos... ahora ese lugar en la foto. Fue tomada justo cerca de aquí. Ese billete será fácil de falsificar.	Flora	Neutral	
+W3SatPcUse_05	¿De verdad?	Jade	Neutral	
+W3SatPcUse_06	Iré a hacerle una foto si quieres. 	Flora	Happy	
+W3SatPcUse_07	Harías eso aunque...	Jade	Neutral	
+W3SatPcUse_08	¿Aunque no hayamos sido las mejores amigas últimamente? No te preocupes, no tengo "rencores", al menos no durante más de 5 minutos.	Flora	Happy	
+W3SatPcUse_09	Muchísimas gracias.	Jade	Happy	
+W3SatStart_01	Sólo tengo una vaga idea de dónde se tomó la foto, pero debería poder localizarla fácilmente utilizando la foto del sitio web. 	Flora	Neutral	
+W3SatNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W3SatJadeTalk_01	Buen trabajo. Un poco de magia informática y nadie notará la diferencia.  	Flora	Happy	
+W3SatJadeTalk_02	Fantástico. Muchas gracias. No pudiste hacer la parte de la magia, ¿verdad? No soy muy buena con los ordenadores.	Jade	Happy	
+W3SatJadeTalk_03	Ya somos dos. Deberías preguntarle a Samuel, es un verdadero profesional.	Flora	Neutral	
+W3SatSamTalk_01	Samuel, tengo que pedirte un pequeño favor.	Jade	Happy	
+W3SatSamTalk_02	Siempre es un placer ayudar a una damisela en apuros, ¡especialmente si la damisela es guapa y pelirroja como tú! 	Samuel	Happy	
+W3SatSamTalk_03	Samuel, compórtate. Es muy halagador, pero recuerda que soy tu profesora. Me debes respetar.	Jade	Happy	
+W3SatSamTalk_04	Sí, pero hace varios años, aún eras estudiante.	Samuel	Neutral	
+W3SatSamTalk_05	Lo sé. A veces me tomo demasiado en serio.	Jade	Neutral	
+W3SatSamTalk_06	¿Y el favor?	Samuel	Neutral	
+W3SatSamTalk_07	Ah, sí. Necesito que me ayudes a falsificar un billete para un concierto.	Jade	Neutral	
+W3SatSamTalk_08	Muy buena. La señorita "Me-Debes-Respetar" se une al mundo del crimen.	Samuel	Neutral	
+W3SatSamTalk_09	Es que me encanta la música rock y no me perdería este concierto por nada del mundo.  	Jade	Happy	
+W3SatSamTalk_10	No es realmente mi estilo. ¿Pero por amor a la música? Haré lo que sea.	Samuel	Neutral	
+W3SatSamTalk_11	Aquí está la dirección de Internet con la imagen para copiar.	Jade	Neutral	
+W3SatSamTalk_12	Déjamelo a mí y vuelve en un rato. 	Samuel	Neutral	
+W3SatPrepareInvit_01	Jade, ¿has visto? ¿Has visto lo que pasa en la ciudad esta noche?	Aurelie	Happy	
+W3SatPrepareInvit_02	Es increíble, esplendoroso, el mejor día de mi vida, ¡de mi vida!	Caroll	Happy	
+W3SatPrepareInvit_03	 ¿Qué ocurre?	Jade	Neutral	
+W3SatPrepareInvit_04	¡Los Bloodflowers tocan esta noche, en el pub!	Caroll	Happy	
+W3SatPrepareInvit_05	¡Su cantante es un bombón!	Aurelie	Happy	
+W3SatPrepareInvit_06	¡Un encanto total!	Caroll	Happy	
+W3SatPrepareInvit_07	Totalmente...	Aurelie	Happy	
+W3SatPrepareInvit_08	¡Guauuuu!	Caroll	Happy	
+W3SatPrepareInvit_09	En realidad, alguien dijo algo y...	Jade	Neutral	
+W3SatPrepareInvit_10	Lo siento. Me tengo que ir. ¡El concierto va a empezar!	Aurelie	Happy	
+W3SatPrepareInvit_11	¡Espera! ¿Quieres decir que tienes entradas?	Jade	Neutral	
+W3SatPrepareInvit_12	Por supuesto, ¿qué te crees? No nos lo perderíamos por nada del mundo. Hasta luego. 	Aurelie	Happy	
+W3SatPrepareInvit_13	Aurélie, ¿crees que tocarán "Mi mono favorito"?	Caroll	Happy	
+W3SatPrepareInvit_14	¡¡¡Si no lo hacen...!!!	Aurelie	Happy	
+W3SatPrepareInvit_15	Estoy tan desconectada estos días... Bien, veamos dónde está Samuel...	Jade	Neutral	
+W3SatSamTalk2_01	Es increíble. Igual que la auténtica..	Jade	Happy	
+W3SatSamTalk2_02	Es porque... es la auténtica.	Samuel	Neutral	
+W3SatSamTalk2_03	¿Que qué?	Jade	Neutral	
+W3SatSamTalk2_04	No soy un friki de la informática. Dije que te ayudaría en esto porque Caroll me ofreció una entrada. 	Samuel	Neutral	
+W3SatSamTalk2_05	¿Pero no quieres ir con ella?	Jade	Neutral	
+W3SatSamTalk2_06	Como dije: "no es mi estilo". Pero definitivamente parece que es el tuyo. Así que adelante. 	Samuel	Neutral	
+W3SatSamTalk2_07	Es muy dulce de tu parte Samuel. Gracias.	Jade	Happy	
+W3SatVideTalk2_01	Escucha, señorita, si no te comportas voy a tener que llamar a seguridad. Sin entrada, no hay fiesta, ¿entiendes? 	Videur	Neutral	
+W3SatVideTalk2_02	Resulta que tengo un billete. Aquí...	Jade	Happy	
+W3SatVideTalk2_03	¿Cómo lo has conseguido?	Videur	Neutral	
+W3SatVideTalk2_04	Me encontré con Papá Noel.	Jade	Happy	
+W3SatVideTalk2_05	Tú eres una afortunada. O una persistente...	Videur	Neutral	
+W4TueGridLock_01	La puerta está cerrada...	Flora	Neutral	
+W4TueGridLock_02	Hay un mensaje escrito en la roca en el otro lado, pero estoy demasiado lejos para leerlo. 	Flora	Neutral	
+W4TueRockPhoto_01	Es una imagen de una roca roja, con una llave debajo, sin duda la llave de la puerta.	Flora	Neutral	
+W4TueKeyTake_01	Ahí está la roca roja de la foto y hay una llave debajo. 	Flora	Neutral	
+W4TueNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W4TueReplay_01	No llegaste a tiempo a la reunión con Spike. Tienes que empezar de nuevo. 	Elsys	Neutral	
+W4TueGameOver_01	No has llegado a tiempo a la reunión con Spike. La aventura ha terminado para ti. 	Elsys	Neutral	
+W4FriStart_01	Es hora de trabajar. La investigación está hecha y mi lista de regalos es brillante. Ahora sólo tengo que encontrarlos todos. 	Flora	Neutral	
+W4FriStart_02	Jade nos dio 500 créditos a cada uno. Tendremos que usarlos sabiamente.	Flora	Neutral	
+W4FriStart_03	Veamos: un autógrafo de Spike para Caroll. Un CD en directo de MC Melon para Samuel, una colección de poesía para Miguel, una partitura de violín para Aurélie, una flor rara para Jade; una foto de la groupie número uno, Caroll, para Spike; una botella de la licorería local para Harry y, para Patrick... una foto de Jade.	Flora	Neutral	
+W4FriStart_04	Cuando tenga todos los regalos, tendré que volver y preparar la fiesta. 	Flora	Neutral	
+W4FriSpikeTalk_01	Ey, ¿qué haces ahí tan solo?	Flora	Neutral	
+W4FriSpikeTalk_02	Estaba escribiendo una nueva canción.	Spike	Neutral	
+W4FriSpikeTalk_03	¿De qué va?	Flora	Neutral	
+W4FriSpikeTalk_04	La misma historia de siempre. Chico conoce a chica, chico ama a chica, todo sale mal, nadie sabe por qué, fin. 	Spike	Badmood	
+W4FriSpikeTalk_05	¿Te han roto el corazoncito en el pasado? Únete al club.	Flora	Badmood	
+W4FriSpikeTalk_06	No. Yo fui el estúpido. La dejé. 	Spike	Badmood	
+W4FriSpikeTalk_07	Tal vez deberías escribir algo menos deprimente. Podría ayudar de alguna manera.	Flora	Neutral	
+W4FriSpikeTalk_08	Tal vez, tengas razón. Bueno, pasemos a otra cosa. ¿Qué puedo hacer por ti, princesa? 	Spike	Happy	
+W4FriSpikeTalk_09	Primero puedes dejar de llamarme así. ¡Es machista y denigrante!	Flora	Angry	
+W4FriSpikeTalk_10	Oye, muerdes además de ladrar. A alguien más que conozco le gustó el nombre. 	Spike	Happy	
+W4FriSpikeTalk_11	Bueno, este alguien no, así que tendrás que aguantar mi ladrido Y mi mordisco.	Flora	Angry	
+W4FriSpikeTalk_12	Vale, lo siento...	Spike	Neutral	
+W4FriSpikeTalk_13	No tiene importancia. De todos modos, antes me hiciste una promesa. 	Flora	Happy	
+W4FriSpikeTalk_14	No la he olvidado. Toma: un autógrafo para tu amiga Caroll. Una encantadora admiradora, sin duda. 	Spike	Happy	
+W4FriSpikeTalk_15	Caroll es una verdadera estrella. Gracias por el autógrafo. Mejor me voy. Tengo que hacer compras para Navidad. 	Flora	Happy	
+W4FriSpikeTalk_16	No me dejes fuera de tu lista. ¡Me encantan los regalos!	Spike	Happy	
+W4FriSpikeTalk_17	¡Lo prometo! Hasta luego...	Flora	Happy	
+W4FriSpikeTalk2_01	¿Cómo van las compras?	Spike	Neutral	
+W4FriSpikeTalk2_02	Muy bien, gracias.	Flora	Happy	
+W4FriPatrickTalk_01	Bueno, bueno, bueno, tengo la costumbre de pillar a los estudiantes curioseando en la biblioteca. 	Patrick	Happy	
+W4FriPatrickTalk_02	¿Y eso?	Flora	Neutral	
+W4FriPatrickTalk_03	Una larga historia... ¿Cuál es la tuya?	Patrick	Neutral	
+W4FriPatrickTalk_04	Me preguntaba si es posible comprar un libro de la academia. Una colección de poemas para ser precisos. 	Flora	Neutral	
+W4FriPatrickTalk_05	La respuesta... es sí. Los estudiantes tienen derecho a comprar libros de la biblioteca y yo tengo justo lo que necesitas: "Los Poetas Románticos: La Melancolía Como Forma de Vida". Puedes tenerlo por 50 créditos.	Patrick	Neutral	
+W4FriPatrickTalk_06	Perfecto.	Flora	Happy	
+W4FriPatrickTalk_07	Tráeme los créditos y es tuyo.	Patrick	Neutral	
+W4FriPatrickTalk2_01	Es un libro precioso. Él quedará satisfecho.	Patrick	Neutral	
+W4FriPatrickTalk2_02	¡No he dicho a quién pensaba dárselo!	Flora	Neutral	
+W4FriPatrickTalk2_03	No es difícil adivinarlo.	Patrick	Happy	
+W4FriPatrickTalk2_04	Acabas de gastar 50 créditos.	Elsys	Neutral	
+W4FriPatrickTalk3_01	No puedo esperar a nuestra fiesta de Navidad. Hace tanto tiempo que no pasamos tiempo juntos. 	Patrick	Happy	
+W4FriPatrickTalk3_02	Me alegro mucho de estar todavía con vosotros para compartir la ocasión. 	Flora	Happy	
+W4FriPatrickTalk3_03	Nosotros también, te habríamos echado de menos	Patrick	Happy	
+W4FriPhotoCarol_01	¡Allá vamos! ¡Eso hará feliz a Spike! ¡Una foto de su mayor fan!	Flora	Happy	
+W4FriCarolTalk_01	¡Hola! ¿Qué haces aquí?	Caroll	Neutral	
+W4FriCarolTalk_02	Mis compras de Navidad...	Flora	Neutral	
+W4FriCarolTalk_03	Deberías tomarte un respiro y visitar el castillo. La gente dice que está embrujado. 	Caroll	Neutral	
+W4FriCarolTalk_04	¿Embrujado?	Flora	Badmood	
+W4FriCarolTalk_05	Sí, al parecer, cuando cae la noche, se oyen sollozos, y hay quien dice que cuando hace mucho frío, como hoy, aparece una niña con el pelo largo y negro mojado; se pasea en bata, descalza en la nieve y luego desaparece cuando intentas acercarte.	Caroll	Neutral	
+W4FriCarolTalk_06	No estoy segura de que el castillo sea mi objetivo después de todo. 	Flora	Badmood	
+W4FriCarolTalk_07	A mí me parece fascinante. Me encantaría ver un fantasma de verdad. Podrías tomar una foto si lo ves. 	Caroll	Happy	
+W4FriCarolTalk_08	Lo más probable es que huya.	Flora	Neutral	
+W4FriCarolTalk2_01	Entonces, ¿lo has visto?	Caroll	Neutral	
+W4FriCarolTalk2_02	Caroll, de ninguna manera voy a ir a buscar fantasmas. Así que no pienses en eso. 	Flora	Neutral	
+W4FriCarolTalk2_03	Y yo que creía que eras la más lanzada de todos.	Caroll	Badmood	
+W4FriPhotoJade_01	¡Y ahí está! Patrick estará encantado con esta foto de Jade.	Flora	Happy	
+W4FriJadeTalk_01	¿Qué haces aquí, Jade? ¿No me digas que te vas en el próximo tren? 	Flora	Neutral	
+W4FriJadeTalk_02	En realidad no, sólo estaba pensando.	Jade	Badmood	
+W4FriJadeTalk_03	¿Quiere compartir tus pensamientos?	Flora	Neutral	
+W4FriJadeTalk_04	¿Mis pensamientos?	Jade	Neutral	
+W4FriJadeTalk_05	Sí, eso es lo que hacen los amigos. Compartir pensamientos.	Flora	Neutral	
+W4FriJadeTalk_06	Es que no es fácil...	Jade	Neutral	
+W4FriJadeTalk_07	Lo sé. Tienes todo el peso de la academia sobre tus hombros, siempre organizando todo para todos y ninguna queja. Te respeto mucho.	Flora	Neutral	
+W4FriJadeTalk_08	Es muy amable por tu parte...	Jade	Happy	
+W4FriJadeTalk_09	Tenemos a la mejor directora de la historia. Conviertes nuestros sueños en realidad. Tienes un corazón enorme. Por eso todo el mundo te respeta. 	Flora	Neutral	
+W4FriJadeTalk_10	La verdad es que la idea de hacer una elección equivocada para ti me pone de los nervios. El trabajo parece tan grande. No tengo la estatura de Birdy. Él sabía cómo dirigir esta academia con gracia y confianza. Yo no tengo ni idea. 	Jade	Badmood	
+W4FriJadeTalk_11	Pues finge.	Flora	Happy	
+W4FriJadeTalk_12	¿Fingir?	Jade	Neutral	
+W4FriJadeTalk_13	Claro, nadie notará la diferencia. 	Flora	Happy	
+W4FriJadeTalk_14	Ja, sabes cómo darle un empujón a una chica. 	Jade	Happy	
+W4FriJadeTalk_15	Yo creo en ti. Tengo fe en tus decisiones. Y seguiré siendo tu alumna pase lo que pase.	Flora	Happy	
+W4FriJadeTalk_16	Gracias. Tú también tienes un gran corazón. 	Jade	Happy	
+W4FriJadeTalk_17	Tal vez, pero también salvaje.	Flora	Badmood	
+W4FriJadeTalk_18	Algún día, pronto, verás que es una cualidad y no un defecto.	Jade	Happy	
+W4FriJadeTalk2_01	¿Sigues pensando mucho, Jade?	Flora	Neutral	
+W4FriJadeTalk2_02	Sí, estoy pensando en tu entrenamiento. Creo que voy a intensificar la marcha. Todos vosotros os habéis dormido en los laureles demasiado tiempo. 	Jade	Neutral	
+W4FriJadeTalk2_03	Nada te derriba por mucho tiempo...	Flora	Badmood	
+W4FriNoBottle_01	Es el regalo perfecto para Harry.	Flora	Happy	
+W4FriNoBottle_02	 Los regalos no crecen en los árboles...	Spike	Neutral	
+W4FriNoBottle_03	Pero no hay camarero. No puedo dejar el dinero en el mostrador.	Flora	Badmood	
+W4FriNoBottle_04	Estoy cuidando el pub mientras el camarero se prepara para el Chrimbo. Esa bebida te costará 70 créditos.	Spike	Neutral	
+W4FriNoBottle_05	¿70 créditos? Voy a tener que pensarlo.	Flora	Neutral	
+W4FriNoBottle_06	Y no preguntes por el Señor Crédito, ¡es historia!	Spike	Happy	
+W4FriNoBottle_07	Qué suerte la mía...	Flora	Badmood	
+W4FriBottleTake_01	Acabas de gastar 70 créditos.	Elsys	Neutral	
+W4FriFleurTake_01	Esta flor tiene un color verde increíble. ¡Es el regalo perfecto para Jade!	Flora	Happy	
+W4FriNoPresent_01	Antes de empezar la fiesta hay que encontrar regalos para todos. 	Elsys	Neutral	
+W4FriNoMoney_01	Has gastado demasiados créditos para comprar regalos a todos tus amigos. Deberías haber pensado menos en ti misma. 	Elsys	Neutral	
+W4FriReplay_01	Vuelve a empezar y estate atenta.	Elsys	Neutral	
+W4FriGameOver_01	La aventura termina aquí.	Elsys	Neutral	
+W4SatCompetWarning1_01	Recuerda que Esteban amenazó a tus padres. Vas a tener que perder esta competición. 	Elsys	Neutral	
+W4SatCompetWarning2_01	¡Cuidado! Recuerda que Esteban amenazó a tus padres. Vas a tener que perder la competición para continuar la aventura. 	Elsys	Neutral	
+W5WedStart_01	Pobre Miguel, sólo quería ser amable. Tal vez debería ir a buscarlos. Después de todo, quizá sea el último momento de tranquilidad que pasemos juntos. ¿Pero cómo los encuentro ahora? 	Flora	Badmood	
+W5WedMorceau01_01	Es una sección del mapa. Falta la segunda mitad. Me pregunto dónde estará. 	Flora	Happy	
+W5WedMorceau01_02	No está del todo claro. Parecen olas o agua que fluye. No es de ninguna ayuda. 	Flora	Badmood	
+W5WedNoOut_01	¿De qué sirve salir ahora? Ni siquiera sé dónde encontrarlos. 	Flora	Neutral	
+W5WedBrocLock_01	Qué raro, está cerrado...	Flora	Neutral	
+W5WedPatrickTalk_01	Hola. ¿Puedes decirme si has visto a los otros estudiantes? 	Flora	Neutral	
+W5WedPatrickTalk_02	No, no por un tiempo. Estaban ocupados organizando una fiesta. ¿No me digas que no te han invitado?	Patrick	Neutral	
+W5WedPatrickTalk_03	Pues...	Flora	Badmood	
+W5WedPatrickTalk_04	Te invitaron pero dijiste que no y ahora desearías no haberlo hecho, ¿es eso? 	Patrick	Neutral	
+W5WedPatrickTalk_05	Esa es la cara y la cruz del asunto. 	Flora	Badmood	
+W5WedPatrickTalk_06	Hay cosas que hay que aprender, y rápido. Los amigos son difíciles de conseguir hoy en día y, a medida que creces, se vuelven más y más valiosos. Nunca olvides lo importante que es... 	Patrick	Neutral	
+W5WedPatrickTalk_07	Mira, es un detalle por tu parte que lo digas. Pero ahora mismo, tengo que encontrarlos primero, y rápido. 	Flora	Neutral	
+W5WedPatrickTalk_08	Me gustaría ayudar, pero no tengo ni idea de dónde han ido. Un momento. Encontré este pedazo de mapa antes cuando estaba ordenando el centro de estudiantes. Tal vez tenga algo que ver con la fiesta. 	Patrick	Neutral	
+W5WedPatrickTalk_09	Gracias por todo.	Flora	Happy	
+W5WedPatrickTalk_10	Un placer. Espero que te ayude a encontrarlos. 	Patrick	Happy	
+W5WedPatrickTalk_11	Tal vez muestre el lugar de la fiesta.	Flora	Neutral	
+W5WedPatrickTalk2_01	¿Los has encontrado ya?	Patrick	Neutral	
+W5WedPatrickTalk2_02	Todavía no, pero lo estoy consiguiendo.	Flora	Neutral	
+W5WedPatrickTalk2_03	Estoy seguro de que lo harás. Buena suerte.	Patrick	Happy	
+W5WedNoOut2_01	Necesito la segunda sección del mapa.	Flora	Neutral	
+W5WedKiewTalk_01	Buenas tardes Kiew.	Flora	Neutral	
+W5WedKiewTalk_02	Buenas tardes, jovencita. ¿No entrenas esta tarde?	Kiew	Neutral	
+W5WedKiewTalk_03	A decir verdad, mis compañeros están organizando una fiesta, y yo estoy tratando de encontrarlos. 	Flora	Neutral	
+W5WedKiewTalk_04	Qué extraño. Habría pensado que una persona de carácter fuerte como tú podría dejar de lado la frivolidad y concentrarse en la competición. 	Kiew	Neutral	
+W5WedKiewTalk_05	Eso es lo que pensé al principio.	Flora	Neutral	
+W5WedKiewTalk_06	¿Qué te hizo cambiar de opinión?	Kiew	Neutral	
+W5WedKiewTalk_07	Me dije que nuestros momentos juntos eran lo que más valía para mí. 	Flora	Neutral	
+W5WedKiewTalk_08	Ya veo...	Kiew	Neutral	
+W5WedKiewTalk_09	No he tenido mucha oportunidad de estar con ellos últimamente. 	Flora	Badmood	
+W5WedKiewTalk_10	Quieres decir "estar con él"...	Kiew	Neutral	
+W5WedKiewTalk_11	¿Que qué?	Flora	Neutral	
+W5WedKiewTalk_12	No sé dónde han ido tus amigos, pero sí sé que si tomas el camino de la izquierda al salir de aquí y caminas por el arrozal, llegarás a una pequeña choza. Ahí es donde yo iría para una fiesta. Toma este mapa, así es más fácil. 	Kiew	Neutral	
+W5WedKiewTalk_13	Genial, lo comprobaré.	Flora	Neutral	
+W5WedKiewTalk2_01	¿Y qué pasa con la fiesta? ¿Cambiaste de opinión?	Kiew	Neutral	
+W5WedKiewTalk2_02	No, pero son más difíciles de encontrar de lo que pensé en un principio. 	Flora	Badmood	
+W5WedKiewTalk2_03	La perseverancia lo es todo. 	Kiew	Neutral	
+W5WedMorceau02_01	Es una sección del mapa. No entiendo... Hay una isla con un árbol muerto y una especie de cueva. ¿Pero dónde están? Y hay algo escrito en el reverso. 	Flora	Neutral	
+W5WedMorceau02_02	"Ante la luz del fuego, elige la oscuridad y encuentra el camino al corazón de la isla". ¿Qué clase de chorrada es esa, me pregunto?  	Flora	Neutral	
+W5WedPelle_01	Es una pala vieja y oxidada...	Flora	Neutral	
+W5WedMotte_01	La tierra ha sido excavada aquí no hace mucho tiempo. 	Flora	Neutral	
+W5WedCreuse_01	Es una manivela de madera.	Flora	Neutral	
+W5WedPuit_01	Falta la manivela para activarlo.	Flora	Neutral	
+W5WedPuitUse_01	Vale, tengo el cubo del fondo del pozo y hay algo dentro. 	Flora	Neutral	
+W5WedPuitUse_02	Es una sección de mapa, enrollada alrededor de una piedra con un hilo atado. 	Flora	Neutral	
+W5WedPuitUse_03	Hay una hoja dibujada en ella y otro mensaje...	Flora	Neutral	
+W5WedPuitUse_04	"Estoy ante ti, insignificante. Has visto este siglo y el anterior sin cambios. No me necesitas, pero tu único ojo contiene el camino hacia el calor de la amistad". ¿Por qué la gente tiene que ser tan complicada?	Flora	Badmood	
+W5WedPuitUse_05	Esa piedra es realmente extraña. ¡Es como si fuera magnética!	Flora	Neutral	
+W5WedPuitUse_06	El mensaje tenía una hoja dibujada. Supongo que tienes que encontrar un árbol enorme. 	Elsys	Neutral	
+W5WedTree_01	Hay un agujero en el tronco del árbol. Pero es demasiado profundo para que mi mano lo examine. 	Flora	Neutral	
+W5WedTreeUse_01	Hay algo pegado a la piedra magnética. ¡Es una llave! Parece muy antigua, como las antigüedades que se encuentran en los anticuarios.	Flora	Neutral	
+W5WedTreeUse_02	Otro mapa. Creo que voy a empezar una colección. Hay una inscripción: "Ilumina el camino para guiarte hacia nosotros"	Flora	Badmood	
+W5WedTreeUse2_01	Ya lo he hecho antes. Es inútil volver a hacerlo. 	Flora	Badmood	
+W5WedLanterne_01	Es una vieja linterna sin valor. Sin embargo, todavía funciona. 	Flora	Neutral	
+W5WedDarkWay_01	Está demasiado oscuro ese camino. No hay manera de que pueda bajar sin luz. 	Flora	Badmood	
+W5WedLanterneUse_01	Ya está. Ahora puedo explorar el camino. 	Flora	Happy	
+W5WedNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W5WedNoHorse2_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W5SatStart_01	Otra carta. Esta vez no hay duda de quién es mi admirador. 	Flora	Neutral	
+W5SatStart_02	"Te espero, en silencio, dejando señales tras de mí para guiarte hasta aquí. Una para descubrir, dos para vacilar y tres para decidir. Puedes dar la vuelta en cualquier momento y lo entenderé. Sigue tu corazón, y muéstrame tu alma; la acogeré sea cual sea su contenido. La primera pista se encuentra cerca de las cenizas de mi felicidad. Fue colocada para ti después de nuestra noche de fogata." 	Flora	Neutral	
+W5SatNoOut_01	El camino hacia el campamento está muy oscuro; necesitaré una luz. Lástima que haya tenido que dejar la vieja linterna. Debo tener una linterna en algún lugar entre mis cosas. 	Flora	Neutral	
+W5SatLampeOff_01	Es una linterna, pero las pilas están agotadas. ¿Cómo diablos voy a encontrar pilas por aquí? ¿Por qué es todo tan complicado? 	Flora	Badmood	
+W5SatLampeOff_02	Prueba primero en la tienda de antigüedades. Parece que tiene de todo. ¡Por qué no pilas también!	Elsys	Neutral	
+W5SatNoOut2_01	No. Todavía no hay pilas para la linterna. 	Flora	Neutral	
+W5SatBrocTalk_01	¿Qué haces aquí? ¿No me digas que también tienes una tienda aquí? 	Flora	Happy	
+W5SatBrocTalk_02	¡Qué agradable sorpresa! Parece que nuestros caminos están permanentemente destinados a cruzarse. 	Dubouquin	Happy	
+W5SatBrocTalk_03	Yo también me alegro de verte. ¿Qué te trae por aquí? 	Flora	Happy	
+W5SatBrocTalk_04	Tu querida persona, la verdad sea dicha.	Dubouquin	Neutral	
+W5SatBrocTalk_05	¿Qué? ¿Cómo es que soy responsable?	Flora	Neutral	
+W5SatBrocTalk_06	No directamente. En realidad fue el catálogo de antigüedades chinas que me diste, ¿recuerdas? 	Dubouquin	Neutral	
+W5SatBrocTalk_07	Sí, por supuesto.	Flora	Neutral	
+W5SatBrocTalk_08	Pues bien, hace poco investigué un poco la región y parece que hay un tesoro muy antiguo enterrado en la zona esperando a ser encontrado. He venido aquí para descubrirlo. 	Dubouquin	Neutral	
+W5SatBrocTalk_09	¿Caza del tesoro? ¿A tu edad? ¿Es una buena idea? 	Flora	Happy	
+W5SatBrocTalk_10	Deduzco que tú también has estado persiguiendo pistas extravagantes. 	Dubouquin	Happy	
+W5SatBrocTalk_11	¿Quién te ha dicho eso?	Flora	Angry	
+W5SatBrocTalk_12	Basta de charla, dime, ¿has venido por negocios?	Dubouquin	Happy	
+W5SatBrocTalk2_01	¡Así que, jovencita! ¿Las antigüedades te llamaron la atención?	Dubouquin	Neutral	
+W5SatBrocTalk2_02	Eh... no gracias...	Flora	Neutral	
+W5SatBrocTalk3_01	Dime, ¿no tendrás pilas para mi linterna?	Flora	Neutral	
+W5SatBrocTalk3_02	¿Baterías? ¿Parezco un supermercado?	Dubouquin	Angry	
+W5SatBrocTalk3_03	Disculpa, no quería parecer irrespetuosa.	Flora	Badmood	
+W5SatBrocTalk3_04	Ahora, ¡lárgate!	Dubouquin	Angry	
+W5SatSamTalk_01	Hola... No hay respuesta. Increíble. Siempre tiene los auriculares puestos. 	Flora	Neutral	
+W5SatSamTalk2_01	¡SAMUEL! 	Flora	Neutral	
+W5SatSamTalk2_02	¿Qu… Qué?	Samuel	Neutral	
+W5SatSamTalk2_03	Dime, ¿puedo tomar prestadas tus pilas por unos minutos? 	Flora	Neutral	
+W5SatSamTalk2_04	¿Mis pilas? ¿Pero cómo voy a escuchar música si te doy mis pilas?	Samuel	Neutral	
+W5SatSamTalk2_05	Sólo las necesito para una cosa.	Flora	Neutral	
+W5SatSamTalk2_06	¡De ninguna manera, a menos que me des otra forma de escuchar ....!	Samuel	Neutral	
+W5SatSamTalk2_07	Vamos... Samuel... ¡Oh no! ¡Se ha vuelto a poner los auriculares!	Flora	Badmood	
+W5SatSamTalk3_01	Samuel... ¡SAMUEL!	Flora	Neutral	
+W5SatSamTalk3_02	¿Y ahora qué? 	Samuel	Neutral	
+W5SatSamTalk3_03	He hablado con Aurélie y dice que está dispuesta a tocar el violín para ti. 	Flora	Happy	
+W5SatSamTalk3_04	¿Aurélie? ¿Violín? ¿Quieres matar mi confianza, o qué? 	Samuel	Badmood	
+W5SatSamTalk3_05	Últimamente ha llegado a lo grande. Deberías darle una oportunidad. Ella dijo que era un programa especial, sólo para ti.	Flora	Happy	
+W5SatSamTalk3_06	¿Ella ha dicho eso?	Samuel	Happy	
+W5SatSamTalk3_07	Totalmente.	Flora	Happy	
+W5SatSamTalk3_08	Siempre he tenido debilidad por el violín. A ver qué ofrece. 	Samuel	Happy	
+W5SatSamTalk3_09	Estoy segura de que sí.	Flora	Happy	
+W5SatAurelTalk_01	Hola, ¿qué haces a solas?	Flora	Neutral	
+W5SatAurelTalk_02	Estoy practicando con el violín, pero no tengo ganas de tocar. Si pudiera encontrar a alguien que me escuchara de verdad, estoy segura de que me haría mucho bien. Dime, ¿no tienes un momento libre? 	Aurelie	Badmood	
+W5SatAurelTalk_03	Lo siento, tengo un montón de cosas que hacer ahora mismo. Pero intentaré encontrarte a alguien. 	Flora	Neutral	
+W5SatAurelTalk_04	Oh, eso sería muy amable de tu parte.	Aurelie	Happy	
+W5SatAurelTalk2_01	Entonces, ¿has encontrado a alguien?	Aurelie	Neutral	
+W5SatAurelTalk2_02	Todavía no, pero estoy buscando.	Flora	Badmood	
+W5SatAurelTalk3_01	Será mejor que los deje. Parece que les va bien sin mí. 	Flora	Neutral	
+W5SatSamTalk4_01	Será mejor que los deje. Parece que les va bien sin mí.	Flora	Neutral	
+W5SatPiles_01	Es el reproductor de MP3 de Samuel. Y tiene pilas dentro.	Flora	Neutral	
+W5SatLampe_01	Ahora puedo usar la linterna para atravesar la oscuridad. 	Flora	Neutral	
+W5SatNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W5SatNoHorse2_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W5SatIndiceTake_01	"Es allí donde me sentí más cerca de ti. La luz del fuego bailaba en tu cara y brillaba en tus ojos como joyas. Mi segunda pista se encuentra más allá de una canción de descanso. Sigue el camino de pétalos azules."	Flora	Neutral	
+W5SatIndice2Take_01	"A menudo vengo a esta cascada y pienso en ti. Porque aquí hay una calma que exige respeto, un movimiento incesante, reposado abajo, turbulento en la cima. Me hace pensar en ti y en los torrentes de emoción que te sumergen a veces, haciéndote tan emocionante. Me encantaría pasar un día contigo, escuchando el agua y el tiempo borbotear. Deja que esta pequeña bolsa te lleve a mi tercera pista. Mira a lo lejos y quizás encuentres el camino hacia mi corazón".	Flora	Neutral	
+W5SatIndice2Take_02	Contiene pequeños granos de arroz. Quiere que vaya al campo de arroz.	Flora	Neutral	
+W5SatIndice2Take_03	Vi señales que parecían decir que hay un arrozal más arriba. Supongo que debería seguirlos. 	Elsys	Neutral	
+W5SatRiziere_01	Bien, he llegado. Ahora tengo que observar el paisaje para encontrar la pista. No tengo prismáticos, pero tengo mi cámara. 	Flora	Neutral	
+W5SatZoomOff_01	El zoom de mi cámara está atascado. Es imposible usarlo y realmente lo necesito para encontrar la pista. Alguien tendrá que repararlo para mí.	Flora	Angry	
+W5SatZoomOff2_01	El zoom de mi cámara está atascado. Es imposible usarlo. Alguien tendrá que repararlo para mí.	Flora	Angry	
+W5SatHarryTalk_01	Hola Harry, ¿descansando un poco?	Flora	Neutral	
+W5SatHarryTalk_02	¿Qué? En absoluto, estoy pensando en realidad.	Harry	Angry	
+W5SatHarryTalk_03	¿Pensando en lo que se va a quejar la próxima vez? 	Flora	Neutral	
+W5SatHarryTalk_04	Cuide sus modales, señorita. En realidad estaba pensando en cómo ganar la competición. Todos estáis pasando el tiempo fuera divirtiéndoos a saber dónde; no podéis perder ese ritmo de entrenamiento. 	Harry	Angry	
+W5SatHarryTalk_05	El entrenamiento comienza de nuevo mañana, el doble de duro, lo prometo. Pero ahora mismo, tengo otros peces que freír. 	Flora	Neutral	
+W5SatHarryTalk2_01	Dime, Harry, ¿qué sabes de cámaras? Tengo un problema con la mía. 	Flora	Neutral	
+W5SatHarryTalk2_02	No hay nada en esta hermosa tierra que no pueda reparar, jovencita, especialmente una cámara común o de jardín. 	Harry	Neutral	
+W5SatHarryTalk2_03	Genial, ¿puedes echarle un vistazo a la mía?	Flora	Neutral	
+W5SatHarryTalk2_04	Primero me gustaría pedirte un favor.	Harry	Neutral	
+W5SatHarryTalk2_05	¿Un favor? ¿A mí?	Flora	Neutral	
+W5SatHarryTalk2_06	Sí, así es... bueno, yo...	Harry	Badmood	
+W5SatHarryTalk2_07	¿Pareces inseguro de ti mismo por primera vez, Harry? ¿Qué pasa? 	Flora	Neutral	
+W5SatHarryTalk2_08	Es que... vi a tu joven amigo Caroll arreglando a Miguel...	Harry	Neutral	
+W5SatHarryTalk2_09	¿Qué? ¿Miguel tiene un nuevo look? ¿Y se ha dejado llevar por ella? ¿Qué aspecto tiene?	Flora	Neutral	
+W5SatHarryTalk2_10	Un pingüino, un pingüino muy encantador, eso sí.	Harry	Neutral	
+W5SatHarryTalk2_11	¿Un pingüino encantador?	Flora	Neutral	
+W5SatHarryTalk2_12	Ja, ja, claro que no. Estaba bromeando. Se ve espléndido, y eso es lo que me hizo preguntar...	Harry	Happy	
+W5SatHarryTalk2_13	¿Qué?	Flora	Neutral	
+W5SatHarryTalk2_14	Si podrías convencer a Caroll de que me hiciera lo mismo...	Harry	Neutral	
+W5SatHarryTalk2_15	¿Quieres decir: darte un cambio de estilo también? No puedo creerlo. 	Flora	Happy	
+W5SatHarryTalk2_16	Creo que es este entorno. Es tan relajante aquí. Estoy cansado de parecer tan... serio, ¿entiendes?	Harry	Neutral	
+W5SatHarryTalk2_17	Así es, Harry. Estás aprendiendo a vivir.... 	Flora	Happy	
+W5SatHarryTalk2_18	Vamos, no nos pasemos de la raya. No me voy a convertir en el alma de la vida de la noche a la mañana, me va a llevar tiempo. Digamos que podría hacerme menos... más... ya sabes...	Harry	Angry	
+W5SatHarryTalk2_19	¡Más agradable! ¡Quieres ser más agradable!	Flora	Happy	
+W5SatHarryTalk2_20	Sí, algo así...	Harry	Neutral	
+W5SatHarryTalk2_21	No te vayas, veré lo que puedo hacer. 	Flora	Happy	
+W5SatHarryTalk2_22	Mmm... me... gustaría...	Harry	Neutral	
+W5SatHarryTalk2_23	¿Darte las "gracias"?	Flora	Happy	
+W5SatHarryTalk2_24	Ehhh... sí, eso es...	Harry	Neutral	
+W5SatHarryTalk2_25	Déjalo en mis manos.	Flora	Happy	
+W5SatHarryTalk3_01	No. O hay buenas noticias o no hay noticias, o Harry no me ayudará. 	Flora	Neutral	
+W5SatCarollTalk_01	Caroll, ¿estás bien?	Flora	Happy	
+W5SatCarollTalk_02	No fui yo. ¡No es mi culpa!	Caroll	Badmood	
+W5SatCarollTalk_03	¿Qué pasa? ¡No he dicho nada!	Flora	Neutral	
+W5SatCarollTalk_04	Uf, entonces está bien...	Caroll	Happy	
+W5SatCarollTalk_05	Qué raro...	Flora	Neutral	
+W5SatCarollTalk2_01	Caroll, tengo un reto para ti.	Flora	Happy	
+W5SatCarollTalk2_02	No fui yo. ¡No fue mi culpa!	Caroll	Badmood	
+W5SatCarollTalk2_03	Acabo de enterarme de que has arreglado a Miguel sin decirme nada. 	Flora	Neutral	
+W5SatCarollTalk2_04	Lee mis labios: No fue mi culpa.	Caroll	Neutral	
+W5SatCarollTalk2_05	No hay problema, está genial.	Flora	Happy	
+W5SatCarollTalk2_06	¿De verdad? ¿Le has visto?	Caroll	Happy	
+W5SatCarollTalk2_07	Todavía no. El pequeño bribón se hace el difícil, así que necesito tu ayuda para encontrarlo. 	Flora	Happy	
+W5SatCarollTalk2_08	¿Qué puedo hacer?	Caroll	Neutral	
+W5SatCarollTalk2_09	Es una larga historia, digamos que Harry también quiere un cambio de imagen. 	Flora	Neutral	
+W5SatCarollTalk2_10	¿Harry? ¿Quieres que me encargue de Harry? ¡¡De ninguna manera!!	Caroll	Badmood	
+W5SatCarollTalk2_11	¿Por qué no?	Flora	Neutral	
+W5SatCarollTalk2_12	¿Y si no le gusta? ¡Lo pagará conmigo! Lo has visto cuando se enfada. No podía afrontar la idea de que se enfadara conmigo. 	Caroll	Badmood	
+W5SatCarollTalk2_13	Vamos, Caroll, ¿dónde está tu sentido de la aventura?	Flora	Happy	
+W5SatCarollTalk2_14	¿Aventura?	Caroll	Neutral	
+W5SatCarollTalk2_15	Por supuesto. Es un gran desafío. Estamos hablando: "Cambiar a Harry". Harry el gruñón, Harry el malhumorado...	Flora	Happy	
+W5SatCarollTalk2_16	...Harry el Jorobado.	Caroll	Neutral	
+W5SatCarollTalk2_17	Exactamente. Y si hay alguien que pueda convertir a Jorobado Gruñón en Harry el Amigable, ¡eres tú!	Flora	Happy	
+W5SatCarollTalk2_18	¡Sí! Eso sería increíble. Ahora, eso es un verdadero desafío. Me apunto. ¿Cuándo empezamos? 	Caroll	Happy	
+W5SatCarollTalk2_19	Bueno, tiene que hacerme un favor y luego es todo tuyo.	Flora	Neutral	
+W5SatCarollTalk2_20	¡Genial! Ya lo puedo imaginar. Inteligente y... colorido.	Caroll	Happy	
+W5SatCarollTalk2_21	No nos dejemos llevar demasiado, ¿eh? 	Flora	Badmood	
+W5SatHarryTalk4_01	Entonces, ¿qué es lo que ha dicho?	Harry	Neutral	
+W5SatHarryTalk4_02	¡Lo hará! ¡Tienes mi palabra!	Flora	Happy	
+W5SatHarryTalk4_03	Uf, eso es maravilloso. Ahora, esa cámara, vamos a echar un vistazo...	Harry	Happy	
+W5SatHarryTalk4_04	Aquí tienes.	Flora	Neutral	
+W5SatHarryTalk4_05	Vale... bien, sí, ya veo, por supuesto. Un pequeño giro aquí ... Y un movimiento rápido allí ... mmm pequeña amiga difícil ... ahhh, y ahí vamos. Como nueva.	Harry	Angry	
+W5SatHarryTalk4_06	¡Increíble! Eres un mago.	Flora	Happy	
+W5SatHarryTalk5_01	¿Sigue perdido en sus pensamientos?	Flora	Neutral	
+W5SatHarryTalk5_02	Sí, estoy pensando en mi nuevo look...	Harry	Neutral	
+W5SatHarryTalk5_03	Bueno, te dejo con ello, y gracias de nuevo...	Flora	Happy	
+W5SatCarollTalk3_01	¿Entonces? ¿Cuándo empiezo?	Caroll	Happy	
+W5SatCarollTalk3_02	Tranquila, tigresa. Dale tiempo para pensar en lo que quiere.	Flora	Neutral	
+W5SatPhotoCode_01	Hay un mapa dibujado en la bandera y un número 13/09. Un momento, ¡es la fecha exacta en la que entré en la academia! 	Flora	Neutral	
+W5SatNoCode_01	Hay una cerradura con combinación en la puerta.	Flora	Neutral	
+W5SatEnd_01	Ya está. Las tres pistas: Una para descubrir, dos para dudar y tres para decidir. Bueno, Sr. Miguel, ya me he decidido. 	Flora	Neutral	
+W6WedSamTalk_01	Samuel, necesito tu ayuda. Todos necesitamos tu ayuda. 	Flora	Neutral	
+W6WedSamTalk_02	¿Qué puedo hacer por ti?	Samuel	Neutral	
+W6WedSamTalk_03	La academia está en problemas. Si no reunimos 150.000 créditos antes de la competición, no podremos participar.	Flora	Neutral	
+W6WedSamTalk_04	¿Por qué tan rápido?	Samuel	Neutral	
+W6WedSamTalk_05	Es otro truco de Esteban. Quiere que nos retiremos.	Flora	Angry	
+W6WedSamTalk_06	Bueno, estaba ahorrando para un instrumento musical, pero puede esperar. Es imposible que ese sapo Esteban nos arruine la vida. Aquí están todos los créditos que tengo. 	Samuel	Angry	
+W6WedSamTalk_07	¡500? No es el premio gordo, pero es un comienzo. Muchas gracias Samuel.	Flora	Neutral	
+W6WedSamTalk_08	Lo siento, no puedo ayudar más.	Samuel	Badmood	
+W6WedSamTalk2_01	Entonces, ¿tienes el dinero?	Samuel	Neutral	
+W6WedSamTalk2_02	Todavía no, pero no me rindo fácilmente. 	Flora	Neutral	
+W6WedCarolTalk_01	Caroll, tenemos un problema.	Flora	Neutral	
+W6WedCarolTalk_02	Exacto. Es el cambio de imagen de su vida. El amigable Harry está en camino. He hecho algunos bocetos. ¿Quieres verlos?  	Caroll	Neutral	
+W6WedCarolTalk_03	Más tarde tal vez. Hay cosas más grandes ocurriendo. La academia necesita tu ayuda, Caroll.	Flora	Neutral	
+W6WedCarolTalk_04	¿Qué pasa?	Caroll	Neutral	
+W6WedCarolTalk_05	Esteban está tratando de conseguir el cierre de la Academia. Si no encontramos 150.000 créditos antes del concurso, es probable que lo haga.	Flora	Angry	
+W6WedCarolTalk_06	Pero es una barbaridad. Si la academia cierra no podré preparar a Harry. Será inútil. 	Caroll	Badmood	
+W6WedCarolTalk_07	Eh, sí, eso es. ¿Lo ves? Es serio. ¿Has ahorrado algunos créditos últimamente que puedan ayudarnos a pagar la deuda? 	Flora	Neutral	
+W6WedCarolTalk_08	Pues... en realidad...	Caroll	Badmood	
+W6WedCarolTalk_09	Ninguno, ¿es eso?	Flora	Badmood	
+W6WedCarolTalk_10	Había ahorrado un poco. Pero ayer fui a comprar para Harry: camisas extra... pantalones... para experimentar. Me imaginé que sería difícil de complacer. Todavía me quedan algunos. 	Caroll	Badmood	
+W6WedCarolTalk_11	¿Cuántos?	Flora	Neutral	
+W6WedCarolTalk_12	Eh... 100 créditos... Son tuyos con mucho gusto.	Caroll	Badmood	
+W6WedCarolTalk_13	¡Siempre es mejor que nada! Muchas gracias. 	Flora	Happy	
+W6WedCarolTalk2_01	Caroll, tenemos un problema.	Flora	Neutral	
+W6WedCarolTalk2_02	Exacto. Es el cambio de imagen de su vida. El amigable Harry está en camino. He hecho algunos bocetos. ¿Quieres verlos?  	Caroll	Neutral	
+W6WedCarolTalk2_03	Más tarde tal vez. Hay cosas más grandes ocurriendo. La academia necesita tu ayuda, Caroll.	Flora	Neutral	
+W6WedCarolTalk2_04	¿Qué pasa?	Caroll	Neutral	
+W6WedCarolTalk2_05	Esteban está tratando de conseguir el cierre de la Academia. Si no encontramos 150.000 créditos antes del concurso, es probable que lo haga.	Flora	Angry	
+W6WedCarolTalk2_06	Pero es una barbaridad. Si la academia cierra no podré preparar a Harry. Será inútil. 	Caroll	Badmood	
+W6WedCarolTalk2_07	Eh, sí, eso es. ¿Lo ves? Es serio. ¿Has ahorrado algunos créditos últimamente que puedan ayudarnos a pagar la deuda? 	Flora	Neutral	
+W6WedCarolTalk2_08	Pues... en realidad...	Caroll	Badmood	
+W6WedCarolTalk2_09	Ninguno, ¿es eso?	Flora	Badmood	
+W6WedCarolTalk2_10	Había ahorrado un poco. Pero ayer fui a comprar para Harry: camisas extra... pantalones... para experimentar. Me imaginé que sería difícil de complacer. Todavía me quedan algunos. 	Caroll	Badmood	
+W6WedCarolTalk2_11	¿Cuántos?	Flora	Neutral	
+W6WedCarolTalk2_12	Eh... 100 créditos... Son tuyos con mucho gusto.	Caroll	Badmood	
+W6WedCarolTalk2_13	¡Siempre es mejor que nada! Muchas gracias. 	Flora	Happy	
+W6WedCarolTalk2_14	Si buscas a Aurélie, la vi junto al arrozal.	Caroll	Neutral	
+W6WedCarolTalk3_01	¿Cómo va todo?	Caroll	Neutral	
+W6WedCarolTalk3_02	Dale tiempo. Voy en la dirección correcta. 	Flora	Neutral	
+W6WedCarolTalk3_03	¡Buena suerte!	Caroll	Happy	
+W6WedAurelTalk_01	Aurélie, ¿qué estás haciendo?	Flora	Neutral	
+W6WedAurelTalk_02	Tenía que escribir un poema, así que vine a empaparme del paisaje. Estos vastos campos de arroz me inspiran profundamente. ¿Sabías que a las plantas también les gusta la música? Hubo un experimento, una vez... 	Aurelie	Happy	
+W6WedAurelTalk_03	Escucha, tengo que hablar contigo. Es bastante urgente.	Flora	Neutral	
+W6WedAurelTalk_04	¿Qué ha pasado? Pareces muy seria de repente.	Aurelie	Neutral	
+W6WedAurelTalk_05	Tenemos un gran problema. El plazo de pago de la deuda de la Academia se ha adelantado. Es un truco de Esteban. Si no lo pagamos antes del fin de semana, hará cerrar la Academia.	Flora	Badmood	
+W6WedAurelTalk_06	¡Esto es indignante! Ese hombre es la leche. ¿Qué vamos a hacer?	Aurelie	Badmood	
+W6WedAurelTalk_07	Estoy tratando de conseguir el dinero, por eso he venido a verte.	Flora	Neutral	
+W6WedAurelTalk_08	Vale, eres la más luchadora de nuestro grupo, eso está claro. No dejas que nadie te pase por encima. Admiro tu fuerza y determinación. Intentaré ayudar lo mejor que pueda. ¡Toma! Mis ahorros. 	Aurelie	Happy	
+W6WedAurelTalk_09	¿1.200 créditos? Es muy amable de tu parte. Haré lo que pueda. Salvaremos esta Academia. 	Flora	Happy	
+W6WedAurelTalk_10	Estoy segura de que lo lograrás. Ganas todo lo que tocas. 	Aurelie	Happy	
+W6WedAurelTalk_11	Gracias Aurélie.	Flora	Happy	
+W6WedAurelTalk2_01	¿Cómo va tu recaudación?	Aurelie	Neutral	
+W6WedAurelTalk2_02	Muy bien. Pero todavía hay mucho que hacer.	Flora	Neutral	
+W6WedAurelTalk2_03	La Academia ya está a salvo contigo.	Aurelie	Happy	
+W6WedAurelTalk2_04	Tu fe es conmovedora.	Flora	Happy	
+W6WedMiguelTalk_01	Pensé que te encontraría aquí.	Flora	Neutral	
+W6WedMiguelTalk_02	Es mi retiro. Cuando no estoy entrenando, vengo aquí en busca de paz y tranquilidad. 	MiguelEnd	Neutral	
+W6WedMiguelTalk_03	Tu paz y tranquilidad está en las rocas, Miguel, peligrosamente. 	Flora	Badmood	
+W6WedMiguelTalk_04	¿Qué? Hice algo que no te gustó, ¿es eso?	MiguelEnd	Badmood	
+W6WedMiguelTalk_05	No, Miguel. No soy un ogro, ¿verdad? No tiene nada que ver contigo, eres perfecto. 	Flora	Neutral	
+W6WedMiguelTalk_06	No eres un ogro, sólo eres impredecible. De todos modos, ¿cuál es el problema?	MiguelEnd	Neutral	
+W6WedMiguelTalk_07	Por culpa de Esteban, la Academia está amenazada de quiebra. Si no recaudamos 150.000 créditos muy pronto, podemos despedirnos de la próxima competición y de todas las demás posteriores.	Flora	Badmood	
+W6WedMiguelTalk_08	¿Nunca nos dejará en paz? ¡Hizo de tu vida un infierno y ahora la tiene con todos nosotros!	MiguelEnd	Badmood	
+W6WedMiguelTalk_09	Odio tener que pedirte esto, pero ¿podrías ayudarnos?	Flora	Neutral	
+W6WedMiguelTalk_10	Por supuesto, haría cualquier cosa para ayudar a que tu sueño se haga realidad. 	MiguelEnd	Neutral	
+W6WedMiguelTalk_11	Eres adorable, Miguel.	Flora	Happy	
+W6WedMiguelTalk_12	Aquí están mis créditos.	MiguelEnd	Neutral	
+W6WedMiguelTalk_13	¿3.200 créditos? Eso es demasiado. No puedo aceptar tanta cantidad.	Flora	Neutral	
+W6WedMiguelTalk_14	Tómalos, es un placer ayudar a la Academia en su momento de necesidad.	MiguelEnd	Happy	
+W6WedMiguelTalk_15	¿Cómo es que has ahorrado tanto?	Flora	Neutral	
+W6WedMiguelTalk_16	Oh, ya sabes. No necesito mucho durante el año. Un poco de papel, un bolígrafo, inspiración y tu cara; es algo que los créditos no pueden comprar. 	MiguelEnd	Neutral	
+W6WedMiguelTalk_17	No puedo agradecértelo lo suficiente. Por tu gesto, por estar ahí, por existir. Eres maravilloso, Miguel. 	Flora	Happy	
+W6WedMiguelTalk_18	Tú también eres maravillosa, Flora. Le mostraremos a Esteban que puede lanzar todo lo que tiene contra nosotros, pero no caeremos. Vamos, salva la Academia. 	MiguelEnd	Happy	
+W6WedMiguelTalk2_01	¿Crees que lo conseguirás?	MiguelEnd	Neutral	
+W6WedMiguelTalk2_02	Todavía no estoy segura. Es más difícil de lo que pensaba, pero no me rendiré.	Flora	Neutral	
+W6WedMiguelTalk2_03	¡Qué bien, chica! Sigue así. Creo en ti, en cuerpo y alma. 	MiguelEnd	Happy	
+W6WedMiguelTalk2_04	No te decepcionaré.	Flora	Happy	
+W6WedNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W6WedDanielTalk_01	Es la pequeña chica de la Academia Sycamore. 	Daniela	Neutral	
+W6WedDanielTalk_02	Es la llamada estrella estudiantil de la escuela de Esteban.	Flora	Neutral	
+W6WedDanielTalk_03	Así es. Y he trabajado duro para tener ese privilegio. Soy simplemente imbatible en la competición; pero puedo decir que mi reputación va por delante de mí. Por supuesto, la Academia de Esteban es sólo una etapa. Mi ambición es unirme aquí a la Academia Cherry Tree y convertirme en la mejor. Incluso mejor que la propia Kiew, si eso es posible. 	Daniela	Neutral	
+W6WedDanielTalk_04	Desde luego, no te falta ambición, ni orgullo.	Flora	Angry	
+W6WedDanielTalk_05	He oído hablar mucho de ti. Informes brillantes. Hace tiempo que quiero conocerte. ¿Qué le dirías a una carrera, solas tú y yo?	Daniela	Neutral	
+W6WedDanielTalk_06	¿Una carrera? Lo siento, Daniela, tengo cosas mucho más importantes pendientes. 	Flora	Neutral	
+W6WedDanielTalk_07	Oh, me decepcionas. Nunca pensé que la gran campeona del Sycamore fuera tan gallina. 	Daniela	Badmood	
+W6WedDanielTalk_08	Nadie me llama "gallina", ¿entiendes?	Flora	Angry	
+W6WedDanielTalk_09	Entonces, demuéstralo. Hagamos una carrera.	Daniela	Happy	
+W6WedDanielTalk_10	Vale, te echo una carrera. Pero odio perder el tiempo, así que tengo un trato para ti: corremos por créditos. 	Flora	Neutral	
+W6WedDanielTalk_11	Una gran idea... Tengo 25.000 encima. Son todos tuyos si ganas. ¿Qué dices?	Daniela	Neutral	
+W6WedDanielTalk_12	¿25.000? 	Flora	Neutral	
+W6WedDanielTalk_13	No olvides que la Academia Beachwood es la más rica de todas. Esteban nos recompensa generosamente cuando ganamos. Nos hace más hambrientos para la lucha. ¿Estás lista?	Daniela	Neutral	
+W6WedDanielTalk_14	Creo que voy a disfrutar restregándotelo por la cara. 	Flora	Neutral	
+W6WedRaceGo_01	¡Rápido! Para continuar la aventura, tienes que vencer a Daniela. ¡Utiliza las señales para llegar al arrozal antes que ella!	Elsys	Neutral	
+W6WedRaceLoose_01	Oh no, Daniela llegó primero. Vuelve a intentarlo y esta vez trata de cortar las esquinas de las curvas que llevan a la parte superior del arrozal.	Elsys	Neutral	
+W6WedRaceGameOver_01	Daniela es la ganadora absoluta. No has conseguido el dinero. La aventura termina aquí para ti.	Elsys	Neutral	
+W6WedDanielTalk2_01	No fui a por todas, quería ver lo que podías hacer. Debo decir que no me decepcionaste. No puedo esperar a una competición real contra ti, si todavía tienes una Academia para el viernes, claro. 	Daniela	Neutral	
+W6WedDanielTalk2_02	Puede que no te hayas dado cuenta, pero le has hecho un gran favor a nuestra Academia. 	Flora	Happy	
+W6WedDanielTalk2_03	¿Los créditos son para pagar vuestras deudas?	Daniela	Neutral	
+W6WedDanielTalk2_04	Así es. Es bueno ver que el dinero de Esteban se utiliza bien. 	Flora	Happy	
+W6WedDanielTalk2_05	Lo que sea. Si tu Academia sigue en pie, ganarte tendrá un toque especial. Buena suerte, y que gane la mejor Academia. 	Daniela	Neutral	
+W6WedDanielTalk2_06	¡Es una chica muy rara!	Flora	Neutral	
+W6WedBrocTalk_01	Hola, me gustaría hablar, si me permites.	Flora	Neutral	
+W6WedBrocTalk_02	Me encantaría, pero como ves estoy en medio de una investigación, así que no tengo mucho tiempo para hablar ahora. Pero vuelve más tarde. 	Dubouquin	Neutral	
+W6WedBrocTalk_03	¿Qué está investigando?	Flora	Neutral	
+W6WedBrocTalk_04	Todavía estoy buscando el tesoro escondido, pero he avanzado a pasos agigantados. Descubrí este antiguo poema que dice dónde está escondido el tesoro. 	Dubouquin	Neutral	
+W6WedBrocTalk_05	¿Un poema? ¿Podrías leérmelo? Me encantan los poemas.	Flora	Neutral	
+W6WedBrocTalk_06	Ese es el problema. No puedo entender una salchicha. Está todo escrito en un antiguo dialecto chino. Me pareces una chica brillante, pero me imagino que incluso tú tendrías problemas para entenderlo. 	Dubouquin	Neutral	
+W6WedBrocTalk_07	Es cierto que los dialectos chinos no son mi especialidad. Pero podría encontrar a alguien que te lo traduzca. Tengo una amiga que podría ayudar. 	Flora	Neutral	
+W6WedBrocTalk_08	¿De verdad? En ese caso, aquí tienes. Consigue la traducción y vuelve a verme. Y trataremos de llegar al fondo de esto. 	Dubouquin	Happy	
+W6WedBrocTalk_09	Muy bien.	Flora	Neutral	
+W6WedBrocTalk2_01	Primero tengo que descifrar el poema, si no, no sirve de nada. 	Flora	Badmood	
+W6WedKiewTalk_01	¡Kiew! ¡Me alegro de verte! ¿Podrías hacerme un favor? Un amigo quiere traducir este pergamino. Pensé que podrías ayudar. 	Flora	Neutral	
+W6WedKiewTalk_02	Lo siento. Me encantaría ayudar, pero tengo un gran problema ahora mismo, ¡Ginger ha desaparecido!	Kiew	Badmood	
+W6WedKiewTalk_03	¿Qué? ¿Cómo?	Flora	Neutral	
+W6WedKiewTalk_04	Quería ir a dar un paseo y debe haberse perdido. La última vez que la vi fue aquí, así que no me atrevo a moverme por si vuelve. ¿Tal vez podrías ir a buscarla y darle este mapa de la zona? 	Kiew	Badmood	
+W6WedKiewTalk_05	Por supuesto, sería terrible que se perdiera. ¡Puedes contar conmigo!	Flora	Neutral	
+W6WedKiewTalk_06	Muchas gracias. Pero date prisa, ¡la noche cae muy rápido aquí!	Kiew	Badmood	
+W6WedKiewTalk2_01	Entonces, ¿la has visto?	Kiew	Badmood	
+W6WedKiewTalk2_02	Todavía no, pero sigo buscando.	Flora	Neutral	
+W6WedKiewTalk2_03	Por favor, date prisa. Tengo miedo de que le haya pasado algo.	Kiew	Badmood	
+W6WedKiewTalk2_04	No te preocupes, estoy en el caso.	Flora	Neutral	
+W6WedGingTalk_01	¡Ginger! ¡Te he estado buscando por todas partes! ¡Kiew está muy preocupada!	Flora	Happy	
+W6WedGingTalk_02	¿De verdad? Sólo quería recoger algunas bayas silvestres. Supongo que debo haberme perdido. 	Ginger	Neutral	
+W6WedGingTalk_03	Kiew me dio esto para ti.	Flora	Neutral	
+W6WedGingTalk_04	¿Un mapa? Muchas gracias. Estoy agotada de tanto caminar. Voy a volver a la academia. Dile que me las arreglé para encontrar el camino, gracias a ti. 	Ginger	Neutral	
+W6WedGingTalk_05	Por supuesto. Se lo diré.	Flora	Happy	
+W6WedKiewTalk3_01	Kiew, encontré a Ginger. Le di el mapa y está volviendo a la Academia. 	Flora	Happy	
+W6WedKiewTalk3_02	Estoy muy aliviada. Gracias de nuevo por tu ayuda. Oye, un momento, ¿no tenías que pedirme un favor? 	Kiew	Happy	
+W6WedKiewTalk3_03	Ah sí, quería que tradujeras este poema.	Flora	Neutral	
+W6WedKiewTalk3_04	Déjame ver... Mmmm... Es muy antiguo. Voy a escribir una traducción aquí. Es un poco difícil. El dialecto es muy raro hoy en día, pero todo el significado está ahí. 	Kiew	Neutral	
+W6WedKiewTalk3_05	Muchas gracias...	Flora	Badmood	
+W6WedKiewTalk3_06	¿Qué pasa? ¿Por qué esa cara tan larga?	Kiew	Neutral	
+W6WedKiewTalk3_07	Lo siento, pero no puedo evitar pensar en los problemas de mi Academia. 	Flora	Badmood	
+W6WedKiewTalk3_08	¿Problemas? ¿Qué problemas?	Kiew	Neutral	
+W6WedKiewTalk3_09	Esteban ha estado moviendo los hilos y nos han pedido que paguemos nuestras deudas antes de lo acordado. Me preocupa mucho que si no pagamos al banco, la Academia se vea obligada a cerrar antes de la próxima competición. 	Flora	Badmood	
+W6WedKiewTalk3_10	¿Esteban ha hecho eso? Increíble. No se detiene ante nada. ¿Cuántos créditos necesita tu Academia? 	Kiew	Badmood	
+W6WedKiewTalk3_11	150.000 créditos.	Flora	Badmood	
+W6WedKiewTalk3_12	Me temo que no tengo esa cantidad encima. Pero puedo darte lo que tengo, después del favor que me hiciste. Aquí tienes 20.000 créditos.	Kiew	Neutral	
+W6WedKiewTalk3_13	Gracias, muchísimas gracias.	Flora	Happy	
+W6WedKiewTalk3_14	Es un placer, si te ayuda a seguir en la competición. Esteban se merece perder el campeonato, pero debe perderlo con derecho y honor, no utilizando algún truco solapado para salirse con la suya. 	Kiew	Neutral	
+W6WedKiewTalk3_15	Nunca olvidaré lo que hiciste por nosotros, Kiew.	Flora	Happy	
+W6WedKiewTalk3_16	No me lo agradezcas. Por una vez, tengo verdaderos oponentes. 	Kiew	Happy	
+W6WedBrocTalk3_01	¡Aquí está la traducción que querías!	Flora	Happy	
+W6WedBrocTalk3_02	¡Oh, maravilloso! ¡Déjame ver!	Dubouquin	Happy	
+W6WedBrocTalk3_03	"La ofrenda de lentejuelas devuelta a su trono libera el mástil de los sueños para transportar al aventurero al lecho de la joya dormida". Pero, ¡es un sinsentido!	Dubouquin	Angry	
+W6WedBrocTalk3_04	Es un poco confuso, lo reconozco.	Flora	Neutral	
+W6WedBrocTalk3_05	Toda esa investigación para esto... ¡Tonterías! ¡Es inútil! ¡Totalmente inútil!	Dubouquin	Angry	
+W6WedBrocTalk3_06	¿Quieres decir que lo dejas todo?	Flora	Badmood	
+W6WedBrocTalk3_07	Por supuesto que no, pero las cosas son mucho más difíciles de lo que pensaba. Se necesita el alma de un poeta para entender lo que esto significa.	Dubouquin	Badmood	
+W6WedBrocTalk4_01	Ah, querida niña, este pergamino me ha dejado perplejo. El tesoro me desafía a cada paso. 	Dubouquin	Badmood	
+W6WedMiguelTalk3_01	Dime, Miguel, tengo este antiguo poema y me preguntaba qué piensas de él. 	Flora	Neutral	
+W6WedMiguelTalk3_02	Veamos... "La ofrenda de lentejuelas devuelta a su trono libera el mástil de los sueños para transportar al aventurero al lecho de la joya dormida."	MiguelEnd	Neutral	
+W6WedMiguelTalk3_03	¿Y bien?	Flora	Neutral	
+W6WedMiguelTalk3_04	Es hermoso.	MiguelEnd	Neutral	
+W6WedMiguelTalk3_05	¿Quieres decir que entiendes algo?	Flora	Neutral	
+W6WedMiguelTalk3_06	¡Por supuesto! La "ofrenda de lentejuelas" es una joya que tienes que colocar en su base para lanzar el "mástil de los sueños". 	MiguelEnd	Neutral	
+W6WedMiguelTalk3_07	¿Y?	Flora	Neutral	
+W6WedMiguelTalk3_08	"El mástil de los sueños" es una imagen que describe una embarcación o un barco si lo prefieres. Una vez zarpado, el barco te llevará al lecho de la joya dormida, lo que significa que seguirá el lecho de un río que conduce a algún tipo de tesoro. 	MiguelEnd	Neutral	
+W6WedMiguelTalk3_09	¿Eh?	Flora	Neutral	
+W6WedMiguelTalk3_10	En una palabra, dice "Encuentra un barco y sube a bordo". 	MiguelEnd	Neutral	
+W6WedMiguelTalk3_11	¿De dónde sacas el cerebro para estos acertijos?	Flora	Happy	
+W6WedUnlockConque_01	Increíble, es como una llave. La cadena que sujeta el barco está libre. Puedo subir a bordo. 	Flora	Happy	
+W6WedGoConque0_01	Bien, supongo que me dejaré llevar por la corriente.	Flora	Happy	
+W6WedIlot_01	Oh no, no puedo equivocarme. Uno de ellos es un tesoro de valor incalculable, pero ¿cuál? Sólo puedo llevar uno de ellos. 	Flora	Neutral	
+W6WedBrocWrong1_01	Creo que he encontrado algo que puede interesarte. 	Flora	Happy	
+W6WedBrocWrong1_02	No vale nada, jovencita, una pálida copia del original, como un rompecabezas de la Mona Lisa. 10 créditos en un mercadillo si tienes suerte.	Dubouquin	Neutral	
+W6WedBrocWrong2_01	Creo que he encontrado algo que puede interesarte. 	Flora	Happy	
+W6WedBrocWrong2_02	No vale nada, jovencita, una pálida copia del original, como un rompecabezas de la Mona Lisa. 10 créditos en un mercadillo si tienes suerte.	Dubouquin	Neutral	
+W6WedBrocRight_01	¡Increíble! ¡Una verdadera obra de arte! ¡Déjame ver!	Dubouquin	Happy	
+W6WedBrocRight_02	¡Fabuloso! El... oh... es el... ahhh... me faltan las palabras.	Dubouquin	Happy	
+W6WedBrocRight_03	Ehm... Creo que es hora de que tú y yo hablemos de negocios. 	Flora	Neutral	
+W6WedBrocRight_04	¿A qué te refieres?	Dubouquin	Neutral	
+W6WedBrocRight_05	Digámoslo así: tú quieres la estatua y yo necesito dinero. Ahora mismo. 	Flora	Happy	
+W6WedBrocRight_06	Vamos, jovencita, dejemos de lado el materialismo vulgar. Esto es arqueología, ciencia. Tienes un trofeo de la historia en tus manos. 	Dubouquin	Badmood	
+W6WedBrocRight_07	Y yo digo que todo trabajo tiene su recompensa. Entonces, ¿cuánto vale el descubrir la cosa?	Flora	Neutral	
+W6WedBrocRight_08	Oh, no mucho, ya sabes. Es una escultura... un molde, de un artesano sin importancia.	Dubouquin	Badmood	
+W6WedBrocRight_09	Pero antes hablabas de "verdadera obra de arte". "Increíble, fabuloso, ooooh, aaaahh y me faltan las palabras..."	Flora	Angry	
+W6WedBrocRight_10	Tal vez la emoción me afectó un poco.	Dubouquin	Neutral	
+W6WedBrocRight_11	Escucha, esto es lo que haré. Llevaré este pequeño "molde" a mi amiga que tradujo el poema; tal vez ella pueda decirnos lo que vale, ¿entendido?  	Flora	Neutral	
+W6WedBrocRight_12	¡Tsk, tsk, tsk! No dejes que nadie lo vea. Vaya, vaya, has hecho un trato duro. Te daré 100.000 créditos. ¡Y no hay que objetar!	Dubouquin	Angry	
+W6WedBrocRight_13	¡100.000 créditos! Buen precio. ¡Y tan libre de objeciones! ¡Aquí está tu estatua!	Flora	Happy	
+W6WedBrocRight_14	Y aquí están tus 100.000 créditos. ¡Ahora lárgate!	Dubouquin	Angry	
+W6WedBrocRight_15	Gracias de nuevo. Ha sido un placer hacer negocios.	Flora	Happy	
+W6WedBrocRight_16	Ja, ja. Hasta luego. Creo que es hora de cerrar la tienda, si a nadie le importa. 	Dubouquin	Happy	
+W6WedNoMoney_01	No, todavía no has reunido los créditos necesarios.	Elsys	Neutral	
+W6SatStart_01	Tengo que ir a la Academia y averiguar dónde se celebra la competición. Todo el mundo estará ya allí. Tengo que darme prisa si quiero participar. 	Flora	Neutral	
+W6SatNoHorse_01	Será mejor que vayas con tu caballo. No puedes dejarlo vagando fuera.	Elsys	Neutral	
+W6SatEnd_01	"Aquí hay un mapa para llegar a la competición. No llegues tarde. Mucho ánimo, tu equipo, que cuenta contigo."	Flora	Neutral	
+W6SatEnd_02	Bueno, Esteban, parece que tus tontos planes vuelven a fracasar. Ahora podré mostrarte lo que puedo hacer, y tú volverás a casa lloriqueando como el miserable perdedor que eres. 	Flora	Angry	
+W6SatReplay_01	No has llegado a tiempo a la competición. Vuelve a intentarlo.	Elsys	Neutral	
+W6SatReplay2_01	No has llegado a tiempo a la competición. Vuelve a intentarlo.	Elsys	Neutral	
+W6SatGameOver_01	No has llegado a tiempo a la competición. Por desgracia, Esteban ha ganado. La aventura ha terminado. 	Elsys	Neutral	
+W1MonTutCalendar_01	Eres libre de organizar tus días como quieras. Cada día tienes que entrenar en 4 disciplinas seleccionadas de una lista. 	Alexandra	Neutral	
+W1MonTutCalendar_02	Tienes un horario que debes rellenar con las disciplinas que quieres cursar. Lo único que tienes que hacer es arrastrar y soltar las actividades que quieras y luego validarlas. 	Alexandra	Neutral	
+W1MonTutCalendar_03	Asegúrate de que te tomas muy en serio la elección de las disciplinas. Algunas disciplinas cuentan para la evaluación final. Te recomendamos que no te pases todo el día dando vueltas por el centro de estudiantes. Puede que te rías, pero es fácil hacerlo. :-)	Patrick	Neutral	
+W1MonTutCalendar_04	¡Ejem! Pase lo que pase, no olvides que una vez que el día ha comenzado, las actividades no pueden cambiarse. 	Jade	Neutral	
+W1MonTutCalendar_05	Tu profesor organizará los primeros días para ayudarte a descubrir cada disciplina y entender cómo funciona tu horario. 	Alexandra	Neutral	
+W1MonTutCalendar_06	No te preocupes, no es tan difícil como parece. Rellenar tu propio horario puede ser bastante divertido.	Alexandra	Neutral	
+W1MonTutCalendar_07	Supongo que tienes ganas de empezar. Pues bien, pongámonos en marcha.	Alexandra	Happy	
+W1MonTutCalendar_08	Para empezar, hay que hacer clic en "Inicio".	Elsys	Neutral	
+W1MonTutBox1Start_01	Buenos días, jovencita. Estoy aquí para enseñarte a cuidar de tu caballo. El cuidado del caballo es esencial y debe tomarse muy en serio si quieres montar un caballo sano. 	Harry	Neutral	
+W1MonTutBox1Start_02	Lo entiendo, pero ¿qué tengo que hacer?	Flora	Neutral	
+W1MonTutBox1Start_03	Elige una de las categorías de tareas de cuidado del caballo. El tiempo no está de nuestro lado hoy, como habrás notado, así que no es buena idea duchar a tu caballo. Sin embargo, puedes darle un buen cepillado. 	Harry	Neutral	
+W1MonTutBox1Start_04	Para conocer el tiempo de la semana, escribe esta dirección en el ordenador del centro de estudiantes: www.online-weather.ubi	Elsys	Neutral	
+W1MonTutBrush_01	Haz clic en el cepillo para seleccionarlo y, a continuación, mantén pulsado el botón izquierdo del ratón para cepillar a tu caballo moviendo el ratón. 	Harry	Neutral	
+W1MonTutBrush_02	Ten cuidado de no cepillar demasiado cerca de su cabeza. No le gusta eso y podría perder puntos de moral.	Harry	Neutral	
+W1MonTutBrush_03	Recuerda elegir bien el tipo de cepillo. El primer cepillo tarda en limpiar a tu caballo pero es suave, por lo que puedes cepillar su cabeza y ganará puntos de moral. Los otros cepillos son mucho más rápidos pero mucho menos cómodos. 	Elsys	Neutral	
+W1MonTutBrush_04	Cuida bien el pelaje de tu caballo y asegúrate de que no tiene nada sucio. Cuando creas que has terminado, pulsa el botón "Volver" para validar tu trabajo. 	Harry	Neutral	
+W1MonTutBrush_05	Ah, casi lo olvido, también debes moverte alrededor de tu caballo para limpiar ambos lados, ya que tu caballo tiene que estar limpio por todas partes.  Para desplazarte alrededor de tu caballo, utiliza las flechas de dirección. 	Harry	Neutral	
+W1MonTutBrushEndGood_01	Bien hecho, jovencita. Tu caballo estará encantado de volver a sentirse tan limpio. 	Harry	Happy	
+W1MonTutBrushEndBad_01	Tienes que cepillar un poco más. Da la vuelta al caballo, cepillando cada lado, de arriba a abajo, y no olvides su cuello y sus patas. 	Harry	Neutral	
+W1MonTutScrape_01	Las personas y los caballos tienen algo en común: no les gusta que se les queden piedras en las patas. Así que tienes que raspar cada una de las pezuñas de tu caballo. 	Harry	Neutral	
+W1MonTutScrape_02	Haz clic en la pezuña que quieras raspar. Para raspar la pezuña, mantén pulsado el botón izquierdo del ratón y haz movimientos suaves, de arriba a abajo, para eliminar la arenilla. 	Elsys	Neutral	
+W1MonTutScrape_03	Ten cuidado, hay una zona del caballo que es muy sensible: la forma de cuña en la parte superior del casco llamada "ranilla". Asegúrate de evitarla para no dañar a tu caballo. 	Harry	Neutral	
+W1MonTutScrape1Sabot_01	Muy bien. Sólo quedan tres. 	Harry	Neutral	
+W1MonTutScrape2Sabot_01	Adelante, ya tienes la mitad del trabajo hecho.	Harry	Neutral	
+W1MonTutScrape3Sabot_01	Un poco más de esfuerzo y ya está.	Harry	Neutral	
+W1MonTutScrape4Sabot_01	Ya está. Ahora pulsa el botón "Volver" para salir y validar tu trabajo.	Harry	Happy	
+W1MonTutScrapeBad_01	Vamos, chica, pon tu empeño en ello. Todavía no se ha acabado. Y no te olvides de ese punto. Está marcado como todos los demás. 	Harry	Angry	
+W1MonTutBoxWash_01	Esta es la parte más agotadora: cambiar el lecho de un caballo. No hay nada como una cama con sábanas limpias, tanto para los humanos como para los caballos. Un caballo pasa mucho tiempo en la cama, por lo que debe estar bien limpia para que se sienta cómodo. 	Harry	Neutral	
+W1MonTutBoxWash_02	Retira el estiércol y la paja sucia con el clic izquierdo del ratón. 	Elsys	Neutral	
+W1MonTutBoxWash_03	Lo siguiente que hay que hacer es moverlo hacia la carretilla utilizando las flechas de dirección y el ratón. A continuación, haz clic en el botón izquierdo del ratón para dejarlo caer en la carretilla.	Elsys	Neutral	
+W1MonTutBoxWashPaille_01	¡Uf! Esto no es tan agotador.	Flora	Happy	
+W1MonTutBoxWashPaille_02	¡Ja, ja! Todavía no se ha acabado, jovencita. Ahora tienes que esparcir paja limpia por el suelo de la caja. Para conseguir paja tienes que sacarla con un tenedor de la paca y esparcirla por el suelo. 	Harry	Neutral	
+W1MonTutBoxWashPaille_03	Recuerda que una dispersión equilibrada te dará una mejor puntuación.	Harry	Neutral	
+W1MonTutBoxWashEndGood_01	No está mal para empezar. Puedes salir y validar tu trabajo cuando quieras, utilizando el botón "Volver".	Harry	Neutral	
+W1MonTutBoxWashEndBad_01	Intenta terminar una tarea al menos una vez.	Harry	Happy	
+W1MonTutBox1End_01	Buen trabajo, jovencita. Normalmente a tu caballo se le permite correr un poco por el prado para relajarse. Desafortunadamente, el clima no es adecuado y podría hacerle más daño que bien. 	Harry	Neutral	
+W1MonTutBox1End_02	Espero que el tiempo mejore la próxima vez para poder mostrarte cómo duchar a tu caballo. Ahora puedes salir de tu hípica haciendo clic en el botón "Salir". 	Harry	Neutral	
+W1MonTutBox1Score_01	Bien hecho, acabas de recoger tus primeros puntos y tus primeros créditos.	Harry	Happy	
+W1MonTutBox1Score_02	¿Y qué hago con ellos?	Flora	Neutral	
+W1MonTutBox1Score_03	Sinceramente, los jóvenes siempre necesitan que les den de comer. Ganas créditos cada vez que completas una tarea. 	Harry	Neutral	
+W1MonTutBox1Score_04	Los créditos se utilizan como moneda en todas las Academias. Puedes utilizarlos para comprar un montón de cosas en la tienda del pueblo, como ropa y equipamiento. 	Harry	Neutral	
+W1MonTutBox1Score_05	Tu puntuación se divide en dos, porque tienes que hacer un mínimo de dos sesiones de entrenamiento. La próxima vez la puntuación será la media de todas las puntuaciones que hayas obtenido. 	Patrick	Neutral	
+W1MonTutBox1Score_06	¡Recuerda! Tienes que realizar 2 sesiones de entrenamiento a la semana en cada disciplina: muestra de salto, campo a través, doma de exhibición e incluso cuidado del caballo. 	Patrick	Neutral	
+W1MonTutBox1Other_01	Te aconsejo que lleves a cabo todas las tareas. El cuidado de los caballos es esencial y debe llevarse a cabo con regularidad. 	Harry	Neutral	
+W1TueTutBox2Start_01	Buenos días, jovencita. Hoy hace un día precioso, así que podemos bañar a tu caballo. 	Harry	Happy	
+W1TueTutBox2Start_02	Se está bien y calentito. Le vendrá muy bien.	Flora	Neutral	
+W1TueTutBox2Start_03	Sí, pero no olvides las otras tareas también.	Harry	Neutral	
+W1TueTutShower_01	Además de limpiar a tu caballo, una buena ducha le ayuda a relajarse. Ganará resistencia cada vez que lo duches. 	Harry	Neutral	
+W1TueTutShower_02	Sólo debes bañar a tu caballo cuando haga buen tiempo. Si nieva o llueve el caballo puede sentirse mal.	Harry	Neutral	
+W1TueTutShower_03	Entonces, ¿cómo limpias tu caballo?	Flora	Neutral	
+W1TueTutShower_04	Todo lo que tienes que hacer es cepillar tu caballo dentro, como te mostré antes. ¿Recuerdas? 	Harry	Neutral	
+W1TueTutShower_05	Para duchar a tu caballo, mantén pulsado el clic izquierdo del ratón. Para apuntar, mueve el ratón.	Elsys	Neutral	
+W1TueTutShower_06	Acuérdate de bañar ambos lados. Para cambiar de lado, simplemente haz clic en el botón de arriba a la derecha. 	Elsys	Neutral	
+W1TueTutShower_07	No olvides que, en cuanto creas que tu caballo está limpio, puedes terminar pulsando el botón "Volver". 	Elsys	Neutral	
+W1TueTutShowerBad_01	Tu caballo no está del todo limpio. Hay más cosas que hacer. No puedo estar siempre ahí para recordártelo. 	Harry	Happy	
+W1TueTutBox2Other_01	Bien hecho, tu caballo ya está limpio y fuerte. No olvides que no siempre puedes elegir entre el cepillado y la ducha. El cepillado eleva la moral de tu caballo y la ducha le da resistencia. 	Harry	Neutral	
+W1TueTutBox2Other_02	Escoge el que más te convenga, pero ten cuidado con el tiempo. Siempre puedes ver las previsiones en el ordenador del centro de estudiantes. 	Harry	Neutral	
+W1TueTutBox2OtherBad_01	¡Cuidado! Aún estoy aquí. Todavía tienes tareas que terminar.	Harry	Neutral	
+W1MonTutDreStart_01	Buenos días, soy Patrick y os voy a enseñar los fundamentos de la doma de exhibición. 	Patrick	Neutral	
+W1MonTutDreStart_02	Para dar órdenes a tu caballo, utiliza las teclas de flecha izquierda y derecha. 	Patrick	Neutral	
+W1MonTutDreStart_03	En la barra de arriba, verás pasar una lista de flechas que se desplazan. Cuando una flecha pase por la pequeña diana del centro, pulsa la flecha derecha para validarla. 	Patrick	Neutral	
+W1MonTutDreStart_04	Diferentes velocidades necesitan diferentes ritmos de flechas. Cuantas más flechas metas, más puntos ganarás, sobre todo si se encadenan. 	Patrick	Neutral	
+W1MonTutDreStart_05	Si fallas las flechas, tu caballo puede perder el ritmo. No te preocupes. Puedes recuperarlo pulsando 2 flechas consecutivas. 	Patrick	Neutral	
+W1MonTutDreStart_06	Hay dos flechas diferentes más largas. Para validarlas, tienes que mantener pulsada la flecha en cuestión cuando se desplaza por el objetivo.	Patrick	Neutral	
+W1MonTutDreStart_07	Te encontrarás con diferentes marcadores, o puntos de control, que están ahí para asegurarte de que tienes un buen control de tu caballo. Para validar un punto de control debes pulsar la tecla "Ctrl derecha". 	Patrick	Neutral	
+W1MonTutDreStart_08	¿Estás lista? La prueba está a punto de comenzar. Verás tu puntuación al final de cada movimiento. Buena suerte y no olvides mantener el ritmo. 	Patrick	Neutral	
+W1MonTutDreStart_09	Cuando completes una figura con éxito, puedes reproducirla pulsando la barra espaciadora. 	Elsys	Neutral	
+W1MonTutDreStart_10	Cuidado. Si no has desbloqueado una figura leyendo el libro correspondiente en la biblioteca, no podrás hacerla. 	Elsys	Neutral	
+W1MonTutDreStart_11	Aparecerán estrellas en la pantalla a medida que vayas siguiendo los marcadores. Cuantos más marcadores sigas al pasar por el objetivo, más estrellas verás y más alta será tu puntuación. ¡Ahora depende de ti!	Elsys	Neutral	
+W1MonTutDreEnd1_01	¡Bien hecho! ¡Creo que tenemos una verdadera campeona en proceso de creación!	Patrick	Happy	
+W1MonTutDreEnd2_01	¡Enhorabuen! Parece que tu caballo y tú os lleváis bien.	Patrick	Neutral	
+W1MonTutDreEnd3_01	No está mal para un primer intento. Pero todavía tienes mucho trabajo que hacer.	Patrick	Neutral	
+W1MonTutDreEnd4_01	Vas a tener que trabajar, pero sigue así y serás una gran campeona. 	Patrick	Neutral	
+W1MonTutDreScore_01	Tu puntuación se divide entre dos porque tienes que hacer un mínimo de dos sesiones de entrenamiento. La próxima vez, la puntuación marcada será la media de todas las puntuaciones que hayas obtenido. 	Patrick	Neutral	
+W1MonTutDreScore_02	Recuerda que tienes que realizar dos sesiones de entrenamiento por semana en cada disciplina: muestra de salto, campo a través, doma de exhibición e incluso cuidado del caballo.	Patrick	Neutral	
+W1MonTutLibrary_01	La biblioteca es una parte importante de tu aprendizaje y no debes pasarla por alto. 	Alexandra	Neutral	
+W1MonTutLibrary_02	Los libros enseñan aspectos de la teoría que a menudo son descuidados por los estudiantes, pero siguen conteniendo información importante.	Jade	Neutral	
+W1MonTutLibrary_03	No tienes todo el tiempo del mundo, así que elige los libros que se ajusten a tu nivel.	Jade	Neutral	
+W1MonTutLibrary_04	¿Cómo puedo pedir prestado un libro?	Flora	Neutral	
+W1MonTutLibrary_05	Selecciona tu libro con las flechas de dirección. Cada libro tiene un tiempo de lectura determinado, así que asegúrate de que te queda suficiente tiempo antes de empezar. 	Jade	Neutral	
+W1MonTutLibrary_06	Cada vez que leas un nuevo libro, se añadirán notas a tu cuaderno. Puedes consultarlas siempre que quieras pulsando el botón N. Esto resulta muy útil cuando observas las necesidades de tu potro.	Elsys	Neutral	
+W1MonTutLibrary_07	Ojo, tomar notas en tu cuaderno te cuesta la mitad del tiempo de lectura del libro. 	Elsys	Neutral	
+W1MonTutLibrary_08	Para desplazarte por un escenario, utiliza las flechas de dirección. Para avanzar, pulsa la flecha "Arriba"; para girar, pulsa las flechas "Izquierda" y "Derecha". Pulsa "Shift" al mismo tiempo y podrás correr.	Elsys	Neutral	
+W1MonTutShop_01	Has estado trabajando duro. Te mereces un tiempo libre para ir de compras. 	Jade	Neutral	
+W1MonTutShop_02	Podrás gastar los créditos que tanto te ha costado ganar en las diferentes tiendas del pueblo. 	Jade	Neutral	
+W1MonTutShop_03	Dirígete a la tienda que quieras. Aparecerá un icono de acción en forma de flecha. Cuando aparezca, pulsa la barra espaciadora para entrar en la tienda. 	Elsys	Neutral	
+W1MonTutShop_04	¡Cuidado! Si activas una puerta normal sin el icono de la flecha, saldrás de la actividad de la tienda. 	Elsys	Neutral	
+W1MonTutShop_05	Acaba de abrirse una nueva tienda que vende objetos para tu prado. No los pases por alto, harán muy feliz a tu caballo y ganará puntos de moral. 	Elsys	Neutral	
+W1MonTutShopNoOut_01	¡Cuidado! Este tipo de puerta sale de la actividad de la tienda y te lleva de vuelta al horario. 	Elsys	Neutral	
+W1MonTutShopMenu_01	Esto es genial. Hay un montón de cosas que me gustan. 	Flora	Neutral	
+W1MonTutShopMenu_02	Selecciona los objetos que quieras con las flechas. Cuidado, no puedes comprar un objeto si no tienes suficiente dinero. 	Elsys	Neutral	
+W1MonTutShopMenu_03	Algunos artículos te ayudarán a ganar puntos de popularidad. 	Elsys	Neutral	
+W2MonTutMime_01	Tu potro es muy dulce, pero necesita muchos cuidados. Ahora mismo está descansando en el prado con su madre. 	Jade	Neutral	
+W2MonTutMime_02	Obsérvalo de cerca; puede necesitar algo. A veces puede querer jugar, pero otras veces puede ponerse enfermo, así que presta atención a todas sus necesidades. 	Jade	Neutral	
+W2MonTutMime_03	Puedes ver una solicitud de tu caballo haciendo clic en el botón "Volver a ver". Cuando creas que has identificado su necesidad, puedes responder haciendo clic en el botón correspondiente. 	Elsys	Neutral	
+W2MonTutMime_04	Recuerda las respuestas que aprendiste en la biblioteca. No olvides que te ayudarán a fortalecer tu relación con el potro.	Jade	Neutral	
+W2MonTutMimeStart_01	Elije la categoría correspondiente entre las cuatro disponibles.	Elsys	Neutral	
+W2MonTutMimeCateg_01	Aquí están las diferentes respuestas posibles para esta categoría. Si crees que lo sabes, haz clic en uno de los iconos. De lo contrario, vuelva a la lista de selección de categorías haciendo clic en "Cancelar".	Elsys	Neutral	
+W2MonTutMimeCateg_02	No te equivoques. Sólo tienes 3 oportunidades para todas las solicitudes. Se recomienda que sólo respondas a las solicitudes para las que te sientas preparada. 	Elsys	Neutral	
+W2MonTutMimeCateg_03	Si tu respuesta es incorrecta pero está en la categoría correcta, las otras categorías se sombrean para ayudarte. Sin embargo, si esta categoría no es la correcta, esta categoría estará sombreada. 	Elsys	Neutral	
+W2MonTutMime1Lost_01	No pasa nada, aún te quedan 2 oportunidades. No olvides que puedes acceder a tu cuaderno para ver lo que has aprendido en la biblioteca.	Elsys	Neutral	
+W2MonTutMime2Lost_01	¡Cuidado! Sólo te queda una oportunidad.	Elsys	Neutral	
+W2MonTutMime3Lost_01	Deberías volver a la biblioteca y estudiar. Quizás se te haya olvidado algo. 	Elsys	Neutral	
+W2MonTutMime1Win_01	¡Bien hecho! Has aprendido bien la lección. 	Elsys	Neutral	
+W2MonTutMime2Win_01	Eres impresionante. Sólo queda una necesidad que atender. Estás cuidando bien del potro. 	Elsys	Neutral	
+W2MonTutMime3Win_01	¡Bien hecho! Cuidas muy bien de tu potro. Es evidente que está en buenas manos. 	Elsys	Neutral	
+W1TueTutCross_01	Por fin es la prueba de campo a través. Es una prueba larga y muy agotadora para tu caballo, así que espero que estés bien preparada. 	Patrick	Neutral	
+W1TueTutCross_02	Utiliza el botón de arriba para hacer que tu caballo trote. Púlsalo de nuevo y acelerarás del trote al galope. 	Elsys	Neutral	
+W1TueTutCross_03	Para reducir la velocidad se aplica el mismo procedimiento. Basta con pulsar la flecha hacia abajo. 	Elsys	Neutral	
+W1TueTutCross_04	Para girar, utiliza las flechas izquierda y derecha.	Elsys	Neutral	
+W1TueTutCross_05	Para saltar, utiliza la barra espaciadora. Asegúrate de saltar en el momento adecuado. Para ello, coloca tu caballo en la zona verde frente al obstáculo. 	Elsys	Neutral	
+W1TueTutCross_06	Vigila el cursor del medidor de moral mientras se mueve hacia arriba y hacia abajo. Puede cambiar la calidad de tu salto. 	Elsys	Neutral	
+W1TueTutCross_07	Si el cursor está en la zona de la moral, te ayudará a corregir un error. Si está en la zona de armonía, realizará el salto perfecto. 	Elsys	Neutral	
+W1TueTutCross_08	Tras un salto perfecto, ganas un tiempo limitado en el que puedes galopar, indicado por un indicador. Aprovecha esta ventaja para acelerar cuando puedas. 	Elsys	Neutral	
+W1TueTutCross_09	Ya estás lista para salir. Para ayudarte, hay paneles con flechas que te indican la dirección del siguiente obstáculo.	Patrick	Neutral	
+W1TueTutCross_10	Ah, ¡casi se me olvida! Si quieres descubrir los problemas que te esperan en la próxima competición, aquí tienes una dirección para probar en el ordenador del centro de estudiantes: www.horse-sports.ubi	Elsys	Neutral	
+W1TueTutJump_01	Es el momento de tu primera muestra de salto.	Alexandra	Neutral	
+W1TueTutJump_02	Es una prueba de velocidad que requiere una gran concentración. Tienes que saltar las diferentes vallas lo más rápido posible. Pero ten cuidado de no derribar ninguna valla.	Alexandra	Neutral	
+W1TueTutJump_03	Para aumentar la velocidad de tu caballo, pulsa la flecha hacia arriba. Para reducir la velocidad, pulsa la flecha hacia abajo. 	Elsys	Neutral	
+W1TueTutJump_04	Utiliza las teclas de flecha izquierda y derecha para dar a tu caballo la orden de girar. 	Elsys	Neutral	
+W1TueTutJump_05	Finalmente, cuando el obstáculo esté frente a ti, pulsa la barra espaciadora para saltar. Utiliza la tabla de enfrente para guiarte y apunta a la zona verde. 	Elsys	Neutral	
+W1TueTutJump_06	La moral de tu caballo es muy importante y a veces te ayudará a corregir tu salto. Observa el cursor del medidor. Al galope, el indicador sube; al trote y al paso, el indicador baja. Coloca el cursor en la zona de armonía de la parte superior del manómetro y realizarás el salto perfecto. 	Elsys	Neutral	
+W1TueTutJump_07	Bien, veamos qué puedes hacer.	Alexandra	Neutral	
+W2TueTutLibStart_01	Antes de ocuparte de tu potro en la actividad del Diálogo, te aconsejamos que consultes primero los libros de cuidados de la biblioteca. Los libros contienen información valiosa para entender las necesidades de tu potro y responder correctamente.	Elsys	Neutral	
+W2TueTutLearnStart_01	Antes de ocuparte de tu potro en la actividad del Diálogo, te aconsejamos que consultes primero los libros de cuidados de la biblioteca. Los libros contienen información valiosa para entender las necesidades de tu potro y responder correctamente.	Elsys	Neutral	
+W2TueTutLearnStart_02	En este ejercicio debes seguir el ritmo de tu potro. Sigue sus movimientos manteniendo el cursor del ratón en la zona del radar delante de tu potro. Asegúrate de acompañarlo a lo largo de varias vueltas e intenta siempre aumentar su comprensión de las instrucciones. 	Elsys	Neutral	
+W2TueTutLearnStart_03	Debes respetar la marcha, la dirección y la órbita establecidas en la pantalla. El incumplimiento de uno de estos factores hará que éste parpadee en rojo. Presta atención a esta pantalla, porque la marcha solicitada puede cambiar en cualquier momento. 	Elsys	Neutral	
+W2TueTutLearnStart_04	Cada vez que la marcha, la dirección o la órbita cambien, aparecerá un signo de exclamación. Tendrás tiempo para encontrar la marcha correcta mientras se muestre la señal. Recuerda mantener el cursor en la zona del radar. 	Elsys	Neutral	
+W2TueTutLearnStart_05	Utiliza la flecha "Arriba" para aumentar el paso de tu potro. La flecha "Abajo" ralentizará el paso de tu potro, hasta que se detenga por completo y se dé la vuelta. Las flechas derecha e izquierda te ayudarán a aumentar y disminuir el tamaño de la órbita de tu potro.	Elsys	Neutral	
+W2TueTutLearnStart_06	Aparecerán marcadores en el suelo para comprobar si dominas el amarre. Tienes que guiar a tu caballo por algunos de los mercados, pero no por todos. Los marcadores verdes aumentan la comprensión de tu potro, pero los rojos la reducen. No te equivoques. 	Elsys	Neutral	
+W2TueTutLearnDesobey_01	Si la comprensión de tu potro es muy limitada, te desobedece. Pulsa "espacio" para reñirle. Pero recuerda que debes reñirle cuando su corazón esté verde, de lo contrario será peor.	Elsys	Neutral	
+W2TueTutLearnDesobey_02	Si sientes que su corazón late demasiado rápido, espera un rato y se ralentizará. Recuerda que aún tienes los marcadores verdes. 	Elsys	Neutral	
+W2TueTutLearnEnd_01	Si el nivel de comprensión de tu potro desciende, o le das una orden irrealizable, perderá la confianza y se apartará. Ignora la zona del radar y trata de reñirle con las flechas. Si le riñes mientras el corazón está en verde, aumentarás su nivel de comprensión. Si no, aumentará su falta de confianza.	Elsys	Neutral	
+W2TueTutLearnEnd_02	Si sientes que su corazón late demasiado rápido, espera un rato y se ralentizará. Recuerda que aún tienes los marcadores verdes. 	Elsys	Neutral	
+RideTuto_01	Asegúrate de hacer fotos cuando salgas a pasear. Pulsa la tecla "Control izquierdo" para activar la cámara y haz una foto con la barra espaciadora. Puedes acercarte al objetivo con el botón izquierdo del ratón y alejarte con el botón derecho. 	Elsys	Neutral	
+RideTuto_02	Puedes consultar tu álbum de fotos siempre que quieras pulsando la tecla "F". 	Elsys	Neutral	
+RideTuto_03	Visita este sitio de Internet: www.your-news.ubi. Te dará ideas de fotos para poner en el centro de estudiantes y ganar popularidad.	Elsys	Neutral	
+BedTuto_01	En este menú, puedes probarte diferentes prendas de vestir que hayas comprado. Puedes verlas mejor dando vueltas con las flechas "izquierda" y "derecha" del teclado. 	Elsys	Neutral	
+FigurineToscane_01	Bien hecho, ¡acabas de recoger una de las 3 estatuas escondidas en la Toscana! Recuerda comprar pistas en las tiendas para ayudarte a encontrarlas. 	Elsys	Neutral	
+FigurineAlsace_01	Bien hecho, ¡acabas de recoger una de las 3 estatuas escondidas en Alsacia! Recuerda comprar pistas en las tiendas para ayudarte a encontrarlas.	Elsys	Neutral	
+FigurineChine_01	Bien hecho, ¡acabas de recoger una de las 4 estatuas escondidas en China! Recuerda comprar pistas en las tiendas para ayudarte a encontrarlas.	Elsys	Neutral	
+FigurineBonus_01	Bien hecho, ¡has recogido las 10 estatuillas ocultas! Se ha desbloqueado una bonificación en el menú principal. 	Elsys	Neutral	
+FTStart_01	En el centro de estudiantes, puedes charlar con los demás estudiantes y conocerlos un poco mejor. No dudes en hablar con ellos y conseguir algunos puntos de popularidad. 	Elsys	Neutral	
+FTStart_02	Cuidado. No puedes hablar más de dos veces en el centro de actividades estudiantiles. ¡También hay trabajo que hacer!	Elsys	Neutral	
+FTStart_03	También encontrarás un equipo de música que te permitirá escuchar tus propios CD y un ordenador en el que podrás consultar algunos sitios útiles. Te daré las direcciones cuando las necesites.	Elsys	Neutral	
+FTCaroll1_01	¿Así que quieres saber más sobre mí? Es bueno saber que estás interesada. Pero me temo que te voy a decepcionar; mi vida no es tan emocionante. 	Caroll	Neutral	
+FTCaroll1_02	Igualmente me gustaría oírte hablar. Siempre es estupendo escuchar a otros hablar y me interesa saber quién eres. Pareces tan llena de vida.	Flora	Neutral	
+FTCaroll1_03	Sabes, no siempre he sido así. Hace mucho tiempo era tímida y retraída. 	Caroll	Neutral	
+FTCaroll1_04	¿Tímida? ¿Tú? No te creo.	Flora	Neutral	
+FTCaroll1_05	Así era yo. Una jovencita de Edimburgo de 17 años y la gente del vecindario me llamaba "pez de colores" porque no podía juntar dos palabras y me quedaba mirando a la gente con los ojos abiertos. 	Caroll	Neutral	
+FTCaroll1_06	El mundo me desconcertaba por completo y me sentía totalmente diferente a los demás niños. Ellos sólo querían divertirse. Lo que me gustaba era leer, la astronomía y la prehistoria, ese tipo de cosas. Había misterios en el universo y yo tenía que entenderlos. 	Caroll	Neutral	
+FTCaroll1_07	El presente no me interesaba. Quería saber de dónde veníamos y a dónde íbamos. Otros niños no entendían esto y me daban la espalda. 	Caroll	Neutral	
+FTCaroll1_08	¿Qué te hizo comportarte así, a una edad tan pequeña? 	Flora	Neutral	
+FTCaroll1_09	Prefiero hablar de ello en otro momento, si no te importa.	Caroll	Neutral	
+FTCaroll1_10	Por supuesto, me encantaría entenderte mejor.	Flora	Neutral	
+FTCaroll2_01	Me gustaría saber más. ¿Por qué pasabas todo el tiempo leyendo en lugar de divertirte con otros niños?	Flora	Neutral	
+FTCaroll2_02	Mi padre era militar. No tenía ni idea en ese momento. No estaba en casa muy a menudo. Mi madre estaba muy ocupada con mis dos hermanos pequeños y nadie se ocupaba de mí. A menudo preguntaba por qué papá tenía que irse y por qué no podía quedarse en casa un día más. 	Caroll	Neutral	
+FTCaroll2_03	Sólo decían que las cosas eran así. No se nos permitía preguntar a dónde iba y qué hacía. A veces estaba fuera durante meses. Nadie decía una palabra sobre lo que hacía. 	Caroll	Neutral	
+FTCaroll2_04	Todo era tan misterioso y parecía tan injusto ocultarme cosas sólo porque era demasiado joven para entenderlas.	Caroll	Neutral	
+FTCaroll2_05	Decidí que el mundo era mío para aprender y que yo sería la que tendría todas las respuestas. Así que empecé a leer libros de ciencia que a veces eran demasiado complicados para mí y me pasaba las vacaciones encerrada en mi habitación, saliendo solo para comer. 	Caroll	Neutral	
+FTCaroll2_06	Entonces un día ocurrió algo que cambió mi visión del mundo. 	Caroll	Neutral	
+FTCaroll2_07	¿Qué ocurrió?	Flora	Neutral	
+FTCaroll2_08	Te contaré más sobre esto la próxima vez. Toda esta charla me está dando sed. 	Caroll	Neutral	
+FTCaroll2_09	De acuerdo. No olvides adónde nos hemos quedado. 	Flora	Neutral	
+FTCaroll3_01	¡He venido por el resto de tu historia!	Flora	Neutral	
+FTCaroll3_02	¿Historia? ¿Qué historia?	Caroll	Neutral	
+FTCaroll3_03	Me estabas contando un evento que cambió tu vida.	Flora	Neutral	
+FTCaroll3_04	¡Oh, sí! Una noche papá llegó a casa muy tarde. Yo ya estaba en la cama, pero no conseguía dormirme. Oí a mi madre levantar la voz. Salí a hurtadillas de mi habitación para ir a escuchar su conversación. 	Caroll	Neutral	
+FTCaroll3_05	Mi papá le anunció a mi mamá que había sido asignado a un país en guerra. Imagínate la sorpresa que me llevé al saber que mi papá era soldado y que su trabajo consistía en matar gente. Salí de mi escondite y exploté en un ataque de rabia, gritando una y otra vez: "Eres un monstruo. No soy tu hija." 	Caroll	Neutral	
+FTCaroll3_06	Duras palabras para un padre.	Flora	Neutral	
+FTCaroll3_07	Es cierto. Mis padres estaban aún más aterrorizados porque yo siempre había sido muy tranquila. Pero todo era demasiado para mí y, en un ataque de furia blanca, me encerré en mi habitación. 	Caroll	Neutral	
+FTCaroll3_08	A través de la puerta pude oír a mi madre llorar. Entonces la puerta de la casa se cerró con un golpe. Mi padre se había ido. Al día siguiente, mi madre me habló, y sólo entonces me di cuenta de mi terrible error. 	Caroll	Neutral	
+FTCaroll3_09	¿Y eso?	Flora	Neutral	
+FTCaroll3_10	Hablaremos de ello en otro momento, si no te importa.	Caroll	Neutral	
+FTCaroll3_11	¡Con mucho gusto!	Flora	Neutral	
+FTCaroll4_01	¿Entonces, Caroll? Estabas hablando de un terrible error que cometiste.	Flora	Neutral	
+FTCaroll4_02	Así es, y todavía me estremece pensar en ello. Mi madre me sentó al día siguiente y me explicó que mi padre no era propiamente un soldado de verdad. No iba a matar gente como yo pensaba. Su trabajo consistía en visitar los países en guerra y distribuir alimentos y primeros auxilios.  	Caroll	Neutral	
+FTCaroll4_03	Muchas cosas cambiaron en ese momento. Me di cuenta de lo egoísta que había sido tratando de mantener a mi papá para mí. Me di cuenta de que su trabajo era mucho más importante que cualquiera de mis rabietas de adolescente.	Caroll	Neutral	
+FTCaroll4_04	Mi conciencia se vio pronto acompañada de una admiración sin límites por mi padre y muy pronto me decidí. Quería ser como él. Yo también quería ayudar a las comunidades desgarradas por la guerra, a la gente que lo había perdido todo. 	Caroll	Neutral	
+FTCaroll4_05	Pregunté a mis padres si podía ingresar en una academia militar. Mi madre no estaba muy entusiasmada con la idea, pero vio que podría unirnos a mi papá y a mí, y finalmente cedió. 	Caroll	Neutral	
+FTCaroll4_06	¿Fuiste a una academia militar? ¡Increíble!	Flora	Neutral	
+FTCaroll4_07	Así es. Y fue allí donde tuve la revelación de mi vida.	Caroll	Neutral	
+FTCaroll4_08	¿Que estabas muy guapa de caqui?	Flora	Neutral	
+FTCaroll4_09	Si sólo quieres burlarte de mí, habla con otra persona.	Caroll	Neutral	
+FTCaroll4_10	Lo siento, sólo era una broma. Por favor, continúa.	Flora	Neutral	
+FTCaroll4_11	Ahora no tengo ganas.	Caroll	Neutral	
+FTCaroll5_01	¿Entonces? ¿Te sientes más tranquila? ¿Podemos continuar donde lo dejamos?	Flora	Neutral	
+FTCaroll5_02	Hmm, no estoy segura de poder confiar en ti. Por favor, déjame más tiempo.	Caroll	Neutral	
+FTCaroll6_01	Caroll por favor, sabes que puedes contarme lo que sea, y no me burlaré de ti, lo prometo. 	Flora	Neutral	
+FTCaroll6_02	Ok, pero por favor, no te confundas. Así que, como decía, tuve una revelación. La vida en la academia era dura, pero tenía una recompensa. Por la tarde, los cadetes de la cercana academia de equitación salían a practicar con sus monturas. Sus pulcros uniformes, su porte orgulloso y sus magníficos caballos eran como un sueño al final del día. 	Caroll	Neutral	
+FTCaroll6_03	Conseguí un trabajo como ayudante de cuadra y cada día aprendía más sobre esas magníficas bestias. Eran tan comunicativas y nuestras conversaciones silenciosas compensaban con creces mis años de soledad. Cada minuto que pasaba en los establos era un placer que nadie podía entender. Nadie, excepto Ethan...	Caroll	Neutral	
+FTCaroll6_04	Espera, ¿quién es Ethan?	Flora	Neutral	
+FTCaroll6_05	¡En cuanto hay un chico de por medio, saltas! 	Caroll	Neutral	
+FTCaroll6_06	Vale, me has despertado la curiosidad, lo confieso. ¿Y qué? ¿Quién es ese Ethan?	Flora	Neutral	
+FTCaroll6_07	Prefiero parar ahí. La siguiente parte duele al hablar de ella. No es tan bonito. Tendré que ponerme mi sombrero de valiente para contarlo. 	Caroll	Neutral	
+FTCaroll6_08	Vale, pero no me hagas esperar demasiado.	Flora	Neutral	
+FTCaroll7_01	Entonces. ¿Quién era Ethan?	Flora	Neutral	
+FTCaroll7_02	Ethan era jinete en la academia militar. Me enseñó a montar a caballo mientras todos estaban en la cama. Me robó el corazón.  	Caroll	Neutral	
+FTCaroll7_03	¿Ethan era tu novio?	Flora	Neutral	
+FTCaroll7_04	Con Ethan fue amor a primera vista. Compartíamos la misma pasión por los caballos, y eso hizo que nuestra relación se fortaleciera. Creció y creció y me olvidé por completo de por qué había entrado en la academia. Quería estar con él todo el tiempo. Así que pregunté a mi familia si podía entrar en la academia de equitación. Mi madre aceptó enseguida. Había mencionado a Ethan en mis cartas y ella entendió que él estaba detrás de mi decisión. Las madres se dan cuenta de esas cosas. 	Caroll	Neutral	
+FTCaroll7_05	Una vez en la academia de equitación, la felicidad estaba a mi alcance y decidí no dejarla escapar. Trabajé duro y obtuve resultados muy por encima de la media. Los caballos y Ethan eran mis guías. Y prácticamente dejé de ir a casa. Mis padres se entristecían al no verme, sobre todo mi papá, al que no veía mucho de todos modos. 	Caroll	Neutral	
+FTCaroll7_06	Fue en esta etapa cuando Patrick vino a verme montar y me sugirió que me uniera a la Academia Sycamore. Pero no podía soportar la idea de separarme de Ethan, así que rechacé la oferta.  	Caroll	Neutral	
+FTCaroll7_07	Perdona que te pregunte, pero no entiendo dónde encaja el dolor del que hablaste la última vez. 	Flora	Neutral	
+FTCaroll7_08	Lo siento. ¿Podemos hablar de ello más tarde? Acabo de pensar en ello y no me siento lo suficientemente valiente como para contarte ese capítulo de mi vida. 	Caroll	Neutral	
+FTCaroll7_09	Por supuesto, lo entiendo. Puedo esperar.	Flora	Neutral	
+FTCaroll8_01	Pareces perdida en tus pensamientos. ¿Todavía es demasiado pronto para decirme lo que salió mal en ese momento? 	Flora	Neutral	
+FTCaroll8_02	No, te lo diré. Me has escuchado hasta ahora y no tiene sentido sin lo que sigue. 	Caroll	Neutral	
+FTCaroll8_03	Mi madre me envió una carta que me heló hasta los huesos. Mi padre había sido hecho prisionero por sus propios superiores. El conflicto en el que participaba mi padre se había agravado y le ordenaron unirse a su regimiento para realizar maniobras. Había tenido la suerte de no tener que luchar nunca y se negó a bocajarro. El tribunal militar lo detuvo inmediatamente y se le prohibió contactar con su familia. 	Caroll	Neutral	
+FTCaroll8_04	¡Eso es terrible!	Flora	Neutral	
+FTCaroll8_05	La noticia era demasiado para soportarla. De repente me arrepentí de todo el tiempo que no habíamos pasado juntos por haber sido tan egoísta. Había querido vivir en una burbuja con Ethan y no había entendido lo importante que eran algunas cosas. Ahora era demasiado tarde.	Caroll	Neutral	
+FTCaroll8_06	Decidí que la vida iba a cambiar y que empezaría a ayudar a los demás. Me uní a grupos de protesta contra la guerra y me manifesté contra el ejército. Organicé reuniones con veteranos que habían visto los horrores de la guerra. Y organicé grupos de apoyo para familias que habían perdido a sus seres queridos en el conflicto.	Caroll	Neutral	
+FTCaroll8_07	Ethan era un militar orgulloso y no estaba de acuerdo con mis opiniones. Nuestra relación murió, porque le di la espalda a mi felicidad personal. Vi que podía ayudar a la gente y comprenderla; volvía a tender la mano al mundo. 	Caroll	Neutral	
+FTCaroll8_08	Me dijiste que Patrick vino a verte pero que te negaste a entrar en la Academia. Entonces, ¿cómo es que estás aquí ahora? Parece que tenías muchas otras cosas que hacer. 	Flora	Neutral	
+FTCaroll8_09	Más tarde, pensé mucho en la Academia. El problema de los grupos de protesta es que nadie les presta atención. Llegué a comprender el poder de los medios de comunicación. Para que mi punto de vista llegara, tenía que convertirme en alguien importante, alguien con una cara en la televisión o en una revista. 	Caroll	Neutral	
+FTCaroll8_10	Creo que me hago una idea. Querías convertirte en una campeona de equitación para que la gente prestara más atención a tu mensaje. 	Flora	Neutral	
+FTCaroll8_11	Nunca había perdido mi amor por los caballos. Parecía una buena manera de utilizar mis habilidades al servicio de mis ideales. 	Caroll	Neutral	
+FTCaroll8_12	Es una idea preciosa. Seguro que tu padre estará orgulloso de ti cuando se entere de lo que haces y del éxito que tienes.	Flora	Neutral	
+FTCaroll8_13	Gracias por escucharme. Es bueno hablar de ello. La gente no entiende por qué mi cabeza siempre parece estar en las nubes. No puedo dejar de pensar en mi padre. 	Caroll	Neutral	
+FTCaroll8_14	Lo siento por tu padre.	Flora	Neutral	
+FTCaroll8_15	No te preocupes. Yo miro el lado bueno. Nunca me voy a rendir.	Caroll	Neutral	
+FTSamuel1_01	¡Hola! ¿Qué hay de nuevo?	Samuel	Neutral	
+FTSamuel1_02	¿Me preguntaba si tú y yo podríamos hablar con calma? 	Flora	Neutral	
+FTSamuel1_03	Claro que no hay problema. ¿De qué quieres hablar con calma?	Samuel	Neutral	
+FTSamuel1_04	Me gustaría saber más sobre ti. No tenemos a menudo la oportunidad de hablar. 	Flora	Neutral	
+FTSamuel1_05	Si quieres. 	Samuel	Neutral	
+FTSamuel1_06	¿Cómo es que estás en la Academia?	Flora	Neutral	
+FTSamuel1_07	Es una larga historia. No siempre he sido un fanático de la equitación. 	Samuel	Neutral	
+FTSamuel1_08	Apuesto a que tu primer amor fue la música. ¿Estoy en lo cierto?	Flora	Neutral	
+FTSamuel1_09	La música y la gente. Crecí en Alemania. No era lo que se dice un estudiante modelo. La escuela era interesante, pero tenía problemas de concentración. No podía dejar de soñar despierto y eso me metía en problemas con los profesores. 	Samuel	Neutral	
+FTSamuel1_10	Creo que me costaba entender para qué servía todo eso. No entendía por qué teníamos que aprender todas esas cosas que eran tan diferentes, como las matemáticas y la pintura. Yo ya sabía a dónde quería llegar en la vida. 	Samuel	Neutral	
+FTSamuel1_11	Por la noche, cuando llegaba a casa, me pasaba horas escuchando a Tommy Grant, un conocido DJ de la radio de mi país. Ponía discos que no se escuchaban en ningún sitio. Me parecía un trabajo genial. Escuchar música todo el día y compartirla con la gente. 	Samuel	Neutral	
+FTSamuel1_12	Sólo cuando llegué a la universidad el sueño empezó a hacerse realidad.	Samuel	Neutral	
+FTSamuel1_13	¿Te convertiste en DJ de radio?	Flora	Neutral	
+FTSamuel1_14	Eh, para el carro. No se puede acortar una historia larga. Te la contaré más tarde si quieres	Samuel	Neutral	
+FTSamuel1_15	Me encantaría escucharla.	Flora	Neutral	
+FTSamuel2_01	Entonces, ¿listo para contarme sobre la vida universitaria?	Flora	Neutral	
+FTSamuel2_02	Por supuesto. Como he dicho, cuando estaba en la universidad, organizaba noches de club. Me ponía en contacto con los grupos, organizaba los locales y atraía a los estudiantes. Me ayudaba a ganar dinero extra y era feliz. Un día conseguí convencer al mismísimo MC Melon para que organizara una velada. Me sentí muy orgulloso: mi cantante favorito era el anfitrión de una fiesta que yo mismo organizaba. 	Samuel	Neutral	
+FTSamuel2_03	La noche empezó como un sueño y había un gran bullicio. MC Melon incluso me felicitó por haber atraído a tanta gente. Pero todo lo bueno se acaba. Y la noche pronto se convirtió en una pesadilla. 	Samuel	Neutral	
+FTSamuel2_04	¿Qué quieres decir? ¿Qué pasó durante la fiesta?	Flora	Neutral	
+FTSamuel2_05	Vuelve a verme si quieres escuchar el resto.	Samuel	Neutral	
+FTSamuel2_06	¡Tú sí que sabes cómo mantener a una chica enganchada!	Flora	Neutral	
+FTSamuel3_01	¿Vuelves para enterarte de la fiesta? Ok, te lo diré. 	Samuel	Neutral	
+FTSamuel3_02	Las noches de discoteca que organizaba estaban abiertas a todo el mundo y, a veces, los alborotadores se colaban entre los verdaderos fiesteros. 	Samuel	Neutral	
+FTSamuel3_03	Esa noche, una banda de hombres duros se presentó con su nervioso líder, Mikael. La tenían tomada con MC Melon y vinieron a buscar pelea. Mikael creía que MC le había guiñado el ojo a su novia mientras firmaba autógrafos. 	Samuel	Neutral	
+FTSamuel3_04	Salió furioso, gritando como un loco, y luego volvió con su banda. Comenzó a interrumpir y a burlarse de MC. Todo el mundo dejó de bailar y todo quedó en silencio. Se notaba que la tensión iba en aumento. 	Samuel	Neutral	
+FTSamuel3_05	¿Y después?	Flora	Neutral	
+FTSamuel3_06	No me gusta tocar mi propia trompeta, pero no lo estaba tolerando. Me acerqué a Mikael, le miré directamente a los ojos y le dije: "Esto es una fiesta. Has parado la música. Podrías haber estado orgulloso de que MC Melon le guiñara el ojo a tu novia. Pero en lugar de eso quieres arruinarlo todo para todos. 	Samuel	Neutral	
+FTSamuel3_07	Así que adelante, lucha contra la banda. Pero primero tendrás que lidiar con todos los presentes. Y créeme, hay varios cientos de personas en esta sala menos impresionadas por tu canción y tu baile, así que puede que te lleve algún tiempo. Otra posibilidad es que tomes asiento, bebas algo, te relajes con la música y, si te portas bien, nos olvidaremos de este pequeño incidente. ¿Qué te parece?"	Samuel	Neutral	
+FTSamuel3_08	¿Y qué es lo que hizo?	Flora	Neutral	
+FTSamuel3_09	Se calló por un momento y se sentó. Y la fiesta se reanudó donde se había quedado. 	Samuel	Neutral	
+FTSamuel3_10	Podrías haber sido un diplomático.	Flora	Neutral	
+FTSamuel3_11	Al final de la noche, MC Melon se me acercó y me dio las gracias. Me invitó a quedarme en su casa de campo. Esos días fueron los más memorables de mi corta existencia. 	Samuel	Neutral	
+FTSamuel3_12	Cuéntame sobre ellos.	Flora	Neutral	
+FTSamuel3_13	Dejemos algo para después, ¿vale?	Samuel	Neutral	
+FTSamuel4_01	¿Cómo fue tu estancia en MC Melon? 	Flora	Neutral	
+FTSamuel4_02	Una palabra para describirlo: Paraíso. Su casa era una mansión: enormes terrenos, piscina, todo lo que una estrella podría desear. También descubrí su pasión secreta: la equitación. Usaba un establo local y en sus días de descanso iba a cuidar de sus caballos. Fue el primer contacto que tuve con los animales y confieso que me fascinaron. 	Samuel	Neutral	
+FTSamuel4_03	Después de enseñarme los fundamentos de la equitación, me mostró lo inteligentes que son y lo atentos que pueden estar a nuestros estados de ánimo y reacciones. 	Samuel	Neutral	
+FTSamuel4_04	Su cuadra ofrecía clases de iniciación y me apunté inmediatamente. Por supuesto, MC Melon no me dio clases. Estaba demasiado ocupado en la gira. Pero le estoy eternamente agradecido por haberme introducido en mi pasión y decidí seriamente que quería trabajar con caballos. Pero un día ocurrió algo que me hizo cambiar de opinión. 	Samuel	Neutral	
+FTSamuel4_05	¿Cambiaste de opinión? No lo entiendo.	Flora	Neutral	
+FTSamuel4_06	Si vuelves, te lo contaré.	Samuel	Neutral	
+FTSamuel5_01	Seguí organizando mis noches de club y fueron un gran éxito. Incluso me escribieron en revistas especializadas. Entonces, un día, el tipo para el que organizaba los eventos me llamó y me anunció que Tommy Grant en persona quería hacerme una prueba para la segunda parte de su programa. 	Samuel	Neutral	
+FTSamuel5_02	Estaba completamente encantado. El tipo me estaba dando la oportunidad de convertirme en un DJ de radio, ¡así de fácil! Sin pensarlo dos veces, me fui al estudio y pronto tuve mi propio programa. Era una mezcla de música y llamadas telefónicas. El tipo de programa en el que la gente habla de sus problemas, y de lo que quiere. 	Samuel	Neutral	
+FTSamuel5_03	Pasaron varios meses y mi éxito creció. Me olvidé de mis noches de club y de las clases de equitación. Me volqué en cuerpo y alma en el espectáculo, y las llamadas seguían llegando, así que sabía que estaba haciendo algo bien. Parecía que había encontrado mi vocación en la vida. 	Samuel	Neutral	
+FTSamuel5_04	¿Qué pasó para que cambiara?	Flora	Neutral	
+FTSamuel5_05	Alguien dijo una vez: "La vida es lo que pasa cuando estás pensando en otra cosa". Eso es exactamente lo que ocurrió una tarde cuando una oyente llamó por teléfono para hablar de sus problemas. 	Samuel	Neutral	
+FTSamuel5_06	¿Qué eran? ¿No me vas a dejar en ese suspenso?	Flora	Neutral	
+FTSamuel5_07	¡Sip! Voy a tener que mantenerte colgada.	Samuel	Neutral	
+FTSamuel6_01	Háblame del problema de la oyente.	Flora	Neutral	
+FTSamuel6_02	Fue una tarde como cualquier otra. Pronto iba a tomar un descanso, pero decidí hacer una última llamada. Era una niña de catorce años con una voz diminuta. Llevaba toda la noche intentando llamarme para pedirme consejo. 	Samuel	Neutral	
+FTSamuel6_03	Su padre tenía un caballo que le gustaba mucho. Pero por problemas de dinero, se vio obligado a venderlo. 	Samuel	Neutral	
+FTSamuel6_04	Pobre chica, se le debió romper el corazón.	Flora	Neutral	
+FTSamuel6_05	Hacía años que no montaba a caballo, pero escuchar esa vocecita perdida sollozando, despertó algo dentro de mí. Me encantaba la música, pero entonces supe que mi verdadero lugar eran los caballos. Esa niña me ayudó a enfrentarme a la verdad. 	Samuel	Neutral	
+FTSamuel6_06	Estaba dispuesto a hacer cualquier cosa para ayudarla a conservar el caballo y se convirtió en mi cruzada. Le prometí a la niña que haría lo que pudiera y durante el descanso llamé a MC Melon y le conté la desesperación de la niña. Inmediatamente se ofreció a comprar el caballo para que ella pudiera conservarlo. 	Samuel	Neutral	
+FTSamuel6_07	Le agradecí su generosidad de todo corazón y volví a salir al aire para decirle a la niña que su caballo no sería vendido. 	Samuel	Neutral	
+FTSamuel6_08	Mi productor entró en la sala y me pasó una nota diciendo que el programa había sido un gran éxito gracias a la invención de MC Melon. A la gente le encantan los finales felices. Y en todas partes habían llamado a sus amigos, diciéndoles que lo escucharan. La emisora se inundó de llamadas de ánimo y solidaridad. 	Samuel	Neutral	
+FTSamuel6_09	Fue mi mejor espectáculo con diferencia. Pero también el último.	Samuel	Neutral	
+FTSamuel6_10	¿Dejaste de hacer radio después de eso?	Flora	Neutral	
+FTSamuel6_11	La intervención de la chica me hizo tomar conciencia de mi verdadera pasión. Volví a montar a caballo en la cuadra de MC Melon. Y pronto empecé a competir.	Samuel	Neutral	
+FTSamuel6_12	Un día Jade vino a verme y, a la vista de mis resultados y mi reputación en la radio, me ofreció una plaza en la Academia.	Samuel	Neutral	
+FTSamuel6_13	¿Y nunca te arrepentiste de haber dejado la radio?	Flora	Neutral	
+FTSamuel6_14	Por supuesto que se me pasó por la cabeza, pero después de haber ayudado a esa chica a conservar el caballo que amaba, me dije que mi destino en las ondas me llevaba hasta aquí. El resto de mi vida lo pasaré en la pista.	Samuel	Neutral	
+FTSamuel6_15	Tienes un corazón enorme, Samuel. Estoy orgullosa de conocer a alguien como tú. 	Flora	Neutral	
+FTSamuel6_16	Tú tampoco eres tan mala, cuando guardas las formas.	Samuel	Neutral	
+FTSamuel6_17	Mi historia ha terminado. Deberías ir a hablar con los demás. 	Samuel	Neutral	
+FTAurelie1_01	Hola, es genial que hayas venido a hablar conmigo. No nos conocemos muy bien. 	Aurelie	Neutral	
+FTAurelie1_02	Por eso estoy aquí, para saber más sobre ti.	Flora	Neutral	
+FTAurelie1_03	Me encantaría compartir mi historia contigo. Estoy aquí por razones bastante extraordinarias. Yo misma aún no puedo comprenderlas.	Aurelie	Neutral	
+FTAurelie1_04	Cuéntame más.	Flora	Neutral	
+FTAurelie1_05	Bueno, todo empezó hace tres años. Vivía en Francia, en el Macizo Central. Es una región verde y hermosa, pero extremadamente aburrida para una joven de mi edad entonces. 	Aurelie	Neutral	
+FTAurelie1_06	He oído decir que el Macizo Central es increíble.	Flora	Neutral	
+FTAurelie1_07	Lo es. Pero vivíamos en un pueblo medieval donde prácticamente no había nada que hacer; la vida allí era bastante aburrida. Mis padres tenían sus pequeñas rutinas y optaban por la vida tranquila. De todos modos, no estaban muy a menudo. Mi madre era vendedora, y mi padre, fabricante de violines. 	Aurelie	Neutral	
+FTAurelie1_08	Mi padre se pasaba el día en su taller detrás de la casa, mientras que mi madre estaba siempre de viaje. Su afición al trabajo le ocupaba todo el tiempo y no tenía ni un momento para mí. 	Aurelie	Neutral	
+FTAurelie1_09	Además, era hija única, así que no tenía ni idea de cómo llenar mis días. Me pasaba el tiempo escuchando discos clásicos que nos había dejado mi abuelo. Eran mi única vía de escape de aquel agujero somnoliento, congelado en el tiempo.	Aurelie	Neutral	
+FTAurelie1_10	Un día de mayo, el día de mi decimoséptimo cumpleaños, mi vida dio un giro inesperado. 	Aurelie	Neutral	
+FTAurelie1_11	¿Qué es lo que pasó?	Flora	Neutral	
+FTAurelie1_12	Lo dejaré para más tarde. Vuelve a verme, si quieres más. 	Aurelie	Neutral	
+FTAurelie2_01	Entonces, ¿estás preparada para contarme ahora qué pasó en tu cumpleaños?	Flora	Neutral	
+FTAurelie2_02	Ese día llegué a casa y mi padre me ofreció un violín. Se dio cuenta de que me aburría y fue su forma de decirme que le importaba. Fue un regalo muy dulce, debo decir, y empecé a estudiar el instrumento en serio. Pero pronto me aburrí. 	Aurelie	Neutral	
+FTAurelie2_03	¿No te gustó el violín?	Flora	Neutral	
+FTAurelie2_04	Por supuesto, pero ¿de qué sirve la música si nadie la escucha? Seguí tocando como algo que hacer, y a veces intentaba que mis padres me escucharan. Pero, cansada después de sus viajes, mi madre se quedaba dormida, y mi padre decía que le daba migrañas. 	Aurelie	Neutral	
+FTAurelie2_05	Pronto comprendí que yo sería la única que apreciaría mi forma de tocar. A la mayoría de mis amigos no les gustaba el violín. Preferían sonidos más excitantes como las guitarras eléctricas y los sintetizadores.	Aurelie	Neutral	
+FTAurelie2_06	Pero al mes siguiente, las cosas empezaron a cambiar.	Aurelie	Neutral	
+FTAurelie2_07	Y supongo que tendré que esperar para saber cómo empezaron a cambiar las cosas. 	Flora	Neutral	
+FTAurelie2_08	Lo pillas rápido. Es una historia muy personal para mí y se necesita tiempo y confianza para contarla. Ten paciencia y serás recompensada. 	Aurelie	Neutral	
+FTAurelie2_09	No tengo mucha paciencia pero haré un esfuerzo por ti.	Flora	Neutral	
+FTAurelie3_01	Genial, has vuelto a verme. Seguiré con mi extraordinaria historia. 	Aurelie	Neutral	
+FTAurelie3_02	Mencionaste el mes después de tu cumpleaños.	Flora	Neutral	
+FTAurelie3_03	Así es. El alcalde hizo un anuncio importante. Quería formar una banda de música del pueblo y pedía a cualquiera que supiera tocar un instrumento que se uniera. 	Aurelie	Neutral	
+FTAurelie3_04	Era mi gran oportunidad al fin. La gente por fin me escucharía tocar. Me apunté inmediatamente a las audiciones y ensayé todos los días. Si mis padres me escuchaban en el desfile del 14 de julio, quizás me prestarían más atención. "No os vais a creer lo que oís", les decía. Y se dieron cuenta de que, por una vez, había dejado de estar deprimida y me dejaron tocar, muy contentos de verme ocupada en algo que me gustaba.	Aurelie	Neutral	
+FTAurelie3_05	Después de cuatro semanas de duro trabajo, estaba lista para las audiciones. Fui al ayuntamiento y empecé a tocar una pieza que me sabía de memoria delante del jurado. Pero pronto me interrumpieron. 	Aurelie	Neutral	
+FTAurelie3_06	Les pregunté qué pasaba. Me dijeron que no tenía nada que ver con mi forma de tocar y que tocaba muy bien. Simplemente, y no se habían atrevido a decírmelo antes, que no necesitaban violines en la banda. Querían un conjunto de metales tradicional con trompas, flautas y tambores. 	Aurelie	Neutral	
+FTAurelie3_07	Estaba destrozada. Estaba muy avergonzada por no haber sido aceptada. El jurado intentó consolarme, por supuesto. Me dijeron que mis amigos y sus guitarras eléctricas tampoco habían sido aceptados. Pero a mí me daba igual. 	Aurelie	Neutral	
+FTAurelie3_08	Esa tarde me fui a dar un paseo por el campo, incapaz de volver a casa y decirle a mis padres que había fracasado. 	Aurelie	Neutral	
+FTAurelie3_09	Pero en realidad, fue lo mejor que me había pasado. 	Aurelie	Neutral	
+FTAurelie3_10	Espera, me he perdido. ¿Dijiste que el fracaso era lo mejor que te había pasado? 	Flora	Neutral	
+FTAurelie3_11	No. Me refería a lo que vino después.	Aurelie	Neutral	
+FTAurelie3_12	¿Y qué vino después?	Flora	Neutral	
+FTAurelie3_13	¡Ah ja! Te lo contaré en otro momento, si eres buena. 	Aurelie	Neutral	
+FTAurelie3_14	¿Por qué me siento con diez años?	Flora	Neutral	
+FTAurelie4_01	Bien, ¿dónde estaba yo? Ah, sí, lo extraordinario que me pasó.	Aurelie	Neutral	
+FTAurelie4_02	La banda me había rechazado, así que me fui a dar un paseo por el oscuro campo revolcándome en mi dolor. Caminé durante mucho tiempo, lejos de cualquier señal de vida y, al cabo de un rato, me empezaron a doler los pies.  	Aurelie	Neutral	
+FTAurelie4_03	Decidí descansar y me senté en el tocón de un árbol para observar las estrellas en el cielo nocturno. Una de las alegrías de vivir en el campo son los cielos nocturnos despejados que muestran perfectamente las estrellas. Y en este entorno silencioso y desolado cogí mi violín y me puse a tocar. Para sentirme existente, me sentí obligada a llenar el silencio con música. Aunque, rodeado de los cielos, era totalmente insignificante, seguía sintiéndome llena de vida porque estaba tocando. 	Aurelie	Neutral	
+FTAurelie4_04	No sé el tiempo que estuve tocando; estaba totalmente perdida en la música. Pero cuando paré, ahí estaban. 	Aurelie	Neutral	
+FTAurelie4_05	¿Quiénes estaban ahí?	Flora	Neutral	
+FTAurelie4_06	Los caballos. Cuatro caballos. Habían oído mi violín y se habían acercado en silencio a la música. Estaban a varios metros, eso es todo, mirándome fijamente, paralizados por el sonido del instrumento. 	Aurelie	Neutral	
+FTAurelie4_07	Y les devolví la mirada, hipnotizada por su elegante belleza y sus majestuosas siluetas en la noche. Era como si, con su silencio, hubieran percibido mi dolor y entendido mi música. 	Aurelie	Neutral	
+FTAurelie4_08	Siempre habían estado cerca, y los veía regularmente. Nunca les había prestado atención. Pero aquella noche los contemplé como nunca antes lo había hecho. Y caí bajo el encanto de esas magníficas criaturas. 	Aurelie	Neutral	
+FTAurelie4_09	Volví a casa totalmente entusiasmada con la idea de volver a verlos en cuanto pudiera y tenía ganas de montarlos. Pero, claro, la vida nunca es tan sencilla.	Aurelie	Neutral	
+FTAurelie4_10	¿Y por qué?	Flora	Neutral	
+FTAurelie4_11	Te contaré más la próxima vez. Prefiero que te quedes con la imagen de cuento de hadas de mí tocando el violín a los caballos. 	Aurelie	Neutral	
+FTAurelie5_01	Estoy deseando que me cuentes el resto de tu historia.	Flora	Neutral	
+FTAurelie5_02	Estoy llegando a ello. Después de ese mágico encuentro, me decidí. Quería pasar mi vida con los caballos. Hablé con mis padres al día siguiente, pero no me animaron mucho.	Aurelie	Neutral	
+FTAurelie5_03	¿No querían que montaras a caballo?	Flora	Neutral	
+FTAurelie5_04	Mis padres son encantadores; su único deseo en el mundo es que yo sea feliz. Por desgracia, la demanda de violines había bajado y mi madre no era ni mucho menos rica. No tenían dinero para pagar las clases y la escuela cercana al pueblo estaba fuera de su alcance. 	Aurelie	Neutral	
+FTAurelie5_05	Se me rompió el corazón, pero sabía que tendría que abandonar mi sueño de montar a caballo durante un tiempo. Ni siquiera mis trabajos de verano me pagaban lo suficiente para tomar clases. 	Aurelie	Neutral	
+FTAurelie5_06	Mi único consuelo era volver al prado por la noche para tocar para los caballos y no se perdían ni una actuación. Era extraordinario verlos allí, pacientes y atentos, como estatuas. La noche del 14 de julio, puede que no tuviera una banda en la que tocar, pero tenía mi propio público. Los cuatro caballos volvieron como siempre, escuchando y mirando, y luego se fueron tan misteriosamente como habían venido. 	Aurelie	Neutral	
+FTAurelie5_07	Se creó una especie de vínculo silencioso entre ellos y yo. Y mientras los fuegos artificiales estallaban sobre la ciudad, me asaltó la tristeza una vez más al pensar en mis sueños imposibles de montar a caballo. Pero cuando vi las caras de mis cuatro espectadores, mi corazón se disparó. 	Aurelie	Neutral	
+FTAurelie5_08	Tocar para ellos fue un regalo que pronto haría que mi vida diera un giro decisivo. Muy pronto, de hecho, al día siguiente.  	Aurelie	Neutral	
+FTAurelie5_09	No me digas: si quieres saber lo que pasó después, vuelve más tarde. ¿Tengo razón?	Flora	Neutral	
+FTAurelie5_10	Si todavía quieres, ¡será un placer!	Aurelie	Neutral	
+FTAurelie6_01	Por favor, sigue con tu historia.	Flora	Neutral	
+FTAurelie6_02	Bien. Al día siguiente del 14 de julio, la noticia corrió como la pólvora. El propietario del hipódromo había perdido sus caballos. Un conductor, que había bebido demasiado, se había estrellado contra la puerta de su prado y los caballos habían escapado. 	Aurelie	Neutral	
+FTAurelie6_03	La búsqueda ya estaba en marcha y el propietario estaba desesperado. Estaba convencido de que ya estaban a kilómetros de distancia y de que no los volvería a ver. 	Aurelie	Neutral	
+FTAurelie6_04	Tuve una idea totalmente descabellada. Aunque me arriesgara a hacer el ridículo, anuncié al propietario que intentaría encontrar sus caballos. Él creía que habían desaparecido en un bosque vecino y que probablemente todavía estaban allí, tratando de encontrar el camino de vuelta a los establos. 	Aurelie	Neutral	
+FTAurelie6_05	Al principio de la tarde, fui y me puse al borde del bosque y empecé a tocar mi violín. La gente que pasaba por allí pensaba que estaba completamente loca. No me importaba. No sé cuánto tiempo estuve tocando, pero ya era bien entrada la tarde cuando oí el ruido de los cascos. 	Aurelie	Neutral	
+FTAurelie6_06	Y uno a uno, los caballos salieron del bosque y se detuvieron frente a mí durante un rato, antes de seguir su camino hacia el establo.	Aurelie	Neutral	
+FTAurelie6_07	El propietario estaba muy contento y me ofreció una recompensa. Me negué a aceptar el dinero que me ofrecía y le sugerí que a cambio me diera clases gratis en su escuela. Aceptó inmediatamente. 	Aurelie	Neutral	
+FTAurelie6_08	Y así es como después de muchos meses de intenso entrenamiento, me encuentro aquí. 	Aurelie	Neutral	
+FTAurelie6_09	Realmente es una historia increíble, un verdadero cuento de hadas.	Flora	Neutral	
+FTAurelie6_10	Y así es como ocurrió realmente. Siempre me he preguntado si los caballos lo hicieron a propósito, pero ¿cómo responder a esa pregunta? Pero es gracias a ellos que hoy estoy aquí. 	Aurelie	Neutral	
+FTAurelie6_11	Ha sido una historia maravillosa. Muestra lo sensible que eres y cómo los caballos lo entienden. Tu lugar está definitivamente aquí en la academia. 	Flora	Neutral	
+FTAurelie6_12	Como todos aquí, me parece.	Aurelie	Neutral	
+FTAurelie6_13	Ese es el final de mi aventura. Pero estoy seguro de que los demás también tienen grandes historias que contar. 	Aurelie	Neutral	
+FTMiguel1_01	Hola, ¿puedo molestarte unos minutos?	Flora	Neutral	
+FTMiguel1_02	¿A quién? ¿A mí? No me molestas...	Miguel	Neutral	
+FTMiguel1_03	Genial. Me encantaría saber más sobre ti...	Flora	Neutral	
+FTMiguel1_04	Es que hablar de mí... me molesta.	Miguel	Neutral	
+FTMiguel1_05	¡Pero si acabas de decir que no te molestaba!	Flora	Neutral	
+FTMiguel1_06	¿Acabo... acabo... de decir eso?	Miguel	Neutral	
+FTMiguel1_07	Escucha lo que haremos es esto: Dejaré que te organices y cuando podamos tener una conversación normal, me pondré en contacto...	Flora	Neutral	
+FTMiguel1_08	Eh... Si quieres... No me molesta...	Miguel	Neutral	
+FTMiguel1_09	Este puede no ser tan sencillo como los otros...	Flora	Neutral	
+FTMiguel2_01	Así que Miguel, ¿listo para charlar?	Flora	Neutral	
+FTMiguel2_02	Eh... sí, por qué no. ¿Charlar sobre qué?	Miguel	Neutral	
+FTMiguel2_03	No lo sé. Tal vez podríamos hablar de geografía rusa. Eso podría ser divertido. 	Flora	Neutral	
+FTMiguel2_04	No lo sé. No soy muy bueno en cuanto a las prisas. 	Miguel	Neutral	
+FTMiguel2_05	Miguel, estaba bromeando. ¡Quiero saber más sobre ti, eso es todo!	Flora	Neutral	
+FTMiguel2_06	Oh, claro, sí, buena idea. 	Miguel	Neutral	
+FTMiguel2_07	¿Cómo es que terminaste en esta Academia?	Flora	Neutral	
+FTMiguel2_08	Bueno... podría llevar algún tiempo.	Miguel	Neutral	
+FTMiguel2_09	Eso es bueno, porque es hora del tiempo libre, y el tiempo libre significa: el tiempo está libre. 	Flora	Neutral	
+FTMiguel2_10	Sí, pero no me siento cómodo hablando de mí mismo. 	Miguel	Neutral	
+FTMiguel2_11	Lo estás haciendo bien hasta ahora... Por favor, continúa...	Flora	Neutral	
+FTMiguel2_12	Vengo de Canadá, concretamente cerca de Vancouver.	Miguel	Neutral	
+FTMiguel2_13	Es extraño, porque tu nombre de pila...	Flora	Neutral	
+FTMiguel2_14	Sí, mi nombre de pila suena un poco a español, aunque hoy en día no signifique nada. Pero, sí, tienes razón. Mi padre es español. Era veterinario en Barcelona. Se peleó con un empresario que le quitó la mitad de su fortuna. Así que dejó el país para abrir una consulta en Canadá. No tengo ningún recuerdo de Barcelona. Era demasiado joven en esa época. 	Miguel	Neutral	
+FTMiguel2_15	¿Tu padre era veterinario? ¡Eso es fantástico!	Flora	Neutral	
+FTMiguel2_16	Sí, mi padre era un buen hombre en ese momento. Y crecí rodeado de animales. Su consulta trataba con todo tipo, perros y serpientes, arañas y simios.	Miguel	Neutral	
+FTMiguel2_17	Me encantan las serpientes. Pueden dar miedo, pero me fascinan. ¿No te apetecía hacer como tu padre y convertirte en veterinario? 	Flora	Neutral	
+FTMiguel2_18	A decir verdad. No se me da muy bien la ciencia. Es demasiado concreta y realista para mí. La poesía y la escritura, eso es lo que me gusta. 	Miguel	Neutral	
+FTMiguel2_19	¿Y cómo llegaste a montar a caballo?	Flora	Neutral	
+FTMiguel2_20	Llegó bastante tarde. Algo malo sucedió pero no me siento preparado para contarlo todavía.	Miguel	Neutral	
+FTMiguel2_21	Supongo que volveré en otro momento. Hasta luego.	Flora	Neutral	
+FTMiguel3_01	¿Estás listo para contarme el resto de tu historia?	Flora	Neutral	
+FTMiguel3_02	Sí, aunque no me enorgullece.	Miguel	Neutral	
+FTMiguel3_03	¿Qué quieres decir?	Flora	Neutral	
+FTMiguel3_04	Como ya he dicho: la equitación fue una vocación que me llegó tarde. Eso no significa que no me volvieran loco los caballos cuando era pequeño. 	Miguel	Neutral	
+FTMiguel3_05	A menudo he oído decir que los caballos son la mayor conquista del hombre. Y es cierto cuando eres un niño, los caballos son realmente impresionantes, tan grandes y tan fuertes. Mi padre tenía a menudo caballos que cuidar y me encantaba ir con él a las granjas para verlos correr por los prados, o descansar en los establos. 	Miguel	Neutral	
+FTMiguel3_06	No pensaba en montar a caballo. Sólo el hecho de verlos o alimentarlos era suficiente para llenar mi corazón de alegría. Eso era todo lo que contaba. Fue una época mágica en mi vida. Mi madre, mi padre y yo éramos muy felices. Fue alrededor de los catorce años cuando todo se volvió loco. 	Miguel	Neutral	
+FTMiguel3_07	¿Qué pasó?	Flora	Neutral	
+FTMiguel3_08	El empresario que había despojado a mi padre de la mitad de su fortuna abrió una fábrica en Vancouver. La fábrica empezó a verter contaminantes químicos en el río, matando a los peces.	Miguel	Neutral	
+FTMiguel3_09	Mi padre no tenía ni idea de a quién pertenecía la fábrica, pero fue muy activo en la campaña para cerrarla. Organizó manifestaciones y peticiones. Los medios de comunicación se hicieron eco de la campaña y pronto todo el mundo habló de ella. 	Miguel	Neutral	
+FTMiguel3_10	Lo que tenía que pasar, tenía que pasar. El empresario barcelonés descubrió que mi padre intentaba cerrar la fábrica y decidió hacérselo pagar al cien por cien.	Miguel	Neutral	
+FTMiguel3_11	¿Qué le hizo ese hombre a tu padre?	Flora	Neutral	
+FTMiguel3_12	Prefiero no hablar de ello por ahora. Es bastante doloroso recordar todo eso. Espero que lo entiendas. 	Miguel	Neutral	
+FTMiguel3_13	Por supuesto, no quiero forzarte. Pero si alguna vez necesitas a alguien con quien hablar, estoy dispuesta a escucharte. 	Flora	Neutral	
+FTMiguel3_14	Es muy amable por tu parte, gracias.	Miguel	Neutral	
+FTMiguel4_01	¿Estás preparado para continuar tu historia, Miguel?	Flora	Neutral	
+FTMiguel4_02	Me has escuchado hasta ahora y por eso no voy a ofenderte con mi silencio. De todos modos, nada de esto fue culpa mía. 	Miguel	Neutral	
+FTMiguel4_03	El empresario que la tenía tomada con mi padre no sólo había decidido vengarse, sino también destruir su vida. Y fue a por todas. 	Miguel	Neutral	
+FTMiguel4_04	Montó todo un engaño para hacer creer a mi madre que mi padre ya no la quería. Imitó la letra de mi padre, pagó a falsos testigos y utilizó otros trucos para convencer a mi mamá de que mi padre se había enamorado de otra mujer y que quería dejarla. 	Miguel	Neutral	
+FTMiguel4_05	Mi madre era una mujer orgullosa y decidió separarse, dejando a mi padre solo, sin ninguna explicación. 	Miguel	Neutral	
+FTMiguel4_06	Hay que ser un verdadero miserable para hacer un truco así...	Flora	Neutral	
+FTMiguel4_07	El hombre era un verdadero monstruo. Y todo venía de la historia antigua de Barcelona. 	Miguel	Neutral	
+FTMiguel4_08	¿Qué pasó en Barcelona?	Flora	Neutral	
+FTMiguel4_09	Mi padre y el empresario fueron buenos amigos en el pasado. Mi padre y él pasaban mucho tiempo juntos. El empresario tenía un hijo y quería que su hijo se uniera a su negocio cuando fuera mayor. 	Miguel	Neutral	
+FTMiguel4_10	Pero cuando el hijo conoció a mi padre, su pasión por los animales se impuso. Dejó de ocuparse del negocio de su padre y quiso ser veterinario. El empresario había perdido el control sobre su propio hijo y culpaba a mi padre. 	Miguel	Neutral	
+FTMiguel4_11	Pero pasar de ahí a romper el matrimonio, ¡es una locura!	Flora	Neutral	
+FTMiguel4_12	Creo que el odio le carcomía por dentro y no tenía ni idea de las consecuencias de sus actos. La situación fue de mal en peor. 	Miguel	Neutral	
+FTMiguel4_13	¿Y cómo es eso?	Flora	Neutral	
+FTMiguel4_14	¿Podemos hablar de ello en otro momento? Quiero contarte la historia, pero no de inmediato.	Miguel	Neutral	
+FTMiguel4_15	Como quieras. Volveré.	Flora	Neutral	
+FTMiguel5_01	¿Te sientes preparado para contarme el resto de tu historia?	Flora	Neutral	
+FTMiguel5_02	Sí, toda la historia. Mi padre se quedó solo conmigo y se volvió malhumorado e irritable, nunca violento, sólo triste y amargado.	Miguel	Neutral	
+FTMiguel5_03	No tenía ni idea de qué hacer para mejorar las cosas y la marcha de mi madre me había dejado de lado. Lo único que podía hacer era escapar y me refugié en la literatura. Leí un libro tras otro, esperando que cada día mi padre se calmara. 	Miguel	Neutral	
+FTMiguel5_04	Dejó de ir a trabajar y el dinero empezó a escasear. Las deudas se acumularon y se vio obligado a cerrar su consulta. Sin salida, tuvo que pasar a la ilegalidad.	Miguel	Neutral	
+FTMiguel5_05	¿Qué es lo que hizo?	Flora	Neutral	
+FTMiguel5_06	¿Has oído hablar alguna vez de las hormonas de sustitución?	Miguel	Neutral	
+FTMiguel5_07	No puedo decir que lo haya hecho.	Flora	Neutral	
+FTMiguel5_08	Es un tratamiento farmacéutico contra el envejecimiento. 	Miguel	Neutral	
+FTMiguel5_09	No veo la relación.	Flora	Neutral	
+FTMiguel5_10	El principal componente de las hormonas es el estrógeno, que se extrae de la orina de yeguas preñadas, conocidas como yeguas donantes de orina. 	Miguel	Neutral	
+FTMiguel5_11	En mi región natal, esta práctica está prohibida. Lo peor es lo que ocurre con los potros nacidos de las yeguas de cría. La mayoría de ellos son enviados directamente al matadero. 	Miguel	Neutral	
+FTMiguel5_12	¡Esto es horrible! ¿Cómo puede alguien hacer algo así?	Flora	Neutral	
+FTMiguel5_13	Estoy de acuerdo. Sin embargo, mi padre se vio envuelto en una red de tráfico. Vendía los potros y se quedaba con las ganancias. Se convirtió en el tipo de hombre de negocios que había arruinado su vida. 	Miguel	Neutral	
+FTMiguel5_14	Fue en ese momento cuando sufrí un gran cambio. 	Miguel	Neutral	
+FTMiguel5_15	¿Qué hiciste?	Flora	Neutral	
+FTMiguel5_16	Te lo diré más tarde...	Miguel	Neutral	
+FTMiguel6_01	¿Volviste para escuchar mi historia? Temía que estuvieras decepcionada de mí, viendo lo que hizo mi padre. 	Miguel	Neutral	
+FTMiguel6_02	Miguel, no tienes nada de qué avergonzarte. Nunca jamás te haré responsable de las acciones de tu padre. Por favor, continúa con tu relato.	Flora	Neutral	
+FTMiguel6_03	Cuando descubrí que el hombre que se había pasado la vida protegiendo a los animales los enviaba a su ejecución, perdí la cordura y localicé una granja de cría con la que trataba mi padre. 	Miguel	Neutral	
+FTMiguel6_04	En mitad de la noche, irrumpí en la granja, abrí todas las puertas e hice que todas las yeguas escaparan por las llanuras. 	Miguel	Neutral	
+FTMiguel6_05	No tenía ni idea de lo que estaba haciendo. Tal vez los estaba enviando a la muerte, tal vez estaba mal. Pero tenía que hacer algo, cambiar algo. No podía quedarme sentado sin hacer nada ante esta atrocidad. 	Miguel	Neutral	
+FTMiguel6_06	Nunca volví a la casa de mi padre. Lo pensé mucho y decidí que, para compensar los errores del pasado, tenía que dedicar mi vida a los caballos. 	Miguel	Neutral	
+FTMiguel6_07	Así que me uní a una granja y me convertí en ayudante de un criador, un buen hombre que me enseñó todo lo que sé hoy. 	Miguel	Neutral	
+FTMiguel6_08	Gané varios concursos locales y Harry se fijó en mí y me ofreció entrar en la Academia Sycamore.	Miguel	Neutral	
+FTMiguel6_09	Pero en el fondo de mi corazón sigo sintiendo una gran tristeza y rabia hacia mi padre. La poesía me ayudó mucho durante este periodo. Me aportó una sensación de equilibrio y serenidad en medio de la decepción...	Miguel	Neutral	
+FTMiguel6_10	Eres un hombre muy bueno, Miguel. No te castigues porque tu padre se equivocó. Has elegido tu propio camino, el correcto. Te mereces plenamente lo que estás viviendo ahora. 	Flora	Neutral	
+FTMiguel6_11	Gracias. Hablar contigo me ha hecho mucho bien. Ha pasado mucho tiempo desde que abrí mi corazón a alguien. Siento que realmente puedo confiar en ti.	Miguel	Neutral	
+FTMiguel6_12	Yo también confío en ti, Miguel.	Flora	Neutral	
+FTMiguel6_13	Este es el final de mi historia. Espero que no te hayas sorprendido demasiado. 	Miguel	Neutral	
+FTMiguel6_14	Ha sido duro, pero hace falta más que eso para derribarme. Teniendo en cuenta lo que has pasado y lo que ha sido de ti, estoy orgullosa de ti. 	Flora	Neutral	
+FTDaniela1_01	Hola, supongo que debes ser Daniela. Vienes de la Academia de Alsacia, ¿no?	Flora	Neutral	
+FTDaniela1_02	Yo digo, que tú debes ser la que tiene la neurona por aquí. ¿Siempre eres tan brillante o sólo tratas de impresionarme? 	Daniela	Neutral	
+FTDaniela1_03	¿Quién te crees que eres? ¿Probamos con otro tono, Señorita? 	Flora	Neutral	
+FTDaniela1_04	Mmmm...	Daniela	Neutral	
+FTDaniela2_01	Bien, intentemos el contacto una vez más. Pero esta vez sin los fuegos artificiales.	Flora	Neutral	
+FTDaniela2_02	No veo ningún problema. "Conoce a tu enemigo" es lo que siempre me han dicho; bastante útil también. 	Daniela	Neutral	
+FTDaniela2_03	¿Es posible una conversación normal contigo?	Flora	Neutral	
+FTDaniela2_04	Podríamos intentarlo...	Daniela	Neutral	
+FTDaniela2_05	¡Amiga! ¡Vengo en son de paz! Sólo quiero conocerte.	Flora	Neutral	
+FTDaniela2_06	Te lo advierto ahora mismo. No voy a contar NADA sobre mis métodos de entrenamiento.	Daniela	Neutral	
+FTDaniela2_07	¿Estás obsesionada o qué? ¡Sólo quiero hablar!	Flora	Neutral	
+FTDaniela2_08	Lo que quieras...	Daniela	Neutral	
+FTDaniela2_09	Creo que me estoy volviendo loca...	Flora	Neutral	
+FTDaniela3_01	Bien, empecemos de nuevo, ¿qué te parece? 	Flora	Neutral	
+FTDaniela3_02	Me apunto. Podría ser divertido. ¿Qué quieres saber? 	Daniela	Neutral	
+FTDaniela3_03	¿Qué tal para empezar, cómo llegaste a montar a caballo?	Flora	Neutral	
+FTDaniela3_04	Llevo montando a caballo desde que era muy pequeña. Tuve la suerte de ser adoptada por un campeón holandés, y también estoy orgullosa de ello. Me enseñó todo lo que sabía y en mi decimoquinto cumpleaños, el viejo palo me dijo: "Ahora sigues por tu cuenta."	Daniela	Neutral	
+FTDaniela3_05	Pero seguía teniendo la sensación de que tenía que esforzarme al máximo. 	Daniela	Neutral	
+FTDaniela3_06	Mi padre adoptivo creía en mí y yo quería ser mejor que él. Había oído hablar de un profesor increíble que podía llevarme más lejos. 	Daniela	Neutral	
+FTDaniela3_07	Así es como acabé haciendo un entrenamiento especial en una academia estadounidense. 	Daniela	Neutral	
+FTDaniela3_08	La profesora se llamaba Wendy Summers, una idiota de pueblo y no se equivocó. Se pasaba todo el tiempo insistiendo en la comunicación con el caballo, en la comprensión de sus necesidades, en la creación de vínculos en cuatro patas y bla, bla, bla, bla. 	Daniela	Neutral	
+FTDaniela3_09	Era más aburrida que el agua y pronto me di cuenta de que no tenía nada que aprender de ella. 	Daniela	Neutral	
+FTDaniela3_10	Pero la comunicación con tu caballo es inestimable.	Flora	Neutral	
+FTDaniela3_11	Lo único que necesita saber un caballo es: quién manda. Lo demás son tonterías. Si he ganado tantas competiciones es porque mi caballo obedece y sé cuándo sacar el azúcar. 	Daniela	Neutral	
+FTDaniela3_12	Con esa mentalidad, diría que falta algo esencial entre tú y tu caballo. 	Flora	Neutral	
+FTDaniela3_13	Una idea pintoresca. Si alguna vez me ayuda a ganar algo, me pondré en contacto contigo.	Daniela	Neutral	
+FTDaniela3_14	¿Qué hacías en la academia estadounidense si estás tan en contra de la instrucción?	Flora	Neutral	
+FTDaniela3_15	¿Crees que tengo todo el día para charlar? Ya hablaremos en otro momento; tengo mejores cosas que hacer con mi tiempo que saltar por el carril de la memoria. 	Daniela	Neutral	
+FTDaniela3_16	No estoy segura de querer escuchar su historia hasta el final. 	Flora	Neutral	
+FTDaniela4_01	¿Vuelves a por más? Admítelo, mi carrera te fascina. 	Daniela	Neutral	
+FTDaniela4_02	Todavía estás en la academia. Yo no llamaría a eso una carrera.	Flora	Neutral	
+FTDaniela4_03	Sí, pero está todo planeado para mí, ves. Pronto seré una gran campeona, recuerda mis palabras. 	Daniela	Neutral	
+FTDaniela4_04	Lo que sea. Entonces, ¿la academia estadounidense? ¿Qué pasa con ella?	Flora	Neutral	
+FTDaniela4_05	Como he dicho: terrible. Ni siquiera valía la pena el billete de avión. Volví a Holanda muy decepcionada y le pregunté a mi padre adoptivo si tenía algún plan mejor. Entonces tuvo la brillante idea de enviarme a otra academia. 	Daniela	Neutral	
+FTDaniela4_06	¿La academia de Alsacia?	Flora	Neutral	
+FTDaniela4_07	No. Primero pasé por la Academia Cherry Tree en China.	Daniela	Neutral	
+FTDaniela4_08	¿Guau? ¿Te entrenaste en la Cherry Tree? Se supone que son los mejores. Nunca han sido derrotados. 	Flora	Neutral	
+FTDaniela4_09	Porque no siempre compiten y cuando no compiten, Alsacia arrasa, sobre todo en los últimos años con el cambio de director. 	Daniela	Neutral	
+FTDaniela4_10	¿Cómo era la Cherry Tree?	Flora	Neutral	
+FTDaniela4_11	Horrorosa. No me quedé.	Daniela	Neutral	
+FTDaniela4_12	Pero, es lo mejor que hay. No lo entiendo.	Flora	Neutral	
+FTDaniela4_13	A decir verdad, la tonta directora decidió que yo no estaba a su nivel. 	Daniela	Neutral	
+FTDaniela4_14	Y veo que tu orgullo resistió el revés.	Flora	Neutral	
+FTDaniela4_15	Para alguien tan dotada como yo, el orgullo no es un problema. Llámalo: clarividencia. 	Daniela	Neutral	
+FTDaniela4_16	Pero no iba a rendirme sólo porque una boba no supiera detectar el talento cuando se le ríe en la cara. Así que me apunté a otra academia, una capaz de detectar mi potencial. 	Daniela	Neutral	
+FTDaniela4_17	¿Otra academia? ¿Cuál?	Flora	Neutral	
+FTDaniela4_18	Te lo diré en otro momento, si me lo pides amablemente. Me gusta cuando la gente ruega.	Daniela	Neutral	
+FTDaniela4_19	Has elegido a la chica equivocada...	Flora	Neutral	
+FTDaniela5_01	¿Puedes hablarme de la siguiente academia a la que fuiste?	Flora	Neutral	
+FTDaniela5_02	¿La Academia Palm? Eso es lo que yo llamo una academia. Los alumnos eran adictos al entrenamiento, concentrados en una sola cosa: el trabajo duro y sólido. Lo admito, incluso yo aprendí uno o dos trucos allí. 	Daniela	Neutral	
+FTDaniela5_03	Es una broma, espero. La academia marroquí es una de las más famosas. Y el entorno es increíble. Me encantaría visitarla algún día. 	Flora	Neutral	
+FTDaniela5_04	Si crees que tendrás tiempo de ver la puesta de sol, entonces sueña. Resistencia y tenacidad, eso es lo que te enseñan allí. Cualidades esenciales para una campeona. 	Daniela	Neutral	
+FTDaniela5_05	¿Por qué no te quedaste?	Flora	Neutral	
+FTDaniela5_06	Progresé demasiado rápido. Después de varios meses, ya no tenía a nadie a quien vencer. Si me hubiera quedado en Marruecos, supongo que me habría dormido en los laureles. 	Daniela	Neutral	
+FTDaniela5_07	¿Por eso decidiste trasladarte a Alsacia?	Flora	Neutral	
+FTDaniela5_08	Eso no es exactamente lo que pasó. Te lo diré la próxima vez. 	Daniela	Neutral	
+FTDaniela6_01	Entonces, Daniela, ¿cómo diste el salto de Marruecos a Alsacia? 	Flora	Neutral	
+FTDaniela6_02	Cuál es la palabra mágica...	Daniela	Neutral	
+FTDaniela6_03	Oh, cielos, POR FAVOR....	Flora	Neutral	
+FTDaniela6_04	Ya que insistes. Ya había ganado varios concursos para Marruecos y la directora se dio cuenta de que no había nada más que enseñarme. 	Daniela	Neutral	
+FTDaniela6_05	Me recomendó otra academia, más a mi nivel. Una academia muy famosa que ya la había vencido en el pasado: la Academia Sycamore.	Daniela	Neutral	
+FTDaniela6_06	¿Qué? ¿Ibas a venir aquí, a la Academia Sycamore? ¡Increíble!	Flora	Neutral	
+FTDaniela6_07	Así es. Por sorprendente que parezca, era mi primer destino. Mis maletas estaban hechas y yo estaba lista para partir. Lo que ocurrió después fue fruto de la pura fortuna. 	Daniela	Neutral	
+FTDaniela6_08	¿Qué quieres decir?	Flora	Neutral	
+FTDaniela6_09	Hace varios meses, estaba en el barco que me llevaba a Escocia, donde la Academia Sycamore seguía teniendo su base en ese momento. Un joven encantador se puso a hablar conmigo en cubierta y me preguntó por qué estaba leyendo un manual de entrenamiento. Le expliqué mi situación y me dijo que, por pura casualidad, él también trabajaba en el mundo de la equitación. 	Daniela	Neutral	
+FTDaniela6_10	Y, además, era el director de una academia prometedora, la Academia de Alsacia. Tras una larga conversación, consiguió convencerme de que me presentara a las prestigiosas pruebas de acceso de su centro, en lugar de perder el tiempo en un vertedero dirigido por un viejo inútil sin nada nuevo que decir. 	Daniela	Neutral	
+FTDaniela6_11	¡El antiguo director no era un viejo inútil! Era un hombre distinguido que dedicó su vida a los caballos.	Flora	Neutral	
+FTDaniela6_12	De todos modos, tenía curiosidad y decidí presentarme a las pruebas de acceso. El joven parecía conocer el significado de la victoria. 	Daniela	Neutral	
+FTDaniela6_13	Y confieso, que nunca me ha decepcionado. Sus enseñanzas son las más instructivas que he recibido nunca y hace todo lo posible por ganar las competiciones. Nunca he tenido motivos para arrepentirme de mi decisión. 	Daniela	Neutral	
+FTDaniela6_14	Sin embargo, es bastante divertido, podríamos haber estado en la misma clase. 	Flora	Neutral	
+FTDaniela6_15	Fue hace varios meses. No estabas preparada para la vida de la academia. 	Daniela	Neutral	
+FTDaniela6_16	¿Y después de Alsacia? ¿Algún plan?	Flora	Neutral	
+FTDaniela6_17	La Academia de Alsacia no es más que un punto de paso. Mi gran objetivo es volver a la Cherry Tree y demostrar a la directora que mi lugar está ahí. 	Daniela	Neutral	
+FTDaniela6_18	Entonces pretendo convertirme en la mejor del grupo y llevar por fin la corona de campeona definitiva.	Daniela	Neutral	
+FTDaniela6_19	No te falta ambición, entonces. Gracias por hablar de todos modos. Ahora tengo una mejor imagen de tu personalidad. 	Flora	Neutral	
+FTDaniela6_20	Sin ambición, eres cero. No hay ambición, no hay victoria.	Daniela	Neutral	
+FTDaniela6_21	¿Esta conversación ha sido realmente interesante en algún sentido? 	Flora	Neutral	
+FTDaniela6_22	Ve a perder el tiempo con tus compañeros de juego. Yo ya te he dado suficiente del mío. 	Daniela	Neutral	
+FTDaniela6_23	Y siento que he desperdiciado años del míos.	Flora	Neutral	
