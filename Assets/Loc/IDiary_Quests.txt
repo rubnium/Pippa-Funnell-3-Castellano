@@ -20,8 +20,8 @@ Office		Encuentre la oficina del director de la Academia Beachwood.
 Police		Haz que el policía salga para tener acceso a la oficina.
 Director		Únete al director siguiendo el rastro de las huellas de los cascos.
 Concert		Ve al concierto en el bar.
-Invitation		Busca la dirección del sitio web del pub y encuentra una imagen del ticket en el sitio. 
-PhotoInvit		Haz una foto del ticket del sitio web.
+Invitation		Busca la dirección del sitio web del pub y encuentra una imagen de la entrada en el sitio. 
+PhotoInvit		Haz una foto de la entrada del sitio web.
 Back		Lleva la foto de vuelta a Jade al centro de estudiantes.
 Rdv		Ve a reunirte con Spike antes de que se acabe el tiempo. 
 Key		Encuentra la llave de la puerta.
