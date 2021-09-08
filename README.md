@@ -13,7 +13,7 @@ Si no tienes el juego original:
 Con el juego ya instalado:
 - Encuentra el directorio del juego. Esto se puede hacer al hacerle click derecho a cualquier acceso directo de Pippa Funnell 3 y seleccionando la opción _Abrir ubicación del archivo_
 - Descarga el código de este repositorio haciendo click en el botón verde que dice _Code_, y luego _Download ZIP_
-- Descomprime el contenido de la carpeta _Pippa-Funnell-3-Castellano-main_ que se encuentra dentro del .zip que acabas de descargar, en el directorio raíz del Pippa Funnell 3 instalado. Puedes borrar el archivo README.md
+- Descomprime el contenido de la carpeta _Pippa-Funnell-3-Castellano-main_ que se encuentra dentro del .zip que acabas de descargar, en el directorio raíz del Pippa Funnell 3 instalado. Puedes borrar el archivo _README.md_
 
 ## Versión actual: beta1
 - La mayoría de textos están traducidos
