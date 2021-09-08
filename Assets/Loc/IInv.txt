@@ -1,0 +1,68 @@
+SymbolID	SubsetID	Text
+PlanChap		Mapa con la capilla
+Book		Catálogo de antigüedades chinas
+Magasine		Número de teléfono de Groovin FM
+Password		Contraseña del ordenador
+DefiPlan1		Mapa que indica el objeto
+DefiPlan2		Mapa que indica el objeto
+DefiPlan3		Mapa que indica el objeto
+DefiObject1		Objeto 1 del Desafío
+DefiObject2		Objeto 2 del Desafío
+DefiObject3		Objeto 3 del Desafío
+Rose		Rosa bonita
+Parchemin		Pergamino con mensaje
+Card		Postal
+RockMessage		Foto del mensaje
+PierreMulticolore		Atractiva joya multicolor
+ClefMulticolore		Joyas con incrustaciones de gemas multicolores 
+Frequence		Frecuencia de radio de la policía
+Adresse		Sitio web del pub 
+ScreenWeb		Impresión de la página web del bar
+PhotoInvit		Foto de la entrada
+PhotoInvit2		Foto de la entrada
+Invitation		Entrada para el concierto
+PlanSpike		Mapa de Spike
+RockPhoto		Foto del mensaje de Spike
+KeyGrid		Llave de la puerta
+ListeCadeaux		Lista de regalos
+Autographe		El autógrafo de Spike para Carroll
+Recueil		Colección de poesía para Miguel
+PhotoCaroll		Foto de Carroll para Spike
+PhotoJade		Foto de Jade para Patrick
+Bouteille		Una bebida local para Harry
+FleurRare		Flor muy rara para Jade
+ViolonPartition		Partitura de violín para Aurélie
+Concert		CD de MC Melon para Samuel
+MorceauPlan1		Sección del mapa
+PhotoCascade		Mapa completo de la cascada
+PlanKiew		Mapa para llegar a la cabaña
+MorceauPlan2		Segundo mapa
+Pelle		Pala oxidada
+Manivelle		Manivela de madera
+MorceauPlan3		Tercer mapa
+MagneticRoc		Piedra magnética
+BrocKey		Llave oxidada
+PlanCamp		Cuarto mapa
+Lanterne		Linterna antigua
+LettreAdmirateur		Pista del admirador
+Lampe		Linterna 
+Piles		Pilas
+Indice		Segunda pista
+Rose2		Rosa bonita
+Indice2		Tercera pista
+SacRiz		Bolsa de granos de arroz
+PhotoCode		Foto de la combinación 1309
+100Tokens		100 créditos de Carroll
+500Tokens		500 créditos de Samuel
+1200Tokens		1.200 créditos de Aurélie
+3200Tokens		3.200 créditos de Miguel
+25000Tokens		25.000 créditos de Daniela
+20000Tokens		20.000 créditos de Kiew
+100000Tokens		100.000 créditos de Oldmaster
+PoemeChinois		Poema chino
+PlanGinger		Mapa para Ginger
+Traduction		Traducción del poema
+Statue1		Estatuilla antigua
+Statue2		Estatuilla antigua
+Statue3		Estatuilla antigua
+PlanCompet		Mapa de la competición
