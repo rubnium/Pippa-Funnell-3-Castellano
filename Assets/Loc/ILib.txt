@@ -1,0 +1,43 @@
+SymbolID	SubsetID	Text
+Dictionnary_Article_1		Diccionario (A - C)
+Dictionnary_Article_2		Diccionario (D - E)
+Dictionnary_Article_3		Diccionario (F - G)
+Dictionnary_Article_4		Diccionario (H - I)
+Dictionnary_Article_5		Diccionario (J - N)
+Dictionnary_Article_6		Diccionario (O - R)
+Dictionnary_Article_7		Diccionario (P - S)
+Dictionnary_Article_8		Diccionario (T - Z)
+Dressage_FlyingChange		Cambio al vuelo
+Dressage_Gallop		Galope normal
+Dressage_GatherGallop		Galope corto
+Dressage_GatherStep		Paso corto
+Dressage_GatherTrot		Trote corto
+Dressage_HalfPassCanter		Medio paso al galope
+Dressage_LongGallop		Galope amplio
+Dressage_LongStep		Paso amplio
+Dressage_LongTrot		Trote amplio
+Dressage_Passage		Pasaje
+Dressage_Pirouette		Media pirueta
+Dressage_PirouetteAtCanter		Pirueta
+Dressage_Salute		Parada y saludo
+Dressage_ShoulderIn		Paso sesgado
+Dressage_Step		Paso normal
+Dressage_Trot		Trote normal
+Mime_Care_1		Atención médica - Volumen 1
+Mime_Care_2		Atención médica - Volumen 2
+Mime_Care_3		Atención médica - Volumen  3
+Mime_Education_1		Aprendizaje - Volumen 1
+Mime_Education_2		Aprendizaje - Volumen 2
+Mime_Education_3		Aprendizaje - Volumen 3
+Mime_Game_1		Jugar - Volumen 1
+Mime_Game_2		Jugar - Volumen 2
+Mime_Game_3		Jugar - Volumen 3
+Mime_Tenderness_1		Afecto -Volumen 1
+Mime_Tenderness_2		Afecto -Volumen 2
+Mime_Tenderness_3		Afecto -Volumen 3
+Useless_Article_1		Artículo n°1
+Useless_Article_2		Artículo n°2
+Useless_Article_3		Artículo n°3
+Useless_Article_4		Artículo n°4
+Useless_Article_5		Artículo n°5
+TimeUnitText		minutos
