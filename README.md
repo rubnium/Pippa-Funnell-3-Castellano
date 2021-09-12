@@ -1,5 +1,5 @@
-# Pippa Funnell 3 - Traducción castellano
-Traducción al castellano de Pippa Funnell 3: The Golden Stirrup Challenge
+# Pippa Funnell 3 - Traducción español castellano
+Traducción al español de Pippa Funnell 3: The Golden Stirrup Challenge
 
 ¡Espero que lo disfrutes! Cualquier problema házmelo saber y lo intentaré corregir cuanto antes.
 
