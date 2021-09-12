@@ -1,371 +1,372 @@
 UID	English corrected	Character	CharMood	Duration
-Intro01_Commentateur_01	<Comentarista> Es extraordinario. Nuestra campeona ha subido al podio internacional sin sudar. ¡Una gran victoria para la academia y una gran victoria para el director Bird y su equipo!	Commentateur	Happy	13
-Intro02_Patrick_01	<Patrick> Pensé que podría encontrarte aquí...	Patrick	Neutral	1
-Intro02_Jade_02	<Jade> A él le habría encantado este cielo. Todavía no puedo creer que no esté aquí. 	Jade	Badmood	4
-Intro02_Patrick_03	<Patrick> Su sueño es nuestro ahora. Sabes que he tratado de mantener la Academia en funcionamiento desde que murió Birdy. Pero el castillo se está deteriorando demasiado y vamos a tener que mudarnos. Es un trabajo demasiado grande para un solo hombre. No tengo el empuje de Birdy. 	Patrick	Neutral	15
-Intro02_Jade_04	<Jade> Patrick, si estás preguntando... no creo...	Jade	Badmood	3
-Intro02_Patrick_05	<Patrick> No tienes que responder ahora. El avión sale en tres horas.	Patrick	Neutral	3
-Intro02_Jade_06	<Jade> ¿Avión?	Jade	Neutral	1
-Intro02_Patrick_07	<Patrick> Tengo dos billetes para Italia. ¿Conoces la Toscana?	Patrick	Neutral	3
-Intro02_Jade_08	<Jade> Si quieres que te ayude, tendrás que dejar de ser tan misterioso.	Jade	Neutral	3
-Intro02_Patrick_09	<Patrick> La Academia Sycamore se está mudando. Necesito un socio con credenciales para llevarla al más alto nivel. Creo que tú eres ese socio. 	Patrick	Neutral	8
-Intro02_Jade_10	<Jade> ¡Quiero un asiento en la ventanilla!	Jade	Happy	1
-Intro03_Flora_01	Vale, sé que siempre llego tarde, pero no voy a arrastrarme. Algunas cosas llevan tiempo, eso es todo. Y por una vez no es mi culpa. Puedes hacer tu propia opinión pronto. Sé que no debería ir tan rápido, pero si te hubieran elegido para entrar en la prestigiosa Academia Sycamore, harías lo mismo. Es lo más bonito que me ha pasado, una historia increíble que me encantaría compartir contigo. Pero, como todas mis historias, tiene un comienzo bastante accidentado, así que agárrense el sombrero. 	Flora	Neutral	31
+Intro01_Commentateur_01	<Comentarista> Es extraordinario. Nuestra campeona ha subido al podio internacional sin sudar. Â¡Una gran victoria para la academia y una gran victoria para el director Bird y su equipo!	Commentateur	Happy	13
+Intro02_Patrick_01	<Patrick> PensÃ© que podrÃ­a encontrarte aquÃ­...	Patrick	Neutral	1
+Intro02_Jade_02	<Jade> A Ã©l le habrÃ­a encantado este cielo. TodavÃ­a no puedo creer que no estÃ© aquÃ­. 	Jade	Badmood	4
+Intro02_Patrick_03	<Patrick> Su sueÃ±o es nuestro ahora. Sabes que he tratado de mantener la Academia en funcionamiento desde que muriÃ³ Birdy. Pero el castillo se estÃ¡ deteriorando demasiado y vamos a tener que mudarnos. Es un trabajo demasiado grande para un solo hombre. No tengo el empuje de Birdy. 	Patrick	Neutral	15
+Intro02_Jade_04	<Jade> Patrick, si estÃ¡s preguntando... no creo...	Jade	Badmood	3
+Intro02_Patrick_05	<Patrick> No tienes que responder ahora. El aviÃ³n sale en tres horas.	Patrick	Neutral	3
+Intro02_Jade_06	<Jade> Â¿AviÃ³n?	Jade	Neutral	1
+Intro02_Patrick_07	<Patrick> Tengo dos billetes para Italia. Â¿Conoces la Toscana?	Patrick	Neutral	3
+Intro02_Jade_08	<Jade> Si quieres que te ayude, tendrÃ¡s que dejar de ser tan misterioso.	Jade	Neutral	3
+Intro02_Patrick_09	<Patrick> La Academia Sycamore se estÃ¡ mudando. Necesito un socio con credenciales para llevarla al mÃ¡s alto nivel. Creo que tÃº eres ese socio. 	Patrick	Neutral	8
+Intro02_Jade_10	<Jade> Â¡Quiero un asiento en la ventanilla!	Jade	Happy	1
+Intro03_Flora_01	Vale, sÃ© que siempre llego tarde, pero no voy a arrastrarme. Algunas cosas llevan tiempo, eso es todo. Y por una vez no es mi culpa. Puedes hacer tu propia opiniÃ³n pronto. SÃ© que no deberÃ­a ir tan rÃ¡pido, pero si te hubieran elegido para entrar en la prestigiosa Academia Sycamore, harÃ­as lo mismo. Es lo mÃ¡s bonito que me ha pasado, una historia increÃ­ble que me encantarÃ­a compartir contigo. Pero, como todas mis historias, tiene un comienzo bastante accidentado, asÃ­ que agÃ¡rrense el sombrero. 	Flora	Neutral	31
 Intro03_Flora_02	Vale... he conocido cosas peores. Pero esta vez, llego tarde y no me equivoco.	Flora	Neutral	3
 Intro03_Elsys_03	<Elsys> Oh oh, creo que alguien me necesita.	Elsys	Neutral	
-Intro03_Flora_04	¿Quién ha dicho eso? ¿Hay alguien ahí?	Flora	Neutral	3
-CS00Harry_Harry_01	<Harry> ¡Oye! ¡Vuelve, imbécil!	Harry	Neutral	2
-CS00Harry_Harry_02	<Harry> Ummm... En mi opinión, no se debería permitir a los estudiantes traer sus propios caballos. ¡Tan indómitos! 	Harry	Angry	6
-CS00Save_Flora_01	Gracias hermosa. Parece que sabes a dónde vas. Te seguiré.	Flora	Angry	4
-CS00End_Patrick_01	<Patrick> Bienvenidos a la nueva Academia Sycamore. Soy Patrick, el nuevo director de la escuela. Voy a ser asistido por mi hábil equipo de entrenadores. Permítanme presentarles primero a Harry Themples, que les enseñará todo lo que necesitan saber sobre el cuidado de los caballos. A ti, Harry...	Patrick	Neutral	17
-CS00End_Harry_02	<Harry> El buen cuidado del caballo es esencial y no se tolerará la dejadez. Va a haber mucho sudor y trabajo y tendréis que ensuciaros las manos. Pero puedo garantizar que vuestros caballos estarán limpios y felices, porque me aseguraré de que lo estén.	Harry	Angry	14
-CS00End_Samuel_03	<Samuel> ¿Soy yo, o tiene una gran fuerza?	Samuel	Neutral	2
-CS00End_Caroll_04	<Caroll> A mí me parece un poco mono, con su pequeña perilla blanca.	Caroll	Happy	
-CS00End_Harry_05	<Harry> ¡SILENCIO! Tengamos un poco de modales, por favor.	Harry	Angry	3
-CS00End_Samuel_06	<Samuel> ¿Dices que es mono?	Samuel	Happy	1
-CS00End_Patrick_07	<Patrick> Bien, gracias Harry. También está Jade, vuestra entrenadora de competición. 	Patrick	Neutral	5
-CS00End_Jade_08	<Jade> Estoy muy contenta de que estéis aquí con nosotros. Cada uno de vosotros tiene dones especiales que podemos desarrollar. Esperemos que este año sea el año en que vuestros sueños se hagan realidad. 	Jade	Happy	10
-CS00End_Miguel_09	<Miguel> Extraño. Hay como una tristeza distante en sus ojos. Como si tuviera una enorme carga que soportar. 	Miguel	Neutral	5
-CS00End_Aurelie_10	<Aurélie> Es cierto. Pero lo que quiero saber es donde exactamente compró esos pantalones tan chulos.	Aurélie	Happy	5
-CS00End_Patrick_11	<Patrick> También nos complace dar la bienvenida a la Academia a la campeona mundial Pippa Funnell. 	Patrick	Neutral	5
-CS00End_Alexandra_12	<Pippa> Buenos días. Es un placer estar aquí. Esta es una gran academia y estoy deseando empezar a trabajar con vosotros. 	Alexandra	Happy	8
-CS00End_Alexandra_13	<Pippa> Os enfrentaréis a la flor y nata de las academias del mundo. Tenéis que dar lo mejor de vosotros mismos para que la Academia Sycamore gane el Estribo de Oro, la copa interacadémica más famosa. 	Alexandra	Happy	13
+Intro03_Flora_04	Â¿QuiÃ©n ha dicho eso? Â¿Hay alguien ahÃ­?	Flora	Neutral	3
+CS00Harry_Harry_01	<Harry> Â¡Oye! Â¡Vuelve, imbÃ©cil!	Harry	Neutral	2
+CS00Harry_Harry_02	<Harry> Ummm... En mi opiniÃ³n, no se deberÃ­a permitir a los estudiantes traer sus propios caballos. Â¡Tan indÃ³mitos! 	Harry	Angry	6
+CS00Save_Flora_01	Gracias hermosa. Parece que sabes a dÃ³nde vas. Te seguirÃ©.	Flora	Angry	4
+CS00End_Patrick_01	<Patrick> Bienvenidos a la nueva Academia Sycamore. Soy Patrick, el nuevo director de la escuela. Voy a ser asistido por mi hÃ¡bil equipo de entrenadores. PermÃ­tanme presentarles primero a Harry Themples, que les enseÃ±arÃ¡ todo lo que necesitan saber sobre el cuidado de los caballos. A ti, Harry...	Patrick	Neutral	17
+CS00End_Harry_02	<Harry> El buen cuidado del caballo es esencial y no se tolerarÃ¡ la dejadez. Va a haber mucho sudor y trabajo y tendrÃ©is que ensuciaros las manos. Pero puedo garantizar que vuestros caballos estarÃ¡n limpios y felices, porque me asegurarÃ© de que lo estÃ©n.	Harry	Angry	14
+CS00End_Samuel_03	<Samuel> Â¿Soy yo, o tiene una gran fuerza?	Samuel	Neutral	2
+CS00End_Caroll_04	<Caroll> A mÃ­ me parece un poco mono, con su pequeÃ±a perilla blanca.	Caroll	Happy	
+CS00End_Harry_05	<Harry> Â¡SILENCIO! Tengamos un poco de modales, por favor.	Harry	Angry	3
+CS00End_Samuel_06	<Samuel> Â¿Dices que es mono?	Samuel	Happy	1
+CS00End_Patrick_07	<Patrick> Bien, gracias Harry. TambiÃ©n estÃ¡ Jade, vuestra entrenadora de competiciÃ³n. 	Patrick	Neutral	5
+CS00End_Jade_08	<Jade> Estoy muy contenta de que estÃ©is aquÃ­ con nosotros. Cada uno de vosotros tiene dones especiales que podemos desarrollar. Esperemos que este aÃ±o sea el aÃ±o en que vuestros sueÃ±os se hagan realidad. 	Jade	Happy	10
+CS00End_Miguel_09	<Miguel> ExtraÃ±o. Hay como una tristeza distante en sus ojos. Como si tuviera una enorme carga que soportar. 	Miguel	Neutral	5
+CS00End_Aurelie_10	<AurÃ©lie> Es cierto. Pero lo que quiero saber es donde exactamente comprÃ³ esos pantalones tan chulos.	AurÃ©lie	Happy	5
+CS00End_Patrick_11	<Patrick> TambiÃ©n nos complace dar la bienvenida a la Academia a la campeona mundial Pippa Funnell. 	Patrick	Neutral	5
+CS00End_Alexandra_12	<Pippa> Buenos dÃ­as. Es un placer estar aquÃ­. Esta es una gran academia y estoy deseando empezar a trabajar con vosotros. 	Alexandra	Happy	8
+CS00End_Alexandra_13	<Pippa> Os enfrentarÃ©is a la flor y nata de las academias del mundo. TenÃ©is que dar lo mejor de vosotros mismos para que la Academia Sycamore gane el Estribo de Oro, la copa interacadÃ©mica mÃ¡s famosa. 	Alexandra	Happy	13
 CS00End_Jade_14	<Jade> Un momento, falta alguien. 	Jade	Neutral	2
-CS00End_Flora_15	Hola, sé que llego tarde pero mi scooter se cayó a un barranco. Afortunadamente uno de vuestros caballos vino al rescate y me salvó la vida. Entonces lo monté directamente hasta aquí.	Flora	Neutral	8
-CS00End_Patrick_16	<Patrick> Tienes una gran imaginación, jovencita. Me recuerdas a alguien.	Patrick	Neutral	3
-CS00End_Jade_17	<Jade> Por favor, toma asiento junto a Miguel, vamos a empezar la lección.	Jade	Neutral	2
-CS01Intro_Samuel_01	<Samuel> Ganamos Caroll. Eso es lo que yo llamo un farol. ¡Los desplumamos!	Samuel	Happy	4
-CS01Intro_Caroll_02	<Caroll> ¡Genial! Qué gran juego. ¿Podemos volver a jugar?	Caroll	Neutral	4
-CS01Intro_Flora_03	¿Y qué? Si no estuvieras en mi equipo habría ganado, así que no me pongas esa cara de conejo muerto. Y tú, ¡deja esa música! Me está desanimando. 	Flora	Angry	7
-CS01Intro_Caroll_04	<Caroll> Está bromeando Miguel, no te pareces en nada a un conejo muerto. Un hámster tal vez...	Caroll	Neutral	5
-CS01Intro_Flora_05	Lo siento. Me dejé llevar. Odio perder. Creo que será mejor que vaya al pueblo a comprar un nuevo juego.	Flora	Happy	7
-CS01Intro_Samuel_06	<Samuel> ¿Tal vez deberíamos dejarla ganar la próxima vez? 	Samuel	Neutral	2
-CS01Intro_Aurelie_07	<Aurélie> Demasiado bien. ¿De verdad crees que toco tan mal? 	Aurélie	Badmood	3
-CS01Intro_Caroll_08	<Caroll> Dios, se hace tarde. ¡Es hora de ducharse!	Caroll	Neutral	3
+CS00End_Flora_15	Hola, sÃ© que llego tarde pero mi scooter se cayÃ³ a un barranco. Afortunadamente uno de vuestros caballos vino al rescate y me salvÃ³ la vida. Entonces lo montÃ© directamente hasta aquÃ­.	Flora	Neutral	8
+CS00End_Patrick_16	<Patrick> Tienes una gran imaginaciÃ³n, jovencita. Me recuerdas a alguien.	Patrick	Neutral	3
+CS00End_Jade_17	<Jade> Por favor, toma asiento junto a Miguel, vamos a empezar la lecciÃ³n.	Jade	Neutral	2
+CS01Intro_Samuel_01	<Samuel> Ganamos Caroll. Eso es lo que yo llamo un farol. Â¡Los desplumamos!	Samuel	Happy	4
+CS01Intro_Caroll_02	<Caroll> Â¡Genial! QuÃ© gran juego. Â¿Podemos volver a jugar?	Caroll	Neutral	4
+CS01Intro_Flora_03	Â¿Y quÃ©? Si no estuvieras en mi equipo habrÃ­a ganado, asÃ­ que no me pongas esa cara de conejo muerto. Y tÃº, Â¡deja esa mÃºsica! Me estÃ¡ desanimando. 	Flora	Angry	7
+CS01Intro_Caroll_04	<Caroll> EstÃ¡ bromeando Miguel, no te pareces en nada a un conejo muerto. Un hÃ¡mster tal vez...	Caroll	Neutral	5
+CS01Intro_Flora_05	Lo siento. Me dejÃ© llevar. Odio perder. Creo que serÃ¡ mejor que vaya al pueblo a comprar un nuevo juego.	Flora	Happy	7
+CS01Intro_Samuel_06	<Samuel> Â¿Tal vez deberÃ­amos dejarla ganar la prÃ³xima vez? 	Samuel	Neutral	2
+CS01Intro_Aurelie_07	<AurÃ©lie> Demasiado bien. Â¿De verdad crees que toco tan mal? 	AurÃ©lie	Badmood	3
+CS01Intro_Caroll_08	<Caroll> Dios, se hace tarde. Â¡Es hora de ducharse!	Caroll	Neutral	3
 CS01Intro_Samuel_09	<Samuel> Eso me recuerda. Me acaban de enviar un nuevo CD...	Samuel	Neutral	2
-CS01Intro_Aurelie_10	<Aurélie> ¿Quieres escuchar la nueva pieza que he escrito?	Aurélie	Happy	1
+CS01Intro_Aurelie_10	<AurÃ©lie> Â¿Quieres escuchar la nueva pieza que he escrito?	AurÃ©lie	Happy	1
 CS01Intro_Miguel_11	<Miguel> Si quieres...	Miguel	Badmood	1
-CS01Chap_Flora_01	¡AYUDA! ¡ALGUIEN! ¡¡¡AYUDA!!! ¡QUE ALGUIEN ME AYUDE! Por supuesto, nunca hay nadie cerca cuando los necesitas...	Flora	Neutral	6
-CS01End_Flora_01	Arriesgué mi vida por tu trapo. ¡Podrías haberme advertido sobre la pasarela!	Flora	Angry	3
-CS01End_Dubouquin_02	<Oldmaster> Voy a cerrar, jovencita. Vuelva mañana.	Dubouquin	Neutral	2
-CS01End_Flora_03	¿Qué? ¡No puede ser! ¡Me lo debes! 	Flora	Angry	2
-CS01End_Dubouquin_04	<Oldmaster> Me gustas. Terrible educación, bolsas de carácter.	Dubouquin	Neutral	4
-CS01End_Dubouquin_05	<Oldmaster> Aquí tienes tu juego de cartas. Y por cierto, quédate con el catálogo. Acabo de darme cuenta de que ya tengo uno. 	Dubouquin	Happy	8
-CS01End_Flora_06	¿Qué se supone que debo hacer con eso?	Flora	Neutral	1
-CS01End_Dubouquin_07	<Oldmaster> Estoy seguro de que encontrarás algo. Que tengas un buen día.	Dubouquin	Happy	4
+CS01Chap_Flora_01	Â¡AYUDA! Â¡ALGUIEN! Â¡Â¡Â¡AYUDA!!! Â¡QUE ALGUIEN ME AYUDE! Por supuesto, nunca hay nadie cerca cuando los necesitas...	Flora	Neutral	6
+CS01End_Flora_01	ArriesguÃ© mi vida por tu trapo. Â¡PodrÃ­as haberme advertido sobre la pasarela!	Flora	Angry	3
+CS01End_Dubouquin_02	<Oldmaster> Voy a cerrar, jovencita. Vuelva maÃ±ana.	Dubouquin	Neutral	2
+CS01End_Flora_03	Â¿QuÃ©? Â¡No puede ser! Â¡Me lo debes! 	Flora	Angry	2
+CS01End_Dubouquin_04	<Oldmaster> Me gustas. Terrible educaciÃ³n, bolsas de carÃ¡cter.	Dubouquin	Neutral	4
+CS01End_Dubouquin_05	<Oldmaster> AquÃ­ tienes tu juego de cartas. Y por cierto, quÃ©date con el catÃ¡logo. Acabo de darme cuenta de que ya tengo uno. 	Dubouquin	Happy	8
+CS01End_Flora_06	Â¿QuÃ© se supone que debo hacer con eso?	Flora	Neutral	1
+CS01End_Dubouquin_07	<Oldmaster> Estoy seguro de que encontrarÃ¡s algo. Que tengas un buen dÃ­a.	Dubouquin	Happy	4
 CS01End_Flora_08	Nunca he conocido a un tipo tan raro...	Flora	Neutral	1
-CS02Intro_Jade_01	<Jade> Hola. ¿Tienes idea de dónde están tus amigos?	Jade	Neutral	2
+CS02Intro_Jade_01	<Jade> Hola. Â¿Tienes idea de dÃ³nde estÃ¡n tus amigos?	Jade	Neutral	2
 CS02Intro_Flora_02	No, lo siento...	Flora	Neutral	1
-CS02Intro_Jade_03	<Jade> ¿Puedes encontrarlos, por favor? Tengo algo importante que deciros. 	Jade	Neutral	3
-CS02Intro_Flora_04	Lo sabía. Con toda esa charla dulce, tenías que estar detrás de algo. Mira, no tengo ni idea de dónde están. Podrían estar en cualquier parte. ¿Por qué no puedes ir tú misma?	Flora	Angry	9
-CS02Intro_Jade_05	<Jade> He estado despierta desde el amanecer trabajando como una loca para vosotros. Si no fuerais tan flojos el día antes de un gran evento, no me molestaría. Deberíais estar trabajando duro y tengo algo que anunciaros que os hará subir los calcetines, si es que os queda un ápice de ambición para ganar realmente esta competición. 	Jade	Angry	16
+CS02Intro_Jade_03	<Jade> Â¿Puedes encontrarlos, por favor? Tengo algo importante que deciros. 	Jade	Neutral	3
+CS02Intro_Flora_04	Lo sabÃ­a. Con toda esa charla dulce, tenÃ­as que estar detrÃ¡s de algo. Mira, no tengo ni idea de dÃ³nde estÃ¡n. PodrÃ­an estar en cualquier parte. Â¿Por quÃ© no puedes ir tÃº misma?	Flora	Angry	9
+CS02Intro_Jade_05	<Jade> He estado despierta desde el amanecer trabajando como una loca para vosotros. Si no fuerais tan flojos el dÃ­a antes de un gran evento, no me molestarÃ­a. DeberÃ­ais estar trabajando duro y tengo algo que anunciaros que os harÃ¡ subir los calcetines, si es que os queda un Ã¡pice de ambiciÃ³n para ganar realmente esta competiciÃ³n. 	Jade	Angry	16
 CS02Intro_Flora_06	Ok, deja de mover el dedo. Me voy...	Flora	Angry	1
-CS02Radio_Standardiste_01	<Operador> Y ahora un saludo a Samuel de un oyente misterioso. Uno de los temas más hippie de la escena groove "Give up the funk" de RX Express, y esta dedicatoria totalmente groove: "¡Samuel, abre la puerta del centro de estudiantes, por favor!"	Standardiste	Happy	13
+CS02Radio_Standardiste_01	<Operador> Y ahora un saludo a Samuel de un oyente misterioso. Uno de los temas mÃ¡s hippie de la escena groove "Give up the funk" de RX Express, y esta dedicatoria totalmente groove: "Â¡Samuel, abre la puerta del centro de estudiantes, por favor!"	Standardiste	Happy	13
 CS02Chat_Flora_01	Hola Miguel.	Flora	Neutral	1
-CS02Chat_Miguel_02	<Miguel> ¿Te conozco?	Miguel	Neutral	2
-CS02Chat_Flora_03	¿A quién más conoces con mi nombre?	Flora	Neutral	1
-CS02Chat_Miguel_04	<Miguel> ¡Oh, hola! Es genial encontrarte en este foro. :)	Miguel	Neutral	5
+CS02Chat_Miguel_02	<Miguel> Â¿Te conozco?	Miguel	Neutral	2
+CS02Chat_Flora_03	Â¿A quiÃ©n mÃ¡s conoces con mi nombre?	Flora	Neutral	1
+CS02Chat_Miguel_04	<Miguel> Â¡Oh, hola! Es genial encontrarte en este foro. :)	Miguel	Neutral	5
 CS02Chat_Flora_05	Ah... :/	Flora	Neutral	1
-CS02Chat_Miguel_06	<Miguel> ¿Cuál es tu poeta favorito?	Miguel	Neutral	1
-CS02Chat_Flora_07	¿Cuentan los cantantes de rock? :)))	Flora	Neutral	1
+CS02Chat_Miguel_06	<Miguel> Â¿CuÃ¡l es tu poeta favorito?	Miguel	Neutral	1
+CS02Chat_Flora_07	Â¿Cuentan los cantantes de rock? :)))	Flora	Neutral	1
 CS02Chat_Miguel_08	<Miguel> ... :(	Miguel	Neutral	
 CS02Chat_Flora_09	Vale, tengo algo que decirte.	Flora	Neutral	1
 CS02Chat_Miguel_10	<Miguel> Hablar de los sentimientos es un signo de gran valor. Lo respeto.	Miguel	Neutral	4
-CS02Chat_Flora_11	Te estás riendo de mí, ¿verdad? 	Flora	Neutral	1
-CS02Chat_Miguel_12	<Miguel> Nunca me reiría de ti. Yo también tengo algo importante que decirte. 	Miguel	Neutral	5
+CS02Chat_Flora_11	Te estÃ¡s riendo de mÃ­, Â¿verdad? 	Flora	Neutral	1
+CS02Chat_Miguel_12	<Miguel> Nunca me reirÃ­a de ti. Yo tambiÃ©n tengo algo importante que decirte. 	Miguel	Neutral	5
 CS02Chat_Flora_13	Jade quiere hablar con nosotros. En el aula. 	Flora	Neutral	2
-CS02Chat_Miguel_14	<Miguel> Oh... ¿Eso es todo?	Miguel	Neutral	2
-CS02Chat_Flora_15	Eh... ¡sí! Y... ¡date prisa! ¡He terminado de perseguirlos a todos!	Flora	Neutral	4
-CS02Chat_Miguel_16	<Miguel> …	Miguel	Neutral	
-CS02Chat_Miguel_17	<Miguel> Ya estoy en el aula. Todos lo estamos. Jade está enfadada porque aún no has llegado. 	Miguel	Neutral	5
+CS02Chat_Miguel_14	<Miguel> Oh... Â¿Eso es todo?	Miguel	Neutral	2
+CS02Chat_Flora_15	Eh... Â¡sÃ­! Y... Â¡date prisa! Â¡He terminado de perseguirlos a todos!	Flora	Neutral	4
+CS02Chat_Miguel_16	<Miguel> Â…	Miguel	Neutral	
+CS02Chat_Miguel_17	<Miguel> Ya estoy en el aula. Todos lo estamos. Jade estÃ¡ enfadada porque aÃºn no has llegado. 	Miguel	Neutral	5
 CS02End_Jade_01	<Jade> Vale, todos nos hemos divertido, hemos tenido un buen descanso. Pero el hecho de estar en una Academia no los convierte en buenos jinetes. 	Jade	Neutral	7
-CS02End_Jade_02	<Jade> Tengo que advertiros: La Academia Australiana debía enviar a su equipo B. En lugar de eso, ¡envían a su equipo A! 	Jade	Neutral	8
-CS02End_Jade_03	<Jade> Equipo A son de nivel nacional. Si perdemos, el futuro de la Academia está en peligro.	Jade	Neutral	5
-CS02End_Jade_04	<Jade> Evidentemente, sois conscientes de que nuestra situación financiera depende de los resultados. 	Jade	Neutral	3
-CS02End_Jade_05	<Jade> Además, necesitamos buena prensa para mantener viva la escuela. Así que os agradecería que tratarais este evento con la máxima seriedad. 	Jade	Neutral	7
+CS02End_Jade_02	<Jade> Tengo que advertiros: La Academia Australiana debÃ­a enviar a su equipo B. En lugar de eso, Â¡envÃ­an a su equipo A! 	Jade	Neutral	8
+CS02End_Jade_03	<Jade> Equipo A son de nivel nacional. Si perdemos, el futuro de la Academia estÃ¡ en peligro.	Jade	Neutral	5
+CS02End_Jade_04	<Jade> Evidentemente, sois conscientes de que nuestra situaciÃ³n financiera depende de los resultados. 	Jade	Neutral	3
+CS02End_Jade_05	<Jade> AdemÃ¡s, necesitamos buena prensa para mantener viva la escuela. AsÃ­ que os agradecerÃ­a que tratarais este evento con la mÃ¡xima seriedad. 	Jade	Neutral	7
 CS02End_Jade_06	<Jade> I want you to double the work-rate and prepare yourself as for a major competition. 	Jade	Neutral	5
-CS02End_Jade_07	<Jade> ¡¡¡Muy bien!!! ¿A qué estáis esperando?	Jade	Neutral	2
-CS03Intro_Jade_01	<Jade> Me complace anunciar que hoy es el día especial de alguien. Tenemos un enorme privilegio que ofrecer a uno de vosotros, un privilegio que también podréis compartir. Pero sólo podemos seleccionar a una persona. Así que, con el acuerdo de Pippa y nuestro equipo de entrenadores, hemos decidido plantearos un reto, una especie de juego. 	Jade	Happy	23
-CS03Intro_Flora_02	Creía que jugar estaba descartado. Pensé que debíamos entrenar. 	Flora	Neutral	3
-CS03Intro_Jade_03	<Jade> Os merecéis una recompensa por vuestra última victoria. 	Jade	Happy	2
-CS03Intro_Aurelie_04	<Aurélie> ¿Y si no nos gustan los juegos? ¿Tenemos que jugar?	Aurélie	Badmood	2
-CS03Intro_Patrick_05	<Patrick> Confía en nosotros. Merecerá la pena.	Patrick	Happy	
-CS03Intro_Samuel_06	<Samuel> Me quedo con el equipo de Caroll. Cualquiera menos Miguel; él siempre pierde. 	Samuel	Neutral	4
+CS02End_Jade_07	<Jade> Â¡Â¡Â¡Muy bien!!! Â¿A quÃ© estÃ¡is esperando?	Jade	Neutral	2
+CS03Intro_Jade_01	<Jade> Me complace anunciar que hoy es el dÃ­a especial de alguien. Tenemos un enorme privilegio que ofrecer a uno de vosotros, un privilegio que tambiÃ©n podrÃ©is compartir. Pero sÃ³lo podemos seleccionar a una persona. AsÃ­ que, con el acuerdo de Pippa y nuestro equipo de entrenadores, hemos decidido plantearos un reto, una especie de juego. 	Jade	Happy	23
+CS03Intro_Flora_02	CreÃ­a que jugar estaba descartado. PensÃ© que debÃ­amos entrenar. 	Flora	Neutral	3
+CS03Intro_Jade_03	<Jade> Os merecÃ©is una recompensa por vuestra Ãºltima victoria. 	Jade	Happy	2
+CS03Intro_Aurelie_04	<AurÃ©lie> Â¿Y si no nos gustan los juegos? Â¿Tenemos que jugar?	AurÃ©lie	Badmood	2
+CS03Intro_Patrick_05	<Patrick> ConfÃ­a en nosotros. MerecerÃ¡ la pena.	Patrick	Happy	
+CS03Intro_Samuel_06	<Samuel> Me quedo con el equipo de Caroll. Cualquiera menos Miguel; Ã©l siempre pierde. 	Samuel	Neutral	4
 CS03Intro_Miguel_07	<Miguel> Lo siento. Nunca he sido un gran jugador.	Miguel	Badmood	3
-CS03Intro_Caroll_08	<Caroll> Anímate Miguel. Tienes muchas cosas a tu favor. Ese libro de poesía que me prestaste es brillante. Tienes muy buen gusto. 	Caroll	Neutral	8
-CS03Intro_Miguel_09	<Miguel> ¿De verdad? ¿Te gustan los poemas?	Miguel	Happy	2
-CS03Intro_Caroll_10	<Caroll> Eh... todavía no he empezado a leerlos, ¡pero la portada es genial!	Caroll	Happy	5
+CS03Intro_Caroll_08	<Caroll> AnÃ­mate Miguel. Tienes muchas cosas a tu favor. Ese libro de poesÃ­a que me prestaste es brillante. Tienes muy buen gusto. 	Caroll	Neutral	8
+CS03Intro_Miguel_09	<Miguel> Â¿De verdad? Â¿Te gustan los poemas?	Miguel	Happy	2
+CS03Intro_Caroll_10	<Caroll> Eh... todavÃ­a no he empezado a leerlos, Â¡pero la portada es genial!	Caroll	Happy	5
 CS03Intro_Harry_11	<Harry> No hay necesidad de pelearse por los equipos. Cada uno de los jinetes debe ir por su cuenta. 	Harry	Neutral	
-CS03Intro_Jade_12	<Jade> ¡Exacto! Sin más preámbulos, vamos a divertirnos.	Jade	Happy	2
-CS03EndA_Flora_01	¡Guau, es magnífico!	Flora	Happy	
-CS03EndB_Jade_01	<Jade> Has ganado el reto, así que el premio es tuyo. Este caballo es ahora tuyo. Cuídalo bien. Todavía es muy delicado.  	Jade	Happy	8
+CS03Intro_Jade_12	<Jade> Â¡Exacto! Sin mÃ¡s preÃ¡mbulos, vamos a divertirnos.	Jade	Happy	2
+CS03EndA_Flora_01	Â¡Guau, es magnÃ­fico!	Flora	Happy	
+CS03EndB_Jade_01	<Jade> Has ganado el reto, asÃ­ que el premio es tuyo. Este caballo es ahora tuyo. CuÃ­dalo bien. TodavÃ­a es muy delicado.  	Jade	Happy	8
 CS03EndB_Flora_02	Vaya, gracias...	Flora	Happy	1
-CS03EndB_Caroll_03	<Caroll> ¡Me alegro mucho por ti! Dime, ¿puedo elegir un nombre para él? 	Caroll	Happy	4
-CS03EndB_Ensemble_04	<Samuel, Miguel y Aurélie> ¡¡¡No!!!	Ensemble	Happy	1
+CS03EndB_Caroll_03	<Caroll> Â¡Me alegro mucho por ti! Dime, Â¿puedo elegir un nombre para Ã©l? 	Caroll	Happy	4
+CS03EndB_Ensemble_04	<Samuel, Miguel y AurÃ©lie> Â¡Â¡Â¡No!!!	Ensemble	Happy	1
 CS03EndB_Ensemble_05	<Todos menos Caroll> (risas)	Ensemble	Happy	5
-CS04Intro_Flora_01	Ey, escuchad esto, ¡no os lo vais a creer! 	Flora	Happy	2
-CS04Intro_Aurelie_02	<Aurélie> Ya te escuchamos mucho. Nos estás desanimando. 	Aurélie	Badmood	2
-CS04Intro_Flora_03	No, en serio. Me acaban de enviar un correo extraño. ¡Alguien quiere reunirse conmigo en la capilla!	Flora	Happy	4
-CS04Intro_Aurelie_04	<Aurélie> ¡No puede ser!	Aurélie	Happy	1
-CS04Intro_Caroll_05	<Caroll> ¿Para qué?	Caroll	Neutral	1
-CS04Intro_Aurelie_06	<Aurélie> "Toma el camino hacia la capilla y encuentra mi fuego dentro"	Aurélie	Happy	4
-CS04Intro_Caroll_07	<Caroll> ¿Quieres decir que la capilla está en llamas?	Caroll	Neutral	2
-CS04Intro_Aurelie_08	<Aurélie> Sip, y conozco a alguien que lo va a sacar. 	Aurélie	Happy	3
-CS04Intro_Flora_09	¿Sabes qué? Creo que voy a ir. Probablemente sea uno de esos franceses sensuales de la Academia Pinewood que apareció esta mañana. 	Flora	Happy	5
-CS04Intro_Caroll_10	<Caroll> ¿Un francés incendió la capilla? ¿Para qué?	Caroll	Badmood	3
-CS04Intro_Flora_11	Bien, chicas, ¡voy a ver de qué se trata! 	Flora	Happy	1
-CS04Intro_Aurelie_12	<Aurélie> ¡Háznoslo saber! 	Aurélie	Happy	1
-CS04Intro_Caroll_13	<Caroll> ¡Estás loca! ¡No te vayas!	Caroll	Badmood	2
-CS04Intro_Caroll_14	<Caroll> ¿Qué debemos hacer, Aurélie? ¡Debemos pedir ayuda!	Caroll	Badmood	3
-CS04Intro_Aurelie_15	<Aurélie> Creo que se las arreglará bien.	Aurélie	Happy	2
-CS04End_Flora_01	Es precioso. ¿Quién podría haberme dado un regalo así? Es una locura.	Flora	Neutral	4
-CS04End_Flora_02	¿Te apetece dar la cara? ¿Hay alguien ahí?	Flora	Happy	3
-Week02End_Jade_01	<Jade> Amigos, he recibido una carta de la Academia Beechwood de Alsacia. Nuestras actuaciones les han impresionado. Les gustaría competir con nosotros en el próximo evento.  	Jade	Neutral	9
-Week02End_Patrick_02	<Patrick> Es demasiado pronto para enfrentarse a un equipo como el suyo. Sus medios son colosales; además, tienen una gran campeona. La gente dice que es letal. 	Patrick	Neutral	6
-Week02End_Harry_03	<Harry> He oído que han gastado millones comprando caballos campeones de raza. He oído rumores de que la investigación genética estaba involucrada. Francamente, Jade, no creo que sea una gran idea. 	Harry	Neutral	11
-Week02End_Jade_04	<Jade> Han dicho que pondrán su equipo B.	Jade	Neutral	2
-Week02End_Patrick_05	<Patrick> En ese caso, es factible. Pero sigue sin ser fácil. 	Patrick	Neutral	4
-Week02End_Jade_06	 <Jade> ¡Es un insulto, Patrick! Sólo porque no tenemos el peso financiero, no creen que seamos dignos de su equipo A. Así que he aceptado su invitación y he puesto mis condiciones: si ganamos a los Bs, nos enfrentamos a los As, un mes después.	Jade	Neutral	15
-Week02End_Patrick_07	<Patrick> Deberías haberme consultado, Jade. Estás poniendo a toda la Academia en peligro. Si perdemos, nuestros patrocinadores se retirarán y nos veremos obligados a cerrar. ¡Birdy se revolverá en su tumba!	Patrick	Angry	10
-Week02End_Jade_08	<Jade> Birdy habría querido que les mostráramos que el dinero no lo es todo, que la determinación es igual de importante. "¡Nunca digas 'perder'! Nunca". Eso es lo que Birdy habría dicho.	Jade	Badmood	9
+CS04Intro_Flora_01	Ey, escuchad esto, Â¡no os lo vais a creer! 	Flora	Happy	2
+CS04Intro_Aurelie_02	<AurÃ©lie> Ya te escuchamos mucho. Nos estÃ¡s desanimando. 	AurÃ©lie	Badmood	2
+CS04Intro_Flora_03	No, en serio. Me acaban de enviar un correo extraÃ±o. Â¡Alguien quiere reunirse conmigo en la capilla!	Flora	Happy	4
+CS04Intro_Aurelie_04	<AurÃ©lie> Â¡No puede ser!	AurÃ©lie	Happy	1
+CS04Intro_Caroll_05	<Caroll> Â¿Para quÃ©?	Caroll	Neutral	1
+CS04Intro_Aurelie_06	<AurÃ©lie> "Toma el camino hacia la capilla y encuentra mi fuego dentro"	AurÃ©lie	Happy	4
+CS04Intro_Caroll_07	<Caroll> Â¿Quieres decir que la capilla estÃ¡ en llamas?	Caroll	Neutral	2
+CS04Intro_Aurelie_08	<AurÃ©lie> Sip, y conozco a alguien que lo va a sacar. 	AurÃ©lie	Happy	3
+CS04Intro_Flora_09	Â¿Sabes quÃ©? Creo que voy a ir. Probablemente sea uno de esos franceses sensuales de la Academia Pinewood que apareciÃ³ esta maÃ±ana. 	Flora	Happy	5
+CS04Intro_Caroll_10	<Caroll> Â¿Un francÃ©s incendiÃ³ la capilla? Â¿Para quÃ©?	Caroll	Badmood	3
+CS04Intro_Flora_11	Bien, chicas, Â¡voy a ver de quÃ© se trata! 	Flora	Happy	1
+CS04Intro_Aurelie_12	<AurÃ©lie> Â¡HÃ¡znoslo saber! 	AurÃ©lie	Happy	1
+CS04Intro_Caroll_13	<Caroll> Â¡EstÃ¡s loca! Â¡No te vayas!	Caroll	Badmood	2
+CS04Intro_Caroll_14	<Caroll> Â¿QuÃ© debemos hacer, AurÃ©lie? Â¡Debemos pedir ayuda!	Caroll	Badmood	3
+CS04Intro_Aurelie_15	<AurÃ©lie> Creo que se las arreglarÃ¡ bien.	AurÃ©lie	Happy	2
+CS04End_Flora_01	Es precioso. Â¿QuiÃ©n podrÃ­a haberme dado un regalo asÃ­? Es una locura.	Flora	Neutral	4
+CS04End_Flora_02	Â¿Te apetece dar la cara? Â¿Hay alguien ahÃ­?	Flora	Happy	3
+Week02End_Jade_01	<Jade> Amigos, he recibido una carta de la Academia Beechwood de Alsacia. Nuestras actuaciones les han impresionado. Les gustarÃ­a competir con nosotros en el prÃ³ximo evento.  	Jade	Neutral	9
+Week02End_Patrick_02	<Patrick> Es demasiado pronto para enfrentarse a un equipo como el suyo. Sus medios son colosales; ademÃ¡s, tienen una gran campeona. La gente dice que es letal. 	Patrick	Neutral	6
+Week02End_Harry_03	<Harry> He oÃ­do que han gastado millones comprando caballos campeones de raza. He oÃ­do rumores de que la investigaciÃ³n genÃ©tica estaba involucrada. Francamente, Jade, no creo que sea una gran idea. 	Harry	Neutral	11
+Week02End_Jade_04	<Jade> Han dicho que pondrÃ¡n su equipo B.	Jade	Neutral	2
+Week02End_Patrick_05	<Patrick> En ese caso, es factible. Pero sigue sin ser fÃ¡cil. 	Patrick	Neutral	4
+Week02End_Jade_06	 <Jade> Â¡Es un insulto, Patrick! SÃ³lo porque no tenemos el peso financiero, no creen que seamos dignos de su equipo A. AsÃ­ que he aceptado su invitaciÃ³n y he puesto mis condiciones: si ganamos a los Bs, nos enfrentamos a los As, un mes despuÃ©s.	Jade	Neutral	15
+Week02End_Patrick_07	<Patrick> DeberÃ­as haberme consultado, Jade. EstÃ¡s poniendo a toda la Academia en peligro. Si perdemos, nuestros patrocinadores se retirarÃ¡n y nos veremos obligados a cerrar. Â¡Birdy se revolverÃ¡ en su tumba!	Patrick	Angry	10
+Week02End_Jade_08	<Jade> Birdy habrÃ­a querido que les mostrÃ¡ramos que el dinero no lo es todo, que la determinaciÃ³n es igual de importante. "Â¡Nunca digas 'perder'! Nunca". Eso es lo que Birdy habrÃ­a dicho.	Jade	Badmood	9
 Week02End_Harry_09	<Harry> De todos modos, Jade no tenemos la estructura necesaria para acoger a dos equipos en una temporada. 	Harry	Neutral	4
-Week02End_Jade_10	<Jade> No vendrán aquí. Iremos allí, a pasar el invierno.	Jade	Badmood	3
-Week02End_Patrick_11	<Patrick> No debería haber hablado así.	Patrick	Badmood	1
-Week02End_Harry_12	<Harry> Lo superará. Ha conocido cosas peores. Sin embargo, le habrá afectado.	Harry	Neutral	4
-CS05Intro_Jade_01	<Jade> Sigo pensando que está fuera de lugar que el director de la Academia no dé la cara. 	Jade	Angry	4
-CS05Intro_Harry_02	<Harry> Sólo enviaron a un portavoz imbécil. Un tipo educado, pero demasiado bocazas para mi gusto.	Harry	Neutral	5
-CS05Intro_Patrick_03	<Patrick> El director es un tipo ocupado. Tiene otros negocios además de la academia y dirige dos escuelas a la vez. No debe ser fácil. 	Patrick	Neutral	8
-CS05Intro_Jade_04	<Jade> No me importa. En mi opinión, demuestra cero respeto. Sólo porque no se molesta en saludar a los chicos de la "pequeña academia italiana". 	Jade	Angry	8
-CS05Intro_Patrick_05	<Patrick> Cálmate. Si derrotamos a sus reservas, vendrá a buscarnos, créeme.	Patrick	Neutral	5
-CS05Intro_Jade_06	<Jade> ¿Por qué esperar? Si no viene a mí, ¡haré las presentaciones yo misma!	Jade	Angry	4
-CS05Intro_Harry_07	<Harry> Si ayuda. He oído que su oficina está en algún lugar de la ciudad.	Harry	Neutral	3
-CS05Intro_Jade_08	<Jade> Gracias. No tardaré mucho.	Jade	Neutral	1
+Week02End_Jade_10	<Jade> No vendrÃ¡n aquÃ­. Iremos allÃ­, a pasar el invierno.	Jade	Badmood	3
+Week02End_Patrick_11	<Patrick> No deberÃ­a haber hablado asÃ­.	Patrick	Badmood	1
+Week02End_Harry_12	<Harry> Lo superarÃ¡. Ha conocido cosas peores. Sin embargo, le habrÃ¡ afectado.	Harry	Neutral	4
+CS05Intro_Jade_01	<Jade> Sigo pensando que estÃ¡ fuera de lugar que el director de la Academia no dÃ© la cara. 	Jade	Angry	4
+CS05Intro_Harry_02	<Harry> SÃ³lo enviaron a un portavoz imbÃ©cil. Un tipo educado, pero demasiado bocazas para mi gusto.	Harry	Neutral	5
+CS05Intro_Patrick_03	<Patrick> El director es un tipo ocupado. Tiene otros negocios ademÃ¡s de la academia y dirige dos escuelas a la vez. No debe ser fÃ¡cil. 	Patrick	Neutral	8
+CS05Intro_Jade_04	<Jade> No me importa. En mi opiniÃ³n, demuestra cero respeto. SÃ³lo porque no se molesta en saludar a los chicos de la "pequeÃ±a academia italiana". 	Jade	Angry	8
+CS05Intro_Patrick_05	<Patrick> CÃ¡lmate. Si derrotamos a sus reservas, vendrÃ¡ a buscarnos, crÃ©eme.	Patrick	Neutral	5
+CS05Intro_Jade_06	<Jade> Â¿Por quÃ© esperar? Si no viene a mÃ­, Â¡harÃ© las presentaciones yo misma!	Jade	Angry	4
+CS05Intro_Harry_07	<Harry> Si ayuda. He oÃ­do que su oficina estÃ¡ en algÃºn lugar de la ciudad.	Harry	Neutral	3
+CS05Intro_Jade_08	<Jade> Gracias. No tardarÃ© mucho.	Jade	Neutral	1
 CS05End_Flora_01	Te escucho.	Flora	Neutral	1
 CS05End_Esteban_02	<Esteban> Te aprecio mucho, sabes.	Esteban	Neutral	1
-CS05End_Flora_03	Yo también...	Flora	Neutral	1
+CS05End_Flora_03	Yo tambiÃ©n...	Flora	Neutral	1
 CS05End_Esteban_04	<Esteban> Hablo de sentimientos.	Esteban	Neutral	1
 CS05End_Flora_05	Esteban, yo...	Flora	Neutral	1
 CS05End_Esteban_06	<Esteban> No lo digas...	Esteban	Neutral	1
-CS05End_Esteban_07	<Esteban> No me gustaría que te fueras después de la competición.	Esteban	Neutral	2
-CS05End_Flora_08	Yo también. Pero no tengo la opción...	Flora	Badmood	2
-CS05End_Esteban_09	<Esteban> Quédate con mi academia, únete al equipo. Podemos llegar muy lejos. Puedo convertirte en una campeona. Podríamos estar juntos. 	Esteban	Neutral	6
-CS05End_Flora_10	¿Me tendrías en tu equipo? Estoy conmovida, pero...	Flora	Neutral	3
-CS05End_Esteban_11	<Esteban> Es sencillo. Sólo firma los papeles, y yo me encargaré del resto.	Esteban	Neutral	4
-CS05End_Jade_12	<Jade> ¿Te refieres a esta sarta de mentiras?	Jade	Angry	1
-CS05End_Esteban_13	<Esteban> Jade... El placer es todo mío...	Esteban	Happy	2
-CS05End_Jade_14	<Jade> ¡Vuelva a la Academia, jovencita! Y en cuanto a ti, ¡deja en paz a mis alumnos!	Jade	Angry	4
-CS05End_Flora_15	Mi carrera no es tuya para decidirla. Si creo que una escuela tiene mejor equipamiento, está dirigida por alguien con quien quiero estar, y quiero cambiar allí porque es bueno para mí, no hay nada que puedas hacer. Y eso es exactamente lo que pienso hacer. 	Flora	Angry	9
-CS05End_Esteban_16	<Esteban> No puedes ganar todo, Jade. ¿Quieres una manzana?	Esteban	Happy	3
-CS05End_Jade_17	<Jade> ¡Vete al infierno!	Jade	Angry	1
-CS05End_Esteban_18	<Esteban> Te he echado de menos Jade, mucho. Prepárate...	Esteban	Neutral	2
-CS06Intro_Patrick_01	<Patrick> Sin ella, el equipo es demasiado débil, como bien sabes. 	Patrick	Neutral	2
-CS06Intro_Jade_02	<Jade> Lo sé. Pero no puedo obligarla. Si ella quiere cometer el mayor error de su vida, entonces hay que dejarla. 	Jade	Angry	4
-CS06Intro_Patrick_03	<Patrick> ¿Cuándo quiere irse?	Patrick	Neutral	1
-CS06Intro_Jade_04	<Jade> Ella competirá mañana y luego se unirá a Esteban...	Jade	Badmood	4
-CS06Intro_Jade_05	<Jade> ¿Por qué le han dejado salir?	Jade	Angry	1
+CS05End_Esteban_07	<Esteban> No me gustarÃ­a que te fueras despuÃ©s de la competiciÃ³n.	Esteban	Neutral	2
+CS05End_Flora_08	Yo tambiÃ©n. Pero no tengo la opciÃ³n...	Flora	Badmood	2
+CS05End_Esteban_09	<Esteban> QuÃ©date con mi academia, Ãºnete al equipo. Podemos llegar muy lejos. Puedo convertirte en una campeona. PodrÃ­amos estar juntos. 	Esteban	Neutral	6
+CS05End_Flora_10	Â¿Me tendrÃ­as en tu equipo? Estoy conmovida, pero...	Flora	Neutral	3
+CS05End_Esteban_11	<Esteban> Es sencillo. SÃ³lo firma los papeles, y yo me encargarÃ© del resto.	Esteban	Neutral	4
+CS05End_Jade_12	<Jade> Â¿Te refieres a esta sarta de mentiras?	Jade	Angry	1
+CS05End_Esteban_13	<Esteban> Jade... El placer es todo mÃ­o...	Esteban	Happy	2
+CS05End_Jade_14	<Jade> Â¡Vuelva a la Academia, jovencita! Y en cuanto a ti, Â¡deja en paz a mis alumnos!	Jade	Angry	4
+CS05End_Flora_15	Mi carrera no es tuya para decidirla. Si creo que una escuela tiene mejor equipamiento, estÃ¡ dirigida por alguien con quien quiero estar, y quiero cambiar allÃ­ porque es bueno para mÃ­, no hay nada que puedas hacer. Y eso es exactamente lo que pienso hacer. 	Flora	Angry	9
+CS05End_Esteban_16	<Esteban> No puedes ganar todo, Jade. Â¿Quieres una manzana?	Esteban	Happy	3
+CS05End_Jade_17	<Jade> Â¡Vete al infierno!	Jade	Angry	1
+CS05End_Esteban_18	<Esteban> Te he echado de menos Jade, mucho. PrepÃ¡rate...	Esteban	Neutral	2
+CS06Intro_Patrick_01	<Patrick> Sin ella, el equipo es demasiado dÃ©bil, como bien sabes. 	Patrick	Neutral	2
+CS06Intro_Jade_02	<Jade> Lo sÃ©. Pero no puedo obligarla. Si ella quiere cometer el mayor error de su vida, entonces hay que dejarla. 	Jade	Angry	4
+CS06Intro_Patrick_03	<Patrick> Â¿CuÃ¡ndo quiere irse?	Patrick	Neutral	1
+CS06Intro_Jade_04	<Jade> Ella competirÃ¡ maÃ±ana y luego se unirÃ¡ a Esteban...	Jade	Badmood	4
+CS06Intro_Jade_05	<Jade> Â¿Por quÃ© le han dejado salir?	Jade	Angry	1
 CS06Intro_Patrick_06	<Patrick> Dopar a los caballos no merece la cadena perpetua.	Patrick	Neutral	3
-CS06Intro_Jade_07	<Jade> Pero me humilló. Me ha traicionado. ¡Se merece algo peor!	Jade	Angry	4
-CS06Intro_Patrick_08	<Patrick> Tu joven protegida está muy apegada a sus amigos. Seguro que un simple "lo siento" podría hacerla cambiar de opinión. 	Patrick	Neutral	6
-CS06Intro_Jade_09	<Jade> No sabes lo encantador que puede ser Esteban. Cuando estaba con él, los caballos salvajes no podían separarme. No sé qué hacer.	Jade	Badmood	7
-CS06Intro_Patrick_10	<Patrick> Tómate un tiempo, relájate. Eso es lo que vine a decirte. Hay un grupo de rock que toca esta noche en un pub de la ciudad. Dale una oportunidad. Estoy seguro de que te hará bien. 	Patrick	Neutral	9
-CS06Intro_Jade_11	<Jade> ¿Quieres venir también?	Jade	Neutral	1
-CS06Intro_Patrick_12	<Patrick> Creo que es mejor que vayas sola. Todavía tengo trabajo que hacer. Me uniré a ti más tarde, tal vez. 	Patrick	Neutral	7
+CS06Intro_Jade_07	<Jade> Pero me humillÃ³. Me ha traicionado. Â¡Se merece algo peor!	Jade	Angry	4
+CS06Intro_Patrick_08	<Patrick> Tu joven protegida estÃ¡ muy apegada a sus amigos. Seguro que un simple "lo siento" podrÃ­a hacerla cambiar de opiniÃ³n. 	Patrick	Neutral	6
+CS06Intro_Jade_09	<Jade> No sabes lo encantador que puede ser Esteban. Cuando estaba con Ã©l, los caballos salvajes no podÃ­an separarme. No sÃ© quÃ© hacer.	Jade	Badmood	7
+CS06Intro_Patrick_10	<Patrick> TÃ³mate un tiempo, relÃ¡jate. Eso es lo que vine a decirte. Hay un grupo de rock que toca esta noche en un pub de la ciudad. Dale una oportunidad. Estoy seguro de que te harÃ¡ bien. 	Patrick	Neutral	9
+CS06Intro_Jade_11	<Jade> Â¿Quieres venir tambiÃ©n?	Jade	Neutral	1
+CS06Intro_Patrick_12	<Patrick> Creo que es mejor que vayas sola. TodavÃ­a tengo trabajo que hacer. Me unirÃ© a ti mÃ¡s tarde, tal vez. 	Patrick	Neutral	7
 CS06Intro_Jade_13	<Jade> Hasta luego entonces.	Jade	Neutral	1
-CS06Intro_Patrick_14	<Patrick> Jade…	Patrick	Neutral	1
-CS06Intro_Jade_15	<Jade> ¿Sí?	Jade	Neutral	1
-CS06Intro_Patrick_16	<Patrick> Todavía amas a Esteban, ¿no?	Patrick	Badmood	1
-CS06Intro_Jade_17	<Jade> ¿Entiendes ahora por qué es tan peligroso?	Jade	Badmood	1
-CS06Bar_Commentateur_01	<Comentarista> Señoras y señores, directamente desde Londres, la nueva sensación del pop-rock, el milagro de la nueva ola, ¡un aplauso para The Bloodflowers!	Commentateur	Neutral	8
-CS06Bar_Spike_02	<Spike> ¡Buenas noches! 	Spike	Neutral	1
-CS06Bar_Jade_03	<Jade> ¡Spike!	Jade	Neutral	2
-CS06Bar_Spike_04	<Spike> ¡Vaya! ¡Princesa! ¿Qué estás haciendo aquí?	Spike	Neutral	1
-CS06Bar_Caroll_05	<Caroll> ¿Jade conoce a Spike?	Caroll	Neutral	1
-CS06Bar_Aurelie_06	<Aurélie> ¿Sabes lo que significa?	Aurélie	Neutral	1
+CS06Intro_Patrick_14	<Patrick> JadeÂ…	Patrick	Neutral	1
+CS06Intro_Jade_15	<Jade> Â¿SÃ­?	Jade	Neutral	1
+CS06Intro_Patrick_16	<Patrick> TodavÃ­a amas a Esteban, Â¿no?	Patrick	Badmood	1
+CS06Intro_Jade_17	<Jade> Â¿Entiendes ahora por quÃ© es tan peligroso?	Jade	Badmood	1
+CS06Bar_Commentateur_01	<Comentarista> SeÃ±oras y seÃ±ores, directamente desde Londres, la nueva sensaciÃ³n del pop-rock, el milagro de la nueva ola, Â¡un aplauso para The Bloodflowers!	Commentateur	Neutral	8
+CS06Bar_Spike_02	<Spike> Â¡Buenas noches! 	Spike	Neutral	1
+CS06Bar_Jade_03	<Jade> Â¡Spike!	Jade	Neutral	2
+CS06Bar_Spike_04	<Spike> Â¡Vaya! Â¡Princesa! Â¿QuÃ© estÃ¡s haciendo aquÃ­?	Spike	Neutral	1
+CS06Bar_Caroll_05	<Caroll> Â¿Jade conoce a Spike?	Caroll	Neutral	1
+CS06Bar_Aurelie_06	<AurÃ©lie> Â¿Sabes lo que significa?	AurÃ©lie	Neutral	1
 CS06Bar_Caroll_07	<Caroll> Sip	Caroll	Neutral	1
-CS06Bar_Ensemble_08	<Caroll y Aurélie> ¡¡¡¡¡AUTÓGRAFOS!!!!!	Ensemble	Neutral	1
-CS06End_Jade_01	<Jade> ...Y lo otro de Esteban es que está tratando de corromper a mi mejor alumna (suspiro). La pobre chica no sabe lo que le espera...	Jade	Badmood	9
-CS06End_Spike_02	<Spike> ¿Has intentado hablar con ella?	Spike	Neutral	1
-CS06End_Jade_03	<Jade> Es más terca que yo. Es imposible.	Jade	Badmood	2
-CS06End_Spike_04	<Spike> ¿Más terca que tú? Eso es imposible.	Spike	Happy	2
-CS06End_Jade_05	<Jade> Así que, mientras tanto, no sé qué hacer.	Jade	Badmood	1
-CS06End_Spike_06	<Spike> Hablaré con tu chica y le daré un vistazo del verdadero Esteban.	Spike	Neutral	2
-CS06End_Jade_07	<Jade> No sé qué podrías decir, ¡pero seguro que ayudaría! 	Jade	Happy	2
-CS06End_Spike_08	<Spike> Confía en mí. Tengo una idea.	Spike	Happy	1
-CS06End_Jade_09	<Jade> Seguro que sí. Pero, por favor, háblame de ti. Pensé que habías encontrado el verdadero amor con Wendy Summers en los Estados Unidos.	Jade	Neutral	6
-CS06End_Spike_10	<Spike> Pero la música siempre fue mi primer amor. Los caballos nunca fueron mi taza de Rosy Lea.	Spike	Neutral	3
-CS06End_Spike_11	<Spike> Wendy se dio cuenta de que yo vivía su pasión y no la mía, así que rompí con ella. Nunca la olvidaré. Sigue siendo la número uno en mi lista de éxitos. 	Spike	Badmood	9
-CS06End_Jade_12	<Jade> ¿Todavía estáis en contacto?	Jade	Badmood	
-CS06End_Spike_13	<Spike> La distancia hace que el corazón se distancie. Cuando me fui, Wendy estaba muy triste. Yo también. No tenía sentido llamar por teléfono para decir lo mucho que dolía. 	Spike	Badmood	
+CS06Bar_Ensemble_08	<Caroll y AurÃ©lie> Â¡Â¡Â¡Â¡Â¡AUTÃ“GRAFOS!!!!!	Ensemble	Neutral	1
+CS06End_Jade_01	<Jade> ...Y lo otro de Esteban es que estÃ¡ tratando de corromper a mi mejor alumna (suspiro). La pobre chica no sabe lo que le espera...	Jade	Badmood	9
+CS06End_Spike_02	<Spike> Â¿Has intentado hablar con ella?	Spike	Neutral	1
+CS06End_Jade_03	<Jade> Es mÃ¡s terca que yo. Es imposible.	Jade	Badmood	2
+CS06End_Spike_04	<Spike> Â¿MÃ¡s terca que tÃº? Eso es imposible.	Spike	Happy	2
+CS06End_Jade_05	<Jade> AsÃ­ que, mientras tanto, no sÃ© quÃ© hacer.	Jade	Badmood	1
+CS06End_Spike_06	<Spike> HablarÃ© con tu chica y le darÃ© un vistazo del verdadero Esteban.	Spike	Neutral	2
+CS06End_Jade_07	<Jade> No sÃ© quÃ© podrÃ­as decir, Â¡pero seguro que ayudarÃ­a! 	Jade	Happy	2
+CS06End_Spike_08	<Spike> ConfÃ­a en mÃ­. Tengo una idea.	Spike	Happy	1
+CS06End_Jade_09	<Jade> Seguro que sÃ­. Pero, por favor, hÃ¡blame de ti. PensÃ© que habÃ­as encontrado el verdadero amor con Wendy Summers en los Estados Unidos.	Jade	Neutral	6
+CS06End_Spike_10	<Spike> Pero la mÃºsica siempre fue mi primer amor. Los caballos nunca fueron mi taza de Rosy Lea.	Spike	Neutral	3
+CS06End_Spike_11	<Spike> Wendy se dio cuenta de que yo vivÃ­a su pasiÃ³n y no la mÃ­a, asÃ­ que rompÃ­ con ella. Nunca la olvidarÃ©. Sigue siendo la nÃºmero uno en mi lista de Ã©xitos. 	Spike	Badmood	9
+CS06End_Jade_12	<Jade> Â¿TodavÃ­a estÃ¡is en contacto?	Jade	Badmood	
+CS06End_Spike_13	<Spike> La distancia hace que el corazÃ³n se distancie. Cuando me fui, Wendy estaba muy triste. Yo tambiÃ©n. No tenÃ­a sentido llamar por telÃ©fono para decir lo mucho que dolÃ­a. 	Spike	Badmood	
 CS06End_Jade_14	<Jade> Lo entiendo.	Jade	Badmood	
-CS06End_Spike_15	<Spike> Desde entonces estoy en la carretera, cantando mi dolor a todo el que quiera escuchar. Lo más divertido es que la gente me paga.	Spike	Happy	
-CS06End_Jade_16	<Jade> La gente se identifica con el sufrimiento. Lo importante es no regodearse en él. (Pequeña risa nerviosa).	Jade	Badmood	
-CS06End_Spike_17	<Spike> ¿Qué pasa?	Spike	Neutral	
-CS06End_Jade_18	<Jade> Escúchame, dando consejos que no puedo seguir. Soy patético.	Jade	Badmood	
+CS06End_Spike_15	<Spike> Desde entonces estoy en la carretera, cantando mi dolor a todo el que quiera escuchar. Lo mÃ¡s divertido es que la gente me paga.	Spike	Happy	
+CS06End_Jade_16	<Jade> La gente se identifica con el sufrimiento. Lo importante es no regodearse en Ã©l. (PequeÃ±a risa nerviosa).	Jade	Badmood	
+CS06End_Spike_17	<Spike> Â¿QuÃ© pasa?	Spike	Neutral	
+CS06End_Jade_18	<Jade> EscÃºchame, dando consejos que no puedo seguir. Soy patÃ©tico.	Jade	Badmood	
 CS06End_Spike_19	<Spike> Eres una estrella, princesa. Lo solucionaremos, no te preocupes.	Spike	Neutral	
-CS06End_Jade_20	<Jade> ¿Spike?	Jade	Neutral	
-CS06End_Spike_21	<Spike> ¿Sí?	Spike	Neutral	
+CS06End_Jade_20	<Jade> Â¿Spike?	Jade	Neutral	
+CS06End_Spike_21	<Spike> Â¿SÃ­?	Spike	Neutral	
 CS06End_Jade_22	<Jade> Me alegro de volver a verte.	Jade	Happy	
-CS06End_Spike_23	<Spike> ¡Te he echado de menos, princesa!	Spike	Happy	
+CS06End_Spike_23	<Spike> Â¡Te he echado de menos, princesa!	Spike	Happy	
 CS07Intro_Caroll_01	<Caroll> If you go, we'll lose...	Caroll	Badmood	1
-CS07Intro_Flora_02	No estás ayudando, Caroll. Ya es bastante doloroso, así que por favor, deja la culpabilidad. 	Flora	Badmood	4
-CS07Intro_Caroll_03	<Caroll> No te estoy culpando. A todo el mundo le gusta decir que "me voy con las hadas", pero sé exactamente por lo que estás pasando. La vida es un juego de decisiones y hay que atenerse a ellas, incluso a las más impulsivas. Tus elecciones te hacen ser quien eres. Y la gente se da cuenta de eso un día.  	Caroll	Neutral	21
-CS07Intro_Flora_04	Gracias, Caroll, nunca lo olvidaré. Echaré de menos tu sabiduría, sabes.	Flora	Neutral	3
-CS07Intro_Spike_05	<Spike> ¡Toc, toc, toc!	Spike	Happy	1
-CS07Intro_Flora_06	¡La gente suele llamar fuera!	Flora	Neutral	1
-CS07Intro_Caroll_07	<Caroll> ¡Oh, Dios mío! ¡Es él!	Caroll	Neutral	3
-CS07Intro_Flora_08	¿Quién es él?	Flora	Neutral	1
-CS07Intro_Caroll_09	<Caroll> ¿No lo reconoces? ¡¡Es Spike el cantante de Bloodflowers!!	Caroll	Happy	5
-CS07Intro_Spike_10	<Spike> ¡El único! Estuviste en el concierto de la otra noche.	Spike	Happy	3
-CS07Intro_Caroll_11	<Caroll> ¿Te has dado cuenta? Pellízcame que estoy soñando.	Caroll	Neutral	4
+CS07Intro_Flora_02	No estÃ¡s ayudando, Caroll. Ya es bastante doloroso, asÃ­ que por favor, deja la culpabilidad. 	Flora	Badmood	4
+CS07Intro_Caroll_03	<Caroll> No te estoy culpando. A todo el mundo le gusta decir que "me voy con las hadas", pero sÃ© exactamente por lo que estÃ¡s pasando. La vida es un juego de decisiones y hay que atenerse a ellas, incluso a las mÃ¡s impulsivas. Tus elecciones te hacen ser quien eres. Y la gente se da cuenta de eso un dÃ­a.  	Caroll	Neutral	21
+CS07Intro_Flora_04	Gracias, Caroll, nunca lo olvidarÃ©. EcharÃ© de menos tu sabidurÃ­a, sabes.	Flora	Neutral	3
+CS07Intro_Spike_05	<Spike> Â¡Toc, toc, toc!	Spike	Happy	1
+CS07Intro_Flora_06	Â¡La gente suele llamar fuera!	Flora	Neutral	1
+CS07Intro_Caroll_07	<Caroll> Â¡Oh, Dios mÃ­o! Â¡Es Ã©l!	Caroll	Neutral	3
+CS07Intro_Flora_08	Â¿QuiÃ©n es Ã©l?	Flora	Neutral	1
+CS07Intro_Caroll_09	<Caroll> Â¿No lo reconoces? Â¡Â¡Es Spike el cantante de Bloodflowers!!	Caroll	Happy	5
+CS07Intro_Spike_10	<Spike> Â¡El Ãºnico! Estuviste en el concierto de la otra noche.	Spike	Happy	3
+CS07Intro_Caroll_11	<Caroll> Â¿Te has dado cuenta? PellÃ­zcame que estoy soÃ±ando.	Caroll	Neutral	4
 CS07Intro_Flora_12	Caroll, para...	Flora	Neutral	1
-CS07Intro_Caroll_13	<Caroll> Vamos, pellízcame. ¡Ay! No, ¡todavía está ahí!	Caroll	Neutral	5
-CS07Intro_Flora_14	¿Qué puedo hacer por el Sr. Spike de Blood-no sé que?	Flora	Neutral	2
-CS07Intro_Caroll_Spike_15	<Caroll y Spike> ¡Bloodflowers!	Ensemble	Angry	1
-CS07Intro_Spike_16	<Spike> Soy el compañero de Jade... Ella me contó sobre tu pelea. Hay cosas sobre Esteban que deberías saber.	Spike	Neutral	4
-CS07Intro_Flora_17	¡Eso es todo Jade por todas partes! ¡Escucha, no me interesa! ¡Ve y dile a Jade que si tiene algo que decir, que me lo diga ella misma!	Flora	Angry	7
-CS07Intro_Spike_18	<Spike> Vale, déjate el pelo puesto. Tenéis mucho en común, como dijo Jade.	Spike	Neutral	4
-CS07Intro_Flora_19	¡No me compares con Jade, nunca!	Flora	Angry	2
-CS07Intro_Spike_20	<Spike> ¡Parece que he tocado un punto sensible! En fin, cambiemos de tema. ¿Alguien quiere un autógrafo de la última sensación del pop-rock? 	Spike	Happy	6
+CS07Intro_Caroll_13	<Caroll> Vamos, pellÃ­zcame. Â¡Ay! No, Â¡todavÃ­a estÃ¡ ahÃ­!	Caroll	Neutral	5
+CS07Intro_Flora_14	Â¿QuÃ© puedo hacer por el Sr. Spike de Blood-no sÃ© que?	Flora	Neutral	2
+CS07Intro_Caroll_Spike_15	<Caroll y Spike> Â¡Bloodflowers!	Ensemble	Angry	1
+CS07Intro_Spike_16	<Spike> Soy el compaÃ±ero de Jade... Ella me contÃ³ sobre tu pelea. Hay cosas sobre Esteban que deberÃ­as saber.	Spike	Neutral	4
+CS07Intro_Flora_17	Â¡Eso es todo Jade por todas partes! Â¡Escucha, no me interesa! Â¡Ve y dile a Jade que si tiene algo que decir, que me lo diga ella misma!	Flora	Angry	7
+CS07Intro_Spike_18	<Spike> Vale, dÃ©jate el pelo puesto. TenÃ©is mucho en comÃºn, como dijo Jade.	Spike	Neutral	4
+CS07Intro_Flora_19	Â¡No me compares con Jade, nunca!	Flora	Angry	2
+CS07Intro_Spike_20	<Spike> Â¡Parece que he tocado un punto sensible! En fin, cambiemos de tema. Â¿Alguien quiere un autÃ³grafo de la Ãºltima sensaciÃ³n del pop-rock? 	Spike	Happy	6
 CS07Intro_Caroll_21	<Caroll> Creo que me voy a desmayar. 	Caroll	Happy	1
-CS07Intro_Spike_22	<Spike> Siento chantajearte pero si me haces un favor, le daré un autógrafo a tu amiga. 	Spike	Neutral	4
-CS07Intro_Caroll_23	<Caroll> Oh, por favor ....por favor....¡¡¡POR FAAVOOR!!!	Caroll	Badmood	5
-CS07Intro_Flora_24	Vale, pero sólo porque quiero saber qué otros trucos turbios ha hecho Jade. 	Flora	Neutral	4
-CS07Intro_Spike_25	<Spike> Toma. Sigue las instrucciones y ven a buscarme en una hora. ¡Cuidado! Ni un minuto más ni menos, o adiós Sr. Autógrafo.	Spike	Neutral	7
-CS07Intro_Flora_26	Tarde es mi segundo nombre. Eso va a ser difícil.	Flora	Neutral	2
-CS07Intro_Spike_27	<Spike> Es hora de dejar el hábito, princesa. Hasta luego.	Spike	Happy	2
-CS07Intro_Flora_28	¿Cómo me ha llamado?	Flora	Angry	1
-CS07Intro_Caroll_29	<Caroll> Princesa... Te llamó Princesa... Eres tan afortunada...	Caroll	Happy	4
-CS07End_Esteban_01	<Esteban> ¿Y qué? ¿De qué querías hablar? No has venido hasta aquí para hablar de música. 	Esteban	Neutral	5
+CS07Intro_Spike_22	<Spike> Siento chantajearte pero si me haces un favor, le darÃ© un autÃ³grafo a tu amiga. 	Spike	Neutral	4
+CS07Intro_Caroll_23	<Caroll> Oh, por favor ....por favor....Â¡Â¡Â¡POR FAAVOOR!!!	Caroll	Badmood	5
+CS07Intro_Flora_24	Vale, pero sÃ³lo porque quiero saber quÃ© otros trucos turbios ha hecho Jade. 	Flora	Neutral	4
+CS07Intro_Spike_25	<Spike> Toma. Sigue las instrucciones y ven a buscarme en una hora. Â¡Cuidado! Ni un minuto mÃ¡s ni menos, o adiÃ³s Sr. AutÃ³grafo.	Spike	Neutral	7
+CS07Intro_Flora_26	Tarde es mi segundo nombre. Eso va a ser difÃ­cil.	Flora	Neutral	2
+CS07Intro_Spike_27	<Spike> Es hora de dejar el hÃ¡bito, princesa. Hasta luego.	Spike	Happy	2
+CS07Intro_Flora_28	Â¿CÃ³mo me ha llamado?	Flora	Angry	1
+CS07Intro_Caroll_29	<Caroll> Princesa... Te llamÃ³ Princesa... Eres tan afortunada...	Caroll	Happy	4
+CS07End_Esteban_01	<Esteban> Â¿Y quÃ©? Â¿De quÃ© querÃ­as hablar? No has venido hasta aquÃ­ para hablar de mÃºsica. 	Esteban	Neutral	5
 CS07End_Spike_02	<Spike> Parece que te alegras de verme... 	Spike	Happy	1
-CS07End_Esteban_03	<Esteban> Nunca me has gustado mucho, así que, por favor, ahórrate la palabrería de dos caras. 	Esteban	Angry	3
-CS07End_Spike_04	<Spike> Jade se esfuerza por poner en marcha la Academia de Birdy y no está contenta de que hayas robado a su mejor alumna. 	Spike	Neutral	4
-CS07End_Esteban_05	<Esteban> ¿Robado? Ja, ja, ja... Esa es Jade la reina del drama por todos lados. Su esperanza perdida es lo suficientemente grande como para tomar sus propias decisiones. 	Esteban	Happy	8
-CS07End_Spike_06	<Spike> Eso es lo que le dije. También sugerí que tal vez eras dulce con ella, así que no se te podía culpar por tratar de mantenerla al alcance de la mano.	Spike	Happy	6
-CS07End_Esteban_07	<Esteban> ¿Eres tan tonto como pareces, Spike? Sabes perfectamente que no siento nada por el chica. De la misma manera que no sentí nada por Jade en su momento. Es tan fácil envolver a las mujeres alrededor de tu dedo pequeño cuando sabes cómo.	Esteban	Happy	11
+CS07End_Esteban_03	<Esteban> Nunca me has gustado mucho, asÃ­ que, por favor, ahÃ³rrate la palabrerÃ­a de dos caras. 	Esteban	Angry	3
+CS07End_Spike_04	<Spike> Jade se esfuerza por poner en marcha la Academia de Birdy y no estÃ¡ contenta de que hayas robado a su mejor alumna. 	Spike	Neutral	4
+CS07End_Esteban_05	<Esteban> Â¿Robado? Ja, ja, ja... Esa es Jade la reina del drama por todos lados. Su esperanza perdida es lo suficientemente grande como para tomar sus propias decisiones. 	Esteban	Happy	8
+CS07End_Spike_06	<Spike> Eso es lo que le dije. TambiÃ©n sugerÃ­ que tal vez eras dulce con ella, asÃ­ que no se te podÃ­a culpar por tratar de mantenerla al alcance de la mano.	Spike	Happy	6
+CS07End_Esteban_07	<Esteban> Â¿Eres tan tonto como pareces, Spike? Sabes perfectamente que no siento nada por el chica. De la misma manera que no sentÃ­ nada por Jade en su momento. Es tan fÃ¡cil envolver a las mujeres alrededor de tu dedo pequeÃ±o cuando sabes cÃ³mo.	Esteban	Happy	11
 CS07End_Spike_08	<Spike> No estoy de acuerdo pero debes tener tus razones para ser tan retorcido.	Spike	Angry	3
-CS07End_Esteban_09	<Esteban> ¿Mis razones? Por supuesto, las tengo. Pasé un año de mi vida en prisión, esperando el momento de vengarme. Ese momento es ahora. Jade ha perdido su estrella en ascenso, su academia está de rodillas y la mía está en el cielo. ¿Entiendes ahora? El juego ha terminado. 	Esteban	Angry	15
-CS07End_Flora_10	Alto y claro. ¡Y yo también he terminado de jugar!	Flora	Angry	3
-CS07End_Esteban_11	<Esteban> ¿Qué estás haciendo?	Esteban	Neutral	1
-CS07End_Flora_12	Mantener mis decisiones, incluso las más impulsivas. Una amiga me lo enseñó hace poco. Jade no perderá su estrella ascendente el domingo, ¡así que prepárate para que te bajen a la tierra con un fuerte golpe!	Flora	Angry	8
-CS07End_Esteban_13	<Esteban> Me has engañado.	Esteban	Angry	1
-CS07End_Spike_14	<Spike> ¿Lo crees? En ese caso, ¿no soy tan tonto como parezco?	Spike	Happy	3
-CS07End_Esteban_15	<Esteban> Pagarás por esto. En la competición.	Esteban	Angry	3
-CS07End_Spike_16	<Spike> Un gran gancho de derecha, ¿no crees?	Spike	Happy	1
-CS08Intro_Flora_01	Por eso tengo que pedir disculpas. Estaba cegada por mi propio orgullo. Defraudé terriblemente nuestra amistad. 	Flora	Badmood	6
+CS07End_Esteban_09	<Esteban> Â¿Mis razones? Por supuesto, las tengo. PasÃ© un aÃ±o de mi vida en prisiÃ³n, esperando el momento de vengarme. Ese momento es ahora. Jade ha perdido su estrella en ascenso, su academia estÃ¡ de rodillas y la mÃ­a estÃ¡ en el cielo. Â¿Entiendes ahora? El juego ha terminado. 	Esteban	Angry	15
+CS07End_Flora_10	Alto y claro. Â¡Y yo tambiÃ©n he terminado de jugar!	Flora	Angry	3
+CS07End_Esteban_11	<Esteban> Â¿QuÃ© estÃ¡s haciendo?	Esteban	Neutral	1
+CS07End_Flora_12	Mantener mis decisiones, incluso las mÃ¡s impulsivas. Una amiga me lo enseÃ±Ã³ hace poco. Jade no perderÃ¡ su estrella ascendente el domingo, Â¡asÃ­ que prepÃ¡rate para que te bajen a la tierra con un fuerte golpe!	Flora	Angry	8
+CS07End_Esteban_13	<Esteban> Me has engaÃ±ado.	Esteban	Angry	1
+CS07End_Spike_14	<Spike> Â¿Lo crees? En ese caso, Â¿no soy tan tonto como parezco?	Spike	Happy	3
+CS07End_Esteban_15	<Esteban> PagarÃ¡s por esto. En la competiciÃ³n.	Esteban	Angry	3
+CS07End_Spike_16	<Spike> Un gran gancho de derecha, Â¿no crees?	Spike	Happy	1
+CS08Intro_Flora_01	Por eso tengo que pedir disculpas. Estaba cegada por mi propio orgullo. DefraudÃ© terriblemente nuestra amistad. 	Flora	Badmood	6
 CS08Intro_Jade_02	<Jade> No se te puede culpar. Ahora ves en lo que casi te has dejado llevar...	Jade	Happy	3
-CS08Intro_Aurelie_03	<Aurélie> Nos has dado un susto a todos.	Aurélie	Happy	1
-CS08Intro_Patrick_04	<Patrick> Me alegro de que sigas con nosotros. Tu... energía es un impulso para esta academia.	Patrick	Happy	4
-CS08Intro_Spike_05	<Spike> Ni la mitad. La chica es un tornado. Deberías haber visto el golpe que le dio a Dungbrain. 	Spike	Happy	4
-CS08Intro_Harry_06	<Harry> Y tendrá una prueba del mío si vuelve a causar problemas...	Harry	Angry	3
-CS08Intro_Miguel_07	<Miguel> He escrito un poema para despedirme. No es nada especial... pero supongo que ya es inútil.	Miguel	Badmood	6
-CS08Intro_Flora_08	Dámelo de todos modos Miguel. Me emociona que hayas pensado en ello. 	Flora	Happy	3
-CS08Intro_Caroll_09	<Caroll> ¡Tardó horas en escribirlo!	Caroll	Happy	1
-CS08Intro_Miguel_10	<Miguel> Caroll…	Miguel	Badmood	1
-CS08Intro_Samuel_11	<Samuel> ¡Ahora podré descubrir tu secreto y ganarte a las cartas!	Samuel	Happy	12
-CS08Intro_Flora_12	Bien, ¿qué tal si hacemos una pequeña fiesta de Navidad?	Flora	Neutral	2
-CS08Intro_Ensemble_13	<Juntos> ¡¡¡¡Sí!!!!	Ensemble	Happy	
-CS08End_Flora_01	Sólo tengo que abrir este...	Flora	Happy	1
-CS08End_Flora_02	¡Joyería! ¡Es increíble! Tiene un corazón grabado...	Flora	Neutral	4
-CS08End_Caroll_03	<Caroll> Nunca he visto nada tan hermoso. Aparte de mi autógrafo de Spike.	Caroll	Happy	4
+CS08Intro_Aurelie_03	<AurÃ©lie> Nos has dado un susto a todos.	AurÃ©lie	Happy	1
+CS08Intro_Patrick_04	<Patrick> Me alegro de que sigas con nosotros. Tu... energÃ­a es un impulso para esta academia.	Patrick	Happy	4
+CS08Intro_Spike_05	<Spike> Ni la mitad. La chica es un tornado. DeberÃ­as haber visto el golpe que le dio a Dungbrain. 	Spike	Happy	4
+CS08Intro_Harry_06	<Harry> Y tendrÃ¡ una prueba del mÃ­o si vuelve a causar problemas...	Harry	Angry	3
+CS08Intro_Miguel_07	<Miguel> He escrito un poema para despedirme. No es nada especial... pero supongo que ya es inÃºtil.	Miguel	Badmood	6
+CS08Intro_Flora_08	DÃ¡melo de todos modos Miguel. Me emociona que hayas pensado en ello. 	Flora	Happy	3
+CS08Intro_Caroll_09	<Caroll> Â¡TardÃ³ horas en escribirlo!	Caroll	Happy	1
+CS08Intro_Miguel_10	<Miguel> CarollÂ…	Miguel	Badmood	1
+CS08Intro_Samuel_11	<Samuel> Â¡Ahora podrÃ© descubrir tu secreto y ganarte a las cartas!	Samuel	Happy	12
+CS08Intro_Flora_12	Bien, Â¿quÃ© tal si hacemos una pequeÃ±a fiesta de Navidad?	Flora	Neutral	2
+CS08Intro_Ensemble_13	<Juntos> Â¡Â¡Â¡Â¡SÃ­!!!!	Ensemble	Happy	
+CS08End_Flora_01	SÃ³lo tengo que abrir este...	Flora	Happy	1
+CS08End_Flora_02	Â¡JoyerÃ­a! Â¡Es increÃ­ble! Tiene un corazÃ³n grabado...	Flora	Neutral	4
+CS08End_Caroll_03	<Caroll> Nunca he visto nada tan hermoso. Aparte de mi autÃ³grafo de Spike.	Caroll	Happy	4
 CS08End_Flora_04	Es exactamente el mismo tipo que me ofrecieron en Italia. 	Flora	Neutral	3
-CS08End_Aurelie_05	<Aurélie> ¿Lo que quieres decir es que no fue un regalo de los de Pinewood y que debió venir de uno de nosotros?	Aurélie	Neutral	4
+CS08End_Aurelie_05	<AurÃ©lie> Â¿Lo que quieres decir es que no fue un regalo de los de Pinewood y que debiÃ³ venir de uno de nosotros?	AurÃ©lie	Neutral	4
 CS08End_Caroll_06	<Caroll> Uno de los chicos, quieres decir...	Caroll	Happy	1
-CS08End_Samuel_07	<Samuel> ¿Qué hemos hecho ahora?	Samuel	Badmood	1
-Compet04Start_Flora_01	Un paso más y lo lamentarás.	Flora	Angry	2
-Compet04Start_Esteban_02	<Esteban> ¿Conoces a esta gente?	Esteban	Angry	1
-Compet04Start_Flora_03	Son mis padres. ¿De dónde sacaste eso?	Flora	Angry	2
-Compet04Start_Esteban_04	<Esteban> Has visto hasta dónde llego para conseguir lo que quiero, ¿verdad?	Esteban	Angry	3
-Compet04Start_Flora_05	¿Qué tienen que ver mis padres con esto?	Flora	Angry	1
-Compet04Start_Esteban_06	<Esteban> Digamos que financieramente su pequeño negocio pende de un hilo. Tengo conexiones bien situadas que podrían cortar ese hilo, o algo peor. Todo lo que tengo que hacer es chasquear los dedos. 	Esteban	Neutral	11
-Compet04Start_Flora_07	¿Qué? No caerías tan bajo...	Flora	Badmood	2
-Compet04Start_Esteban_08	<Esteban> Sabes muy bien que lo haría. Así que esto es lo que quiero: pierde la competición y tu familia sigue sonriendo. Pero, ojo, por perder quiero decir fracasar; quiero ver las peores puntuaciones posibles en todas las disciplinas. 	Esteban	Angry	13
+CS08End_Samuel_07	<Samuel> Â¿QuÃ© hemos hecho ahora?	Samuel	Badmood	1
+Compet04Start_Flora_01	Un paso mÃ¡s y lo lamentarÃ¡s.	Flora	Angry	2
+Compet04Start_Esteban_02	<Esteban> Â¿Conoces a esta gente?	Esteban	Angry	1
+Compet04Start_Flora_03	Son mis padres. Â¿De dÃ³nde sacaste eso?	Flora	Angry	2
+Compet04Start_Esteban_04	<Esteban> Has visto hasta dÃ³nde llego para conseguir lo que quiero, Â¿verdad?	Esteban	Angry	3
+Compet04Start_Flora_05	Â¿QuÃ© tienen que ver mis padres con esto?	Flora	Angry	1
+Compet04Start_Esteban_06	<Esteban> Digamos que financieramente su pequeÃ±o negocio pende de un hilo. Tengo conexiones bien situadas que podrÃ­an cortar ese hilo, o algo peor. Todo lo que tengo que hacer es chasquear los dedos. 	Esteban	Neutral	11
+Compet04Start_Flora_07	Â¿QuÃ©? No caerÃ­as tan bajo...	Flora	Badmood	2
+Compet04Start_Esteban_08	<Esteban> Sabes muy bien que lo harÃ­a. AsÃ­ que esto es lo que quiero: pierde la competiciÃ³n y tu familia sigue sonriendo. Pero, ojo, por perder quiero decir fracasar; quiero ver las peores puntuaciones posibles en todas las disciplinas. 	Esteban	Angry	13
 Compet04Start_Flora_09	Como puedes...	Flora	Badmood	2
-Compet04Start_Esteban_10	<Esteban> ¡No olvides que lo que cuenta es perder, campeona! ...	Esteban	Neutral	3
-Week04EndA_Flora_01	Amenazó a mis padres, Jade. ¿Qué podía hacer? Es un desastre...	Flora	Badmood	
-Week04EndA_Jade_02	<Jade> Has reaccionado bien. Nadie sabe hasta dónde sería capaz de llegar. Patrick informó a las autoridades y están al acecho. No intentará nada ahora, o será la cárcel otra vez para él. También tiene prohibido acercarse a ti.	Jade	Neutral	11
-Week04EndA_Flora_03	Pero consiguió lo que quería. Fuimos eliminados de la competición.	Flora	Badmood	
-Week04EndA_Jade_04	<Jade> Todavía hay una esperanza. Si derrotamos a una academia de mayor categoría que Beachwood, podremos participar en la final y vengarnos de Esteban.	Jade	Neutral	9
-Week04EndA_Flora_05	Pero pensé que Beachwood era la mejor.	Flora	Neutral	
-Week04EndA_Jade_06	<Jade> No exactamente. Todavía hay una academia que Esteban y su influencia financiera no han conseguido hundir. 	Jade	Neutral	6
-Week04EndA_Flora_07	Pero, seguramente nuestra derrota también nos ha perjudicado económicamente, ¿no es así? He oído que nuestros patrocinadores iban a ofrecer la Academia Sycamore al mejor postor. 	Flora	Badmood	
+Compet04Start_Esteban_10	<Esteban> Â¡No olvides que lo que cuenta es perder, campeona! ...	Esteban	Neutral	3
+Week04EndA_Flora_01	AmenazÃ³ a mis padres, Jade. Â¿QuÃ© podÃ­a hacer? Es un desastre...	Flora	Badmood	
+Week04EndA_Jade_02	<Jade> Has reaccionado bien. Nadie sabe hasta dÃ³nde serÃ­a capaz de llegar. Patrick informÃ³ a las autoridades y estÃ¡n al acecho. No intentarÃ¡ nada ahora, o serÃ¡ la cÃ¡rcel otra vez para Ã©l. TambiÃ©n tiene prohibido acercarse a ti.	Jade	Neutral	11
+Week04EndA_Flora_03	Pero consiguiÃ³ lo que querÃ­a. Fuimos eliminados de la competiciÃ³n.	Flora	Badmood	
+Week04EndA_Jade_04	<Jade> TodavÃ­a hay una esperanza. Si derrotamos a una academia de mayor categorÃ­a que Beachwood, podremos participar en la final y vengarnos de Esteban.	Jade	Neutral	9
+Week04EndA_Flora_05	Pero pensÃ© que Beachwood era la mejor.	Flora	Neutral	
+Week04EndA_Jade_06	<Jade> No exactamente. TodavÃ­a hay una academia que Esteban y su influencia financiera no han conseguido hundir. 	Jade	Neutral	6
+Week04EndA_Flora_07	Pero, seguramente nuestra derrota tambiÃ©n nos ha perjudicado econÃ³micamente, Â¿no es asÃ­? He oÃ­do que nuestros patrocinadores iban a ofrecer la Academia Sycamore al mejor postor. 	Flora	Badmood	
 Week04EndA_Jade_08	<Jade> Eso es cierto. Pero una vieja amiga se ha ofrecido a ayudar. Vamos a ser acogidos por otra academia: la Cherry Tree. 	Jade	Neutral	6
-Week04EndA_Flora_09	¿Y dónde está?	Flora	Neutral	
-Week04EndA_Jade_10	<Jade> En China, nos vamos mañana.	Jade	Neutral	1
-Week04EndB_Jade_01	<Jade> Kiew, eres nuestra salvación.	Jade	Happy	1
-Week04EndB_Kiew_02	<Kiew> Bienvenida a mi Academia, Jade. Te advierto que la competencia conmigo será dura; no te lo voy a poner fácil.	Kiew	Angry	6
-Week04EndB_Jade_03	<Jade> Vale, deja de hablar de forma dura, a mí no me vale.	Jade	Happy	2
+Week04EndA_Flora_09	Â¿Y dÃ³nde estÃ¡?	Flora	Neutral	
+Week04EndA_Jade_10	<Jade> En China, nos vamos maÃ±ana.	Jade	Neutral	1
+Week04EndB_Jade_01	<Jade> Kiew, eres nuestra salvaciÃ³n.	Jade	Happy	1
+Week04EndB_Kiew_02	<Kiew> Bienvenida a mi Academia, Jade. Te advierto que la competencia conmigo serÃ¡ dura; no te lo voy a poner fÃ¡cil.	Kiew	Angry	6
+Week04EndB_Jade_03	<Jade> Vale, deja de hablar de forma dura, a mÃ­ no me vale.	Jade	Happy	2
 Week04EndB_Kiew_04	<Kiew> Estoy muy contenta de verte	Kiew	Happy	1
-Week04EndB_Flora_05	<Jade> Así que esta es la Academia Cherry Tree...	Flora	Happy	
-Week04EndB_Kiew_06	<Kiew> Lo que ves es el fruto de una profunda reflexión sobre el arte de la vida y la calma interior. Aquí aprendemos a canalizar la energía violenta y convertirla en una fuerza de bondad. No hay victoria sin calma; no hay control sin paz. Los alumnos de la Academia suelen ser almas atormentadas, incapaces de dominar sus propias emociones. Vienen aquí para encontrar la paz en su ser. 	Kiew	Neutral	22
+Week04EndB_Flora_05	<Jade> AsÃ­ que esta es la Academia Cherry Tree...	Flora	Happy	
+Week04EndB_Kiew_06	<Kiew> Lo que ves es el fruto de una profunda reflexiÃ³n sobre el arte de la vida y la calma interior. AquÃ­ aprendemos a canalizar la energÃ­a violenta y convertirla en una fuerza de bondad. No hay victoria sin calma; no hay control sin paz. Los alumnos de la Academia suelen ser almas atormentadas, incapaces de dominar sus propias emociones. Vienen aquÃ­ para encontrar la paz en su ser. 	Kiew	Neutral	22
 Week04EndB_Ginger_07	<Ginger> O porque es la escuela con las mejores vistas que conozco.	Ginger	Happy	2
-Week04EndB_Jade_08	<Jade> ¡Ginger! ¿Qué estás haciendo aquí?	Jade	Happy	1
-Week04EndB_Ginger_09	<Ginger> ¡Me alegro de verte, Jade!	Ginger	Happy	2
-Week04EndB_Kiew_10	<Kiew> Ginger vino hace dos meses. Nunca perdimos el contacto y Ginger lo estaba pasando mal. Así que me preguntó si podía acompañarme. 	Kiew	Neutral	7
-Week04EndB_Ginger_11	<Ginger> Es el mejor lugar para criar a una niña.	Ginger	Neutral	1
-Week04EndB_Jade_12	<Jade> ¿Dónde está el padre?	Jade	Neutral	1
-Week04EndB_Kiew_13	<Kiew> A quién le importa. Lo que importa es el futuro. Mírala, ¿no es magnífica? 	Kiew	Neutral	6
-Week04EndB_Jade_14	<Jade> Sí, Kiew lo es.	Jade	Neutral	1
-Week04EndB_Flora_15	Creo que voy a ser feliz aquí. 	Flora	Happy	
-CS09Intro_Miguel_01	<Miguel> Eh, ¿estoy en el camino?	Miguel	Neutral	2
-CS09Intro_Flora_02	En realidad, sí, pero viendo que estás aquí...	Flora	Neutral	2
-CS09Intro_Miguel_03	<Miguel> Sólo vine a decir...	Miguel	Neutral	2
-CS09Intro_Flora_04	¿Qué?	Flora	Happy	1
-CS09Intro_Miguel_05	<Miguel> Eh... Los otros están organizando una noche de fogata y pensé que... si te dejaba un mapa, podrías querer unirte a nosotros... Si te parece bien, por supuesto...	Miguel	Neutral	11
-CS09Intro_Flora_06	No hay tiempo para divertirse. Por si no lo sabéis, esta competición podría ser la última de nuestra historia, ¿y lo único que se os ocurre es hacer hogueras? Gran trabajo en equipo, bien hecho. 	Flora	Angry	9
+Week04EndB_Jade_08	<Jade> Â¡Ginger! Â¿QuÃ© estÃ¡s haciendo aquÃ­?	Jade	Happy	1
+Week04EndB_Ginger_09	<Ginger> Â¡Me alegro de verte, Jade!	Ginger	Happy	2
+Week04EndB_Kiew_10	<Kiew> Ginger vino hace dos meses. Nunca perdimos el contacto y Ginger lo estaba pasando mal. AsÃ­ que me preguntÃ³ si podÃ­a acompaÃ±arme. 	Kiew	Neutral	7
+Week04EndB_Ginger_11	<Ginger> Es el mejor lugar para criar a una niÃ±a.	Ginger	Neutral	1
+Week04EndB_Jade_12	<Jade> Â¿DÃ³nde estÃ¡ el padre?	Jade	Neutral	1
+Week04EndB_Kiew_13	<Kiew> A quiÃ©n le importa. Lo que importa es el futuro. MÃ­rala, Â¿no es magnÃ­fica? 	Kiew	Neutral	6
+Week04EndB_Jade_14	<Jade> SÃ­, Kiew lo es.	Jade	Neutral	1
+Week04EndB_Flora_15	Creo que voy a ser feliz aquÃ­. 	Flora	Happy	
+CS09Intro_Miguel_01	<Miguel> Eh, Â¿estoy en el camino?	Miguel	Neutral	2
+CS09Intro_Flora_02	En realidad, sÃ­, pero viendo que estÃ¡s aquÃ­...	Flora	Neutral	2
+CS09Intro_Miguel_03	<Miguel> SÃ³lo vine a decir...	Miguel	Neutral	2
+CS09Intro_Flora_04	Â¿QuÃ©?	Flora	Happy	1
+CS09Intro_Miguel_05	<Miguel> Eh... Los otros estÃ¡n organizando una noche de fogata y pensÃ© que... si te dejaba un mapa, podrÃ­as querer unirte a nosotros... Si te parece bien, por supuesto...	Miguel	Neutral	11
+CS09Intro_Flora_06	No hay tiempo para divertirse. Por si no lo sabÃ©is, esta competiciÃ³n podrÃ­a ser la Ãºltima de nuestra historia, Â¿y lo Ãºnico que se os ocurre es hacer hogueras? Gran trabajo en equipo, bien hecho. 	Flora	Angry	9
 CS09Intro_Flora_07	Realmente tengo que aprender a controlar la ira...	Flora	Badmood	2
-CS10Intro_Aurelie_01	<Aurélie> Te ves mucho mejor que con tu vieja chaqueta de los ochenta.	Aurélie	Happy	3
-CS10Intro_Miguel_02	<Miguel> Me gustaban los años ochenta. Tenía algo esencial que hemos perdido por el camino.	Miguel	Badmood	5
-CS10Intro_Aurelie_03	<Aurélie> ¡No importa! ¡Mírate en el espejo!	Aurélie	Neutral	3
-CS10Intro_Miguel_04	<Miguel> Parezco un pingüino.	Miguel	Badmood	1
-CS10Intro_Caroll_05	<Caroll> ¡Un pingüino muy encantador!	Caroll	Happy	2
-CS10Intro_Miguel_06	<Miguel> ¿Eso crees?	Miguel	Happy	1
-CS10Intro_Caroll_07	<Caroll> Si todos los pingüinos fuesen tan buenos, reservaría inmediatamente un billete para la Antártida.	Caroll	Happy	5
-CS10Intro_Aurelie_08	<Aurélie> ¿Y despedirte de los conciertos de Spike?	Aurélie	Neutral	2
+CS10Intro_Aurelie_01	<AurÃ©lie> Te ves mucho mejor que con tu vieja chaqueta de los ochenta.	AurÃ©lie	Happy	3
+CS10Intro_Miguel_02	<Miguel> Me gustaban los aÃ±os ochenta. TenÃ­a algo esencial que hemos perdido por el camino.	Miguel	Badmood	5
+CS10Intro_Aurelie_03	<AurÃ©lie> Â¡No importa! Â¡MÃ­rate en el espejo!	AurÃ©lie	Neutral	3
+CS10Intro_Miguel_04	<Miguel> Parezco un pingÃ¼ino.	Miguel	Badmood	1
+CS10Intro_Caroll_05	<Caroll> Â¡Un pingÃ¼ino muy encantador!	Caroll	Happy	2
+CS10Intro_Miguel_06	<Miguel> Â¿Eso crees?	Miguel	Happy	1
+CS10Intro_Caroll_07	<Caroll> Si todos los pingÃ¼inos fuesen tan buenos, reservarÃ­a inmediatamente un billete para la AntÃ¡rtida.	Caroll	Happy	5
+CS10Intro_Aurelie_08	<AurÃ©lie> Â¿Y despedirte de los conciertos de Spike?	AurÃ©lie	Neutral	2
 CS10Intro_Caroll_09	<Caroll> Mmm, es cierto...	Caroll	Badmood	1
-CS10Intro_Miguel_10	<Miguel> Entonces, ¿qué opinas?	Miguel	Badmood	1
-CS10Intro_Aurelie_11	<Aurélie> ¡Espléndido, te lo digo!	Aurélie	Happy	1
-CS10Intro_Miguel_12	<Miguel> ¿Samuel?	Miguel	Neutral	1
-CS10Intro_Samuel_13	<Samuel> ¡JAJAJAJAJA! ¡Esto es increíble!	Samuel	Happy	3
-CS10Intro_Aurelie_14	<Aurélie> ¡Samuel! ¡Largo! ¡Ahora!	Aurélie	Angry	2
-CS10Intro_Caroll_15	<Caroll> No le hagas caso. La dejarás sin aliento.	Caroll	Happy	3
-CS10Intro_Miguel_16	<Miguel> Lo único que espero es que haya encontrado lo que le envié y quiera saber más. 	Miguel	Neutral	4
-CS10End_Flora_01	¿No se supone que debe decir algo ahora, señor poeta...?	Flora	Neutral	
+CS10Intro_Miguel_10	<Miguel> Entonces, Â¿quÃ© opinas?	Miguel	Badmood	1
+CS10Intro_Aurelie_11	<AurÃ©lie> Â¡EsplÃ©ndido, te lo digo!	AurÃ©lie	Happy	1
+CS10Intro_Miguel_12	<Miguel> Â¿Samuel?	Miguel	Neutral	1
+CS10Intro_Samuel_13	<Samuel> Â¡JAJAJAJAJA! Â¡Esto es increÃ­ble!	Samuel	Happy	3
+CS10Intro_Aurelie_14	<AurÃ©lie> Â¡Samuel! Â¡Largo! Â¡Ahora!	AurÃ©lie	Angry	2
+CS10Intro_Caroll_15	<Caroll> No le hagas caso. La dejarÃ¡s sin aliento.	Caroll	Happy	3
+CS10Intro_Miguel_16	<Miguel> Lo Ãºnico que espero es que haya encontrado lo que le enviÃ© y quiera saber mÃ¡s. 	Miguel	Neutral	4
+CS10End_Flora_01	Â¿No se supone que debe decir algo ahora, seÃ±or poeta...?	Flora	Neutral	
 CS10End_Miguel_02	<Miguel> Yo... Yo...	Miguel	Neutral	
-CS10End_Flora_03	Dilo. Quiero oírlo.	Flora	Happy	
+CS10End_Flora_03	Dilo. Quiero oÃ­rlo.	Flora	Happy	
 CS10End_Miguel_04	<Miguel> Te quiero...	Miguel	Neutral	
-CS10End_Flora_05	Y yo también te quiero. Y no tiene nada que ver con tu nuevo look.	Flora	Happy	
+CS10End_Flora_05	Y yo tambiÃ©n te quiero. Y no tiene nada que ver con tu nuevo look.	Flora	Happy	
 CS11Intro_Harry_01	<Harry> No podemos haber llegado tan lejos para no ir a ninguna parte.	Harry	Angry	2
-CS11Intro_Jade_02	<Jade> Lo siento, Harry. Esa es nuestra posición. Sin fondos, no hay final. Nuestra deuda está al límite.	Jade	Badmood	5
-CS11Intro_Patrick_03	<Patrick> ¡Ese cretino de Esteban finalmente nos habrá paralizado! 	Patrick	Angry	3
-CS11Intro_Harry_04	<Harry> Si tuviera dos piernas buenas, iría a darle a ese pícaro un pedazo de mi mente. 	Harry	Angry	2
-CS11Intro_Jade_05	<Jade> Lo peor es que no ha hecho nada ilegal. Tenemos que pagar los préstamos.	Jade	Badmood	4
-CS11Intro_Flora_06	¿Cuánto necesitamos para competir?	Flora	Neutral	2
-CS11Intro_Jade_07	<Jade> 150.000 créditos. Tus ahorros no lo cubrirán, me temo.	Jade	Badmood	3
-CS11Intro_Flora_08	Déjalo en mis manos. Te conseguiré el dinero, antes de que anochezca.	Flora	Happy	2
-CS11Intro_Jade_09	<Jade> No seas estúpida, vuelve.	Jade	Badmood	1
-CS11Intro_Patrick_10	<Patrick> Déjala creer. Esta competición significa tanto para ella como para ti. ¿Sabes por qué? 	Patrick	Neutral	5
-CS11Intro_Jade_11	<Jade> Lo sé. Pero está luchando contra los molinos de viento. 	Jade	Badmood	2
-CS11Intro_Harry_12	<Harry> Y no es la primera. Lo está intentando, eso es lo que cuenta. Y los molinos de viento a veces esconden sorpresas. 	Harry	Neutral	5
-CS11End_Flora_01	Buenas tardes a todos. Aquí tienen: ¡150.000 créditos! No los gastes todos a la vez.	Flora	Happy	5
-CS11End_Flora_02	Si puedo serviros en algo más, no dudéis en llamarme. 	Flora	Happy	2
-CS11End_Harry_03	<Harry> No voy a preguntar de dónde salió ese dinero.	Harry	Happy	2
-CS11End_Jade_04	<Jade> Esta chica es increíble.	Jade	Happy	1
-CS11End_Patrick_05	<Patrick> Como tú, Jade.	Patrick	Happy	1
-CS12Intro_Flora_01	¿Miguel? ¿Estás ahí? No es tu reunión más creativa. ¿Te estás quedando sin fuerzas?	Flora	Happy	6
-CS12Intro_Esteban_02	<Esteban> Hago lo que puedo, cariño...	Esteban	Neutral	1
-CS12Intro_Flora_03	¡Esteban! ¡¿Vienes a amenazarme otra vez?!	Flora	Angry	1
-CS12Intro_Esteban_04	<Esteban> Se acabaron las amenazas. No, ahora es el momento de la acción....	Esteban	Angry	2
-CS12Intro_Esteban_05	<Esteban> Lesiones antes de la competición Siempre tan comunes...	Esteban	Angry	4
-CS12Intro_Flora_06	¡No te acerques!	Flora	Angry	1
-CS12Intro_Flora_07	¡Te arrepentirás de esto!	Flora	Angry	1
-CS12Intro_Esteban_08	<Esteban> ¡Ahora!	Esteban	Angry	1
-CS12IntroB_Flora_01	¡Ayuda! ¡Ayuda! ¡Que alguien me ayude! ¡¡¡¡Ayudadme!!!!	Flora	Badmood	
-EndGame_Jade_01	<Jade> Aquí está el hombre detrás de tu éxito. Quería presentaros.	Jade		3
-EndGame_Flora_02	Gracias por todo, Birdy. Nunca olvidaré tu academia y lo que representas...	Flora		4
+CS11Intro_Jade_02	<Jade> Lo siento, Harry. Esa es nuestra posiciÃ³n. Sin fondos, no hay final. Nuestra deuda estÃ¡ al lÃ­mite.	Jade	Badmood	5
+CS11Intro_Patrick_03	<Patrick> Â¡Ese cretino de Esteban finalmente nos habrÃ¡ paralizado! 	Patrick	Angry	3
+CS11Intro_Harry_04	<Harry> Si tuviera dos piernas buenas, irÃ­a a darle a ese pÃ­caro un pedazo de mi mente. 	Harry	Angry	2
+CS11Intro_Jade_05	<Jade> Lo peor es que no ha hecho nada ilegal. Tenemos que pagar los prÃ©stamos.	Jade	Badmood	4
+CS11Intro_Flora_06	Â¿CuÃ¡nto necesitamos para competir?	Flora	Neutral	2
+CS11Intro_Jade_07	<Jade> 150.000 crÃ©ditos. Tus ahorros no lo cubrirÃ¡n, me temo.	Jade	Badmood	3
+CS11Intro_Flora_08	DÃ©jalo en mis manos. Te conseguirÃ© el dinero, antes de que anochezca.	Flora	Happy	2
+CS11Intro_Jade_09	<Jade> No seas estÃºpida, vuelve.	Jade	Badmood	1
+CS11Intro_Patrick_10	<Patrick> DÃ©jala creer. Esta competiciÃ³n significa tanto para ella como para ti. Â¿Sabes por quÃ©? 	Patrick	Neutral	5
+CS11Intro_Jade_11	<Jade> Lo sÃ©. Pero estÃ¡ luchando contra los molinos de viento. 	Jade	Badmood	2
+CS11Intro_Harry_12	<Harry> Y no es la primera. Lo estÃ¡ intentando, eso es lo que cuenta. Y los molinos de viento a veces esconden sorpresas. 	Harry	Neutral	5
+CS11End_Flora_01	Buenas tardes a todos. AquÃ­ tienen: Â¡150.000 crÃ©ditos! No los gastes todos a la vez.	Flora	Happy	5
+CS11End_Flora_02	Si puedo serviros en algo mÃ¡s, no dudÃ©is en llamarme. 	Flora	Happy	2
+CS11End_Harry_03	<Harry> No voy a preguntar de dÃ³nde saliÃ³ ese dinero.	Harry	Happy	2
+CS11End_Jade_04	<Jade> Esta chica es increÃ­ble.	Jade	Happy	1
+CS11End_Patrick_05	<Patrick> Como tÃº, Jade.	Patrick	Happy	1
+CS12Intro_Flora_01	Â¿Miguel? Â¿EstÃ¡s ahÃ­? No es tu reuniÃ³n mÃ¡s creativa. Â¿Te estÃ¡s quedando sin fuerzas?	Flora	Happy	6
+CS12Intro_Esteban_02	<Esteban> Hago lo que puedo, cariÃ±o...	Esteban	Neutral	1
+CS12Intro_Flora_03	Â¡Esteban! Â¡Â¿Vienes a amenazarme otra vez?!	Flora	Angry	1
+CS12Intro_Esteban_04	<Esteban> Se acabaron las amenazas. No, ahora es el momento de la acciÃ³n....	Esteban	Angry	2
+CS12Intro_Esteban_05	<Esteban> Lesiones antes de la competiciÃ³n Siempre tan comunes...	Esteban	Angry	4
+CS12Intro_Flora_06	Â¡No te acerques!	Flora	Angry	1
+CS12Intro_Flora_07	Â¡Te arrepentirÃ¡s de esto!	Flora	Angry	1
+CS12Intro_Esteban_08	<Esteban> Â¡Ahora!	Esteban	Angry	1
+CS12IntroB_Flora_01	Â¡Ayuda! Â¡Ayuda! Â¡Que alguien me ayude! Â¡Â¡Â¡Â¡Ayudadme!!!!	Flora	Badmood	
+EndGame_Jade_01	<Jade> AquÃ­ estÃ¡ el hombre detrÃ¡s de tu Ã©xito. QuerÃ­a presentaros.	Jade		3
+EndGame_Flora_02	Gracias por todo, Birdy. Nunca olvidarÃ© tu academia y lo que representas...	Flora		4
 EndGame_Jade_03	<Jade> Estoy orgullosa de ti.	Jade		1
-EndGame_Flora_04	Gracias por todo, Jade. Birdy puede descansar en paz ahora, su academia está en buenas manos.	Flora		5
-EndGame_Patrick_05	<Patrick> ¿Veniis? ¡La pequeña se va a resfriar!	Patrick		2
-EndGame_Harry_06	<Harry> Cierto, ¡volvamos a la academia! ¡Esta noche me apetece preparar un raro y viejo festín de judías!	Harry		3
-EndGame_Jade&Flora_07	<Jade y Flora> ¡Ya vamos!	Jade et Flora		3
-EndGame2_Flora_01	Y ahí se acaba mi historia. Me encantaría seguir contando cómo la victoria cambió mi vida y muchas otras cosas. ¡También me gustaría contaros lo que pasó con Caroll, Aurélie y Samuel! Pensé que perdería el contacto con ellos, pero en realidad nos hicimos completamente inseparables (suspiros). En fin, es una larga historia y os la contaré en otro momento, lo prometo. Eso es todo por el momento. Considera que tienes suerte; ya no tienes que aguantarme, ¡tanto ladrar como morder ;-)!	Flora	Happy	
-EndGame2_Flora_02	... ¿Eh? Oh, ¿todavía estás aquí? ... ¿y qué hay del "galán" Miguel? ¿No eres tú el curioso? ;-)	Flora	Happy	
+EndGame_Flora_04	Gracias por todo, Jade. Birdy puede descansar en paz ahora, su academia estÃ¡ en buenas manos.	Flora		5
+EndGame_Patrick_05	<Patrick> Â¿Veniis? Â¡La pequeÃ±a se va a resfriar!	Patrick		2
+EndGame_Harry_06	<Harry> Cierto, Â¡volvamos a la academia! Â¡Esta noche me apetece preparar un raro y viejo festÃ­n de judÃ­as!	Harry		3
+EndGame_Jade&Flora_07	<Jade y Flora> Â¡Ya vamos!	Jade et Flora		3
+EndGame2_Flora_01	Y ahÃ­ se acaba mi historia. Me encantarÃ­a seguir contando cÃ³mo la victoria cambiÃ³ mi vida y muchas otras cosas. Â¡TambiÃ©n me gustarÃ­a contaros lo que pasÃ³ con Caroll, AurÃ©lie y Samuel! PensÃ© que perderÃ­a el contacto con ellos, pero en realidad nos hicimos completamente inseparables (suspiros). En fin, es una larga historia y os la contarÃ© en otro momento, lo prometo. Eso es todo por el momento. Considera que tienes suerte; ya no tienes que aguantarme, Â¡tanto ladrar como morder ;-)!	Flora	Happy	
+EndGame2_Flora_02	... Â¿Eh? Oh, Â¿todavÃ­a estÃ¡s aquÃ­? ... Â¿y quÃ© hay del "galÃ¡n" Miguel? Â¿No eres tÃº el curioso? ;-)	Flora	Happy	
+//rubnium
