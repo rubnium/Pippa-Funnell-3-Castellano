@@ -24,3 +24,9 @@ Con el juego ya instalado:
 - Puede que existan errores de ortografía accidentales, algunos no lo son haciendo que el juego siga teniendo la misma experiencia al igual que al jugarlo con el idioma original
 - Posiblemente existan textos que no tengan que ver con lo que suceda en la historia o en pantalla, o traducciones incorrectas
 - Le falta un poco de testeo, por lo que también podrían aparecer carácteres ilegibles
+
+
+## Futuras versiones
+- Corregir errores
+- Editar y traducir texturas
+- Añadir soporte de WinGUp https://wingup.org/
